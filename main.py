@@ -975,7 +975,7 @@ Exigences SEO & mise en forme:
 - Titre H1: <h1>{title}</h1>
 - TOC ancré: <nav id='toc'> avec liens vers CHAQUE H2 (ancres id)
 - Structure: H2 (sections), H3 (sous-sections)
-- Laisse une LIGNE BLANCHE entre chaque titre et chaque paragraphe
+- Laisse deux LIGNE BLANCHE entre chaque titre et une LIGNE BLANCHE entre chaque paragraphe
 - Utilise des listes à puces (ul/li) quand pertinent
 - Mets en valeur les mots importants/clés avec <strong>, <em>, et du monospace <code> pour commandes/extraits
 - pas de *mot* ni de code Markdown
