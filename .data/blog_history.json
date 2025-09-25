@@ -23,7 +23,9 @@
     "25eb1e1f9e82984783316924ab53e3a5ec5fb5ec",
     "54e72dcb6d4163fe9c4b7ca53e2d75e4508236b9",
     "20f768ace8a654473083da0c8d5373a73390a275",
-    "ad5b6c652e4d774bc3237fb571d061fe000c9de5"
+    "ad5b6c652e4d774bc3237fb571d061fe000c9de5",
+    "a89267ee50702c2852096e93950f878184b99129",
+    "83a6197b3fb1633d516dde9f549bb635d1fa4033"
   ],
   "days": {
     "2025-09-14": [
@@ -69,9 +71,13 @@
     "2025-09-24": [
       "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox",
       "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium"
+    ],
+    "2025-09-25": [
+      "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement",
+      "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android"
     ]
   },
-  "cat_index": 24,
+  "cat_index": 26,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -97,8 +103,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": 1,
     "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": 1,
     "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": 1,
     "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": 0,
     "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": 0,
     "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": 0,
@@ -875,8 +881,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": [
       "🤯 YouTube Premium: Téléchargez légalement & boostez votre efficacité !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": [],
-    "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": [],
+    "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": [
+      "🤯 Stockage GRATUIT: Maîtrisez Google Drive et boostez votre prod!"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": [
+      "⚡ Productivité max: Accédez à votre PC depuis Android, c'est facile !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": [],
     "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": [],
     "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": [],
