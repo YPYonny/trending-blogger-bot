@@ -27,7 +27,9 @@
     "a89267ee50702c2852096e93950f878184b99129",
     "83a6197b3fb1633d516dde9f549bb635d1fa4033",
     "827e9d67c3a78c397f30b0a41bf6e48465bc424d",
-    "ca5c049058d23ba88b3b8e26821777a823b2ab59"
+    "ca5c049058d23ba88b3b8e26821777a823b2ab59",
+    "93b84cc00ea4140aabd1290ca72fc6b568b97b82",
+    "97cde93711d35845a20cc3ecbd3514e376ef0b0d"
   ],
   "days": {
     "2025-09-14": [
@@ -81,9 +83,13 @@
     "2025-09-26": [
       "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement",
       "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application"
+    ],
+    "2025-09-27": [
+      "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité",
+      "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire"
     ]
   },
-  "cat_index": 28,
+  "cat_index": 30,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -113,8 +119,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": 1,
     "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": 1,
     "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": 1,
     "ASTUCES ET PRODUCTIVITÉ - Télécharger ses photos iCloud sur PC": 0,
     "ASTUCES ET PRODUCTIVITÉ - Convertir une page web en fichier PDF": 0,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Keep pour prendre des notes rapides": 0,
@@ -899,8 +905,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": [
       "🤫 Masquer fichier Android SANS appli ? L'astuce PRO dévoilée !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": [],
-    "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": [],
+    "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": [
+      "🤯 Incroyable ! Compressez vos images sans AUCUNE perte de qualité."
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": [
+      "🤯 Inbox clean: L'astuce email temporaire INDISPENSABLE!"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Télécharger ses photos iCloud sur PC": [],
     "ASTUCES ET PRODUCTIVITÉ - Convertir une page web en fichier PDF": [],
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Keep pour prendre des notes rapides": [],
