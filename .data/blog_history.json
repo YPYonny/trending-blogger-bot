@@ -37,7 +37,9 @@
     "276eff1fc55a13a5893ebdc687834b257f179a63",
     "5bb161d0e78c576b0d6c66ed9cbfd1648dd99bec",
     "c49fa4380382f55820caf673fb960c4b7d7db9c6",
-    "0417825115ed7a5e891fe829f195a4695a1e4b02"
+    "0417825115ed7a5e891fe829f195a4695a1e4b02",
+    "295baea578115c5a53e11aa1a38bb6594f2fc2e1",
+    "dd924b399f16d5f6996c3c7d6bd6245c7ace6ba7"
   ],
   "days": {
     "2025-09-14": [
@@ -111,9 +113,13 @@
     "2025-10-01": [
       "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email",
       "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android"
+    ],
+    "2025-10-02": [
+      "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion",
+      "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise"
     ]
   },
-  "cat_index": 38,
+  "cat_index": 40,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -153,8 +159,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": 1,
     "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": 1,
     "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": 1,
     "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue": 0,
     "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB": 0,
     "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": 0,
@@ -959,8 +965,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": [
       "📱 Secret Android: la capture d'écran défilante enfin facile !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": [],
-    "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": [],
+    "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": [
+      "🔒 VPN : Le secret ultime pour une connexion ultra-protégée !"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": [
+      "📍 Secret dévoilé : Retrouvez l'origine de n'importe quelle photo!"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue": [],
     "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB": [],
     "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": [],
