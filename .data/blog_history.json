@@ -43,7 +43,9 @@
     "fe5545604bdaf264ef03668be364d1a78b00ef22",
     "8b29a4a21f133d9a2f3362b9a5ef0c0ee5449e70",
     "c3a9c8323d1f35ffe1657bbe96570402ded307bf",
-    "4c7d385d09967208b812b7d480fe4d28beb94e7a"
+    "4c7d385d09967208b812b7d480fe4d28beb94e7a",
+    "257913bd70484a0bb4e909343dfc9a8edcb79509",
+    "03c69a72515cd398a536073b47833b4d2464d99b"
   ],
   "days": {
     "2025-09-14": [
@@ -129,9 +131,13 @@
     "2025-10-04": [
       "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android",
       "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important"
+    ],
+    "2025-10-05": [
+      "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows",
+      "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone"
     ]
   },
-  "cat_index": 44,
+  "cat_index": 46,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -177,8 +183,8 @@
     "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB": 1,
     "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": 1,
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": 1,
-    "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": 0,
-    "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": 0,
+    "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": 1,
+    "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": 1,
     "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": 0,
     "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": 0,
     "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": 0,
@@ -995,8 +1001,12 @@
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": [
       "🛡️ WhatsApp: Ne perdez PLUS jamais vos messages importants !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": [],
-    "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": [],
+    "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": [
+      "🚀 PC Windows lent ? Fais-le voler avec ces secrets !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": [
+      "✨ Votre smartphone respire ! Libérez 10 Go en un clic !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": [],
     "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": [],
     "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": [],
