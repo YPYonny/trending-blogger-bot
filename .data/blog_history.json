@@ -45,7 +45,9 @@
     "c3a9c8323d1f35ffe1657bbe96570402ded307bf",
     "4c7d385d09967208b812b7d480fe4d28beb94e7a",
     "257913bd70484a0bb4e909343dfc9a8edcb79509",
-    "03c69a72515cd398a536073b47833b4d2464d99b"
+    "03c69a72515cd398a536073b47833b4d2464d99b",
+    "ea616f40e2cd6c5153ed0bc4eb98567172d45dc8",
+    "f6d73120b2cf4490c85695e50462ee61c3312248"
   ],
   "days": {
     "2025-09-14": [
@@ -135,9 +137,13 @@
     "2025-10-05": [
       "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows",
       "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone"
+    ],
+    "2025-10-06": [
+      "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome",
+      "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)"
     ]
   },
-  "cat_index": 46,
+  "cat_index": 48,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -185,8 +191,8 @@
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": 1,
     "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": 1,
     "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": 1,
-    "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": 0,
-    "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": 0,
+    "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": 1,
+    "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": 1,
     "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": 0,
     "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": 0,
     "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": 0,
@@ -1007,8 +1013,12 @@
     "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": [
       "✨ Votre smartphone respire ! Libérez 10 Go en un clic !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": [],
-    "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": [],
+    "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": [
+      "🚫 Chrome: Stoppez ces notifs INTRUSIVES en 2 min !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": [
+      "🤯 Android bloqué ? La méthode OFFICIELLE pour le réinitialiser !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": [],
     "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": [],
     "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": [],
