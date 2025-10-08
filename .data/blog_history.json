@@ -49,7 +49,9 @@
     "ea616f40e2cd6c5153ed0bc4eb98567172d45dc8",
     "f6d73120b2cf4490c85695e50462ee61c3312248",
     "16cffb9dd668b5e548884e4ad9609edf7b8a26af",
-    "93a2881bb6e884cdd402d390f3b465a60d0350e1"
+    "93a2881bb6e884cdd402d390f3b465a60d0350e1",
+    "caeda5cd1c75e32e565bbf7085a89d7c848b8139",
+    "6ededdd69668f01082c1c94b1ae2cd3d206b51a5"
   ],
   "days": {
     "2025-09-14": [
@@ -147,9 +149,13 @@
     "2025-10-07": [
       "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers",
       "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC"
+    ],
+    "2025-10-08": [
+      "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur",
+      "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)"
     ]
   },
-  "cat_index": 50,
+  "cat_index": 52,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -201,8 +207,8 @@
     "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": 1,
     "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": 1,
     "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": 1,
-    "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": 0,
-    "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": 0,
+    "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": 1,
+    "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": 1,
     "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": 0,
     "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": 0,
     "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": 0,
@@ -1031,8 +1037,12 @@
     "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": [
       "🤯 PC en panne ? Hiren’s BootCD, le secret que les pros vous cachent !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": [],
-    "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": [],
+    "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": [
+      "💾 Votre disque dur va lâcher ? Testez-le avant la cata !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": [
+      "💡 Mot de passe Windows oublié ? La méthode légale approuvée 2025"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": [],
     "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": [],
     "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": [],
