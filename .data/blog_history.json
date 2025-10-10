@@ -53,7 +53,9 @@
     "caeda5cd1c75e32e565bbf7085a89d7c848b8139",
     "6ededdd69668f01082c1c94b1ae2cd3d206b51a5",
     "3a55c612b4c20d79df523c3b3e1c2ddc3c5f61b5",
-    "0664135a18885095e21fe9483ce96b555693ef9b"
+    "0664135a18885095e21fe9483ce96b555693ef9b",
+    "aca415391195fc936ca08751755ff0589610779d",
+    "1581eac0f58e4d752d2e02cbdc40b1589dda20fb"
   ],
   "days": {
     "2025-09-14": [
@@ -159,9 +161,13 @@
     "2025-10-09": [
       "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller",
       "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage"
+    ],
+    "2025-10-10": [
+      "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone",
+      "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android"
     ]
   },
-  "cat_index": 54,
+  "cat_index": 56,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -217,8 +223,8 @@
     "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": 1,
     "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": 1,
     "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": 1,
-    "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": 0,
-    "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": 0,
+    "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": 1,
+    "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": 1,
     "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": 0,
     "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": 0,
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": 0,
@@ -1055,8 +1061,12 @@
     "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": [
       "🤯 Vous avez formaté ? La méthode SECRÈTE pour tout récupérer !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": [],
-    "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": [],
+    "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": [
+      "🚀 Charge lente smartphone ? Astuce n°1 des experts en 2025 !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": [
+      "⚡ Votre batterie Android dure 2x plus ? Découvrez LE secret !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": [],
     "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": [],
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": [],
