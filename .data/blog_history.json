@@ -55,7 +55,9 @@
     "3a55c612b4c20d79df523c3b3e1c2ddc3c5f61b5",
     "0664135a18885095e21fe9483ce96b555693ef9b",
     "aca415391195fc936ca08751755ff0589610779d",
-    "1581eac0f58e4d752d2e02cbdc40b1589dda20fb"
+    "1581eac0f58e4d752d2e02cbdc40b1589dda20fb",
+    "745c29c91d4f9e6d0fd9b5466216e09961b8dd0a",
+    "f99917aa68e0a369606e89d72f3adf4bdef87ffd"
   ],
   "days": {
     "2025-09-14": [
@@ -165,9 +167,13 @@
     "2025-10-10": [
       "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone",
       "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android"
+    ],
+    "2025-10-11": [
+      "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu",
+      "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace"
     ]
   },
-  "cat_index": 56,
+  "cat_index": 58,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -225,8 +231,8 @@
     "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": 1,
     "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": 1,
     "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": 1,
-    "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": 0,
-    "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": 0,
+    "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": 1,
+    "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": 1,
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": 0,
     "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": 0,
@@ -1067,8 +1073,12 @@
     "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": [
       "⚡ Votre batterie Android dure 2x plus ? Découvrez LE secret !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": [],
-    "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": [],
+    "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": [
+      "🔥 Fichier corrompu ? Sauvez vos données AVANT qu'il ne soit trop tard !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": [
+      "🛡️ Antivirus GRATUIT : Le Top 3 Efficace pour protéger votre PC !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": [],
     "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": [],
