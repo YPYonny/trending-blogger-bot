@@ -57,7 +57,9 @@
     "aca415391195fc936ca08751755ff0589610779d",
     "1581eac0f58e4d752d2e02cbdc40b1589dda20fb",
     "745c29c91d4f9e6d0fd9b5466216e09961b8dd0a",
-    "f99917aa68e0a369606e89d72f3adf4bdef87ffd"
+    "f99917aa68e0a369606e89d72f3adf4bdef87ffd",
+    "5f721c558982986e0137ba6ed8275f8115a547d9",
+    "c0f15ff9c3ba20239addb4bff93f2bbc78e658ef"
   ],
   "days": {
     "2025-09-14": [
@@ -171,9 +173,13 @@
     "2025-10-11": [
       "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu",
       "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace"
+    ],
+    "2025-10-12": [
+      "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants",
+      "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente"
     ]
   },
-  "cat_index": 58,
+  "cat_index": 60,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -233,8 +239,8 @@
     "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": 1,
     "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": 1,
     "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": 1,
-    "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": 0,
-    "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": 0,
+    "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": 1,
+    "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": 0,
@@ -1079,8 +1085,12 @@
     "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": [
       "🛡️ Antivirus GRATUIT : Le Top 3 Efficace pour protéger votre PC !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": [],
-    "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": [],
+    "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": [
+      "💾 Ne perdez plus JAMAIS vos fichiers ! Sauvegarde auto 2025"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": [
+      "⚡️ Internet lent ? Nos astuces SECRÈTES pour une vitesse max !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": [],
