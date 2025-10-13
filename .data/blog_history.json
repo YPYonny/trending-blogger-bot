@@ -59,7 +59,9 @@
     "745c29c91d4f9e6d0fd9b5466216e09961b8dd0a",
     "f99917aa68e0a369606e89d72f3adf4bdef87ffd",
     "5f721c558982986e0137ba6ed8275f8115a547d9",
-    "c0f15ff9c3ba20239addb4bff93f2bbc78e658ef"
+    "c0f15ff9c3ba20239addb4bff93f2bbc78e658ef",
+    "010db8ea92ec6f7374998688b0f69e015b61b4e4",
+    "5bbc6475109144943717ec1ea3c53d0eacbe91c2"
   ],
   "days": {
     "2025-09-14": [
@@ -177,9 +179,13 @@
     "2025-10-12": [
       "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants",
       "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente"
+    ],
+    "2025-10-13": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS"
     ]
   },
-  "cat_index": 60,
+  "cat_index": 62,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -241,8 +247,8 @@
     "MAINTENANCE ET DÉPANNAGE - Utiliser un antivirus gratuit efficace": 1,
     "MAINTENANCE ET DÉPANNAGE - Sauvegarder automatiquement ses fichiers importants": 1,
     "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": 0,
@@ -1091,8 +1097,12 @@
     "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": [
       "⚡️ Internet lent ? Nos astuces SECRÈTES pour une vitesse max !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": [
+      "🤯 HTML : Développez votre 1ᵉʳ site web en 1h chrono !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": [
+      "💡 Le secret révélé : Créez une page web HTML/CSS sans effort !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": [],
