@@ -61,7 +61,9 @@
     "5f721c558982986e0137ba6ed8275f8115a547d9",
     "c0f15ff9c3ba20239addb4bff93f2bbc78e658ef",
     "010db8ea92ec6f7374998688b0f69e015b61b4e4",
-    "5bbc6475109144943717ec1ea3c53d0eacbe91c2"
+    "5bbc6475109144943717ec1ea3c53d0eacbe91c2",
+    "0b94979ee835374eb01ca2a21ee9a740b66f5d6a",
+    "ea6279e70ab6e41ff46942caa117c20c6bd077a5"
   ],
   "days": {
     "2025-09-14": [
@@ -183,9 +185,13 @@
     "2025-10-13": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML",
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS"
+    ],
+    "2025-10-14": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base"
     ]
   },
-  "cat_index": 62,
+  "cat_index": 64,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -249,8 +255,8 @@
     "MAINTENANCE ET DÉPANNAGE - Réparer une connexion Internet lente": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre les bases du langage HTML": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": 0,
@@ -1103,8 +1109,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": [
       "💡 Le secret révélé : Créez une page web HTML/CSS sans effort !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": [
+      "⚡️ Secret : Apprenez JavaScript en 10 min chrono !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": [
+      "🐍 Python Débutant : Créez votre 1er script en un éclair !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": [],
