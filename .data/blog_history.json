@@ -67,7 +67,9 @@
     "d091933637350c3b4281604d98034ad01519a048",
     "1942a29e3a86c1d183be1361028a15eeaef07614",
     "cff818e7f018c8328feb8ab68c5d2d185e38bd83",
-    "a9b40dd6f8e83923aca7f77a8de6ab557e7407b0"
+    "a9b40dd6f8e83923aca7f77a8de6ab557e7407b0",
+    "9a2cb17284bcc7606bce1e373248e4ffc9b9f53a",
+    "c835feec9efe7d1aa55a9b983ea32a61652fae9c"
   ],
   "days": {
     "2025-09-14": [
@@ -201,9 +203,13 @@
     "2025-10-16": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS",
       "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme"
+    ],
+    "2025-10-17": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL"
     ]
   },
-  "cat_index": 68,
+  "cat_index": 70,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -273,8 +279,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": 0,
@@ -1139,8 +1145,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": [
       "🤯 Algorithmes : La vérité choc enfin révélée !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": [
+      "🤯 ChatGPT: Le code parfait en 2 min ? Le secret révélé !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": [
+      "💾 MySQL: Les bases de données enfin simplifiées !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": [],
