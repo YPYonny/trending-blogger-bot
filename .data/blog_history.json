@@ -69,7 +69,9 @@
     "cff818e7f018c8328feb8ab68c5d2d185e38bd83",
     "a9b40dd6f8e83923aca7f77a8de6ab557e7407b0",
     "9a2cb17284bcc7606bce1e373248e4ffc9b9f53a",
-    "c835feec9efe7d1aa55a9b983ea32a61652fae9c"
+    "c835feec9efe7d1aa55a9b983ea32a61652fae9c",
+    "baf3014776c2fa8b261500a7868f684d6d068c85",
+    "caa3e2973d92bf2db402a4b297c34b4afec4fd71"
   ],
   "days": {
     "2025-09-14": [
@@ -207,9 +209,13 @@
     "2025-10-17": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code",
       "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL"
+    ],
+    "2025-10-18": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement"
     ]
   },
-  "cat_index": 70,
+  "cat_index": 72,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -281,8 +287,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": 0,
@@ -1151,8 +1157,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": [
       "💾 MySQL: Les bases de données enfin simplifiées !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": [
+      "🎮 Codez votre 1er mini-jeu Scratch en 15 min chrono !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": [
+      "⚡️ Fichiers en vrac ? Votre script renomme tout en 1 clic !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": [],
