@@ -73,7 +73,9 @@
     "baf3014776c2fa8b261500a7868f684d6d068c85",
     "caa3e2973d92bf2db402a4b297c34b4afec4fd71",
     "c112f63f7fb7a0abf9cca83ae992323e6f312ee7",
-    "b747f1a339f6ecee0ebbf8f959b98e61b8c0b906"
+    "b747f1a339f6ecee0ebbf8f959b98e61b8c0b906",
+    "7f698331df039e91c9822e790696bd9212b72127",
+    "f91bdbfb9ba724b49a989ab58b0ef0fc941dff51"
   ],
   "days": {
     "2025-09-14": [
@@ -219,9 +221,13 @@
     "2025-10-19": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub",
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python"
+    ],
+    "2025-10-20": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap"
     ]
   },
-  "cat_index": 74,
+  "cat_index": 76,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -297,8 +303,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": 0,
@@ -1175,8 +1181,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": [
       "🔒 Stop aux mots de passe faibles ! Créez votre générateur Python."
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": [
+      "⏱️ JavaScript: Affichez l'heure & la date (même débutant) !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": [
+      "🔥 Bootstrap responsive: Le secret des sites web qui s'adaptent !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": [],
