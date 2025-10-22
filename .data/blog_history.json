@@ -77,7 +77,9 @@
     "7f698331df039e91c9822e790696bd9212b72127",
     "f91bdbfb9ba724b49a989ab58b0ef0fc941dff51",
     "e1615fc9505d473c244dbf41a882e70503663a7d",
-    "95cc8f17cb9eb3161c26466e4220d215525ab61a"
+    "95cc8f17cb9eb3161c26466e4220d215525ab61a",
+    "52ed7effc84ccc7d1a980586af744f9ebb224c0b",
+    "46fe361d022d61a8e449169bf877e3a740b0177b"
   ],
   "days": {
     "2025-09-14": [
@@ -231,9 +233,13 @@
     "2025-10-21": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python",
       "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser"
+    ],
+    "2025-10-22": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript"
     ]
   },
-  "cat_index": 78,
+  "cat_index": 80,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -313,8 +319,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": 0,
@@ -1199,8 +1205,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": [
       "🤯 API : Le guide pour tout comprendre et les utiliser !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": [
+      "🚀 Python: Automatisez vos emails en 5 min chrono !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": [
+      "✨ Votre 1er convertisseur d'unités JS : Bluffant de facilité !"
+    ],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": [],
