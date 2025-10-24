@@ -81,7 +81,9 @@
     "52ed7effc84ccc7d1a980586af744f9ebb224c0b",
     "46fe361d022d61a8e449169bf877e3a740b0177b",
     "aa236dcebc12a093a387310458b85a5217fb397b",
-    "57b59b320faf043d8e8a38d03a33077090d187cc"
+    "57b59b320faf043d8e8a38d03a33077090d187cc",
+    "49ed4e46a6dca5b09b72b2f222579124cdcdbb43",
+    "990356e109e54460031ae14fd0f2b055878846be"
   ],
   "days": {
     "2025-09-14": [
@@ -243,9 +245,13 @@
     "2025-10-23": [
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos",
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier"
+    ],
+    "2025-10-24": [
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive",
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive"
     ]
   },
-  "cat_index": 82,
+  "cat_index": 84,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -329,8 +335,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": 1,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": 0,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": 0,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": 1,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": 0,
@@ -1223,8 +1229,12 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": [
       "💡 Dropbox : Partagez un fichier comme un pro en 2 clics !"
     ],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": [],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": [],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": [
+      "✨ Google Drive: 15 Go GRATUITS ! L'astuce que PERSONNE ne vous dit."
+    ],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": [
+      "🤯 OneDrive: Le secret pour des fichiers ultra-organisés révélé !"
+    ],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": [],
