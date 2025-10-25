@@ -83,7 +83,9 @@
     "aa236dcebc12a093a387310458b85a5217fb397b",
     "57b59b320faf043d8e8a38d03a33077090d187cc",
     "49ed4e46a6dca5b09b72b2f222579124cdcdbb43",
-    "990356e109e54460031ae14fd0f2b055878846be"
+    "990356e109e54460031ae14fd0f2b055878846be",
+    "b31014b01222dfdf8deb433759f22a865f6a3b33",
+    "fd4f95cf75f7b510f54f83cb4e9fd2434da38597"
   ],
   "days": {
     "2025-09-14": [
@@ -249,9 +251,13 @@
     "2025-10-24": [
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive",
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive"
+    ],
+    "2025-10-25": [
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone",
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne"
     ]
   },
-  "cat_index": 84,
+  "cat_index": 86,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -337,8 +343,8 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": 1,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": 0,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": 0,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": 1,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": 0,
@@ -1235,8 +1241,12 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": [
       "🤯 OneDrive: Le secret pour des fichiers ultra-organisés révélé !"
     ],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": [],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": [],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": [
+      "🤯 Fini la galère : synchronisez PC & smartphone en 1 clic !"
+    ],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": [
+      "🤯 Accédez à TOUT site web, SANS internet ! L'astuce 2025"
+    ],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": [],
