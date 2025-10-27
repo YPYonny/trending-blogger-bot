@@ -87,7 +87,9 @@
     "b31014b01222dfdf8deb433759f22a865f6a3b33",
     "fd4f95cf75f7b510f54f83cb4e9fd2434da38597",
     "fee88abaa5356d69aa38bbbab39dcda5523a944a",
-    "a90f1909451167a9f4cef020d1adc7ef27f85a9c"
+    "a90f1909451167a9f4cef020d1adc7ef27f85a9c",
+    "831b20dd3f83c05df384a16491bdc8b78af1bb9e",
+    "ca0ba0e416be18e3440c68cb6cc08895ebb6a849"
   ],
   "days": {
     "2025-09-14": [
@@ -261,9 +263,13 @@
     "2025-10-26": [
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone",
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email"
+    ],
+    "2025-10-27": [
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux",
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive"
     ]
   },
-  "cat_index": 88,
+  "cat_index": 90,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -353,8 +359,8 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": 1,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": 0,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": 0,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": 1,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": 1,
     "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": 0,
     "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": 0,
     "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": 0,
@@ -1259,8 +1265,12 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": [
       "🤯 Fichiers trop gros ? Envoyez-les par mail SANS galérer !"
     ],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": [],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": [],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": [
+      "✉️ Fichiers lourds? L'astuce WeTransfer que personne ne vous dit!"
+    ],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": [
+      "🔑 Partagez un dossier Google Drive COMPLET en 1 min !"
+    ],
     "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": [],
     "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": [],
     "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": [],
