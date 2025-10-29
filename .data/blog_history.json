@@ -89,7 +89,9 @@
     "fee88abaa5356d69aa38bbbab39dcda5523a944a",
     "a90f1909451167a9f4cef020d1adc7ef27f85a9c",
     "831b20dd3f83c05df384a16491bdc8b78af1bb9e",
-    "ca0ba0e416be18e3440c68cb6cc08895ebb6a849"
+    "ca0ba0e416be18e3440c68cb6cc08895ebb6a849",
+    "15caf6a484f717a08fc8f887254f1d9854b0e702",
+    "425a40b1b14e7519281bdee22debcd533114028b"
   ],
   "days": {
     "2025-09-14": [
@@ -267,9 +269,13 @@
     "2025-10-27": [
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux",
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive"
+    ],
+    "2025-10-29": [
+      "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée",
+      "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android"
     ]
   },
-  "cat_index": 90,
+  "cat_index": 92,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -361,8 +367,8 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": 1,
-    "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": 0,
-    "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": 0,
+    "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": 1,
+    "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": 1,
     "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": 0,
     "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": 0,
     "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone": 0,
@@ -1271,8 +1277,12 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": [
       "🔑 Partagez un dossier Google Drive COMPLET en 1 min !"
     ],
-    "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": [],
-    "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": [],
+    "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": [
+      "🛡️ Android : installez vos APK en toute SÉCURITÉ !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": [
+      "🤫 Android: L'astuce pour vider le cache et booster votre téléphone !"
+    ],
     "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": [],
     "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": [],
     "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone": [],
