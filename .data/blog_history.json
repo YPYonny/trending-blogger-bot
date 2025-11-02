@@ -97,7 +97,9 @@
     "25a00654e27c2ea237f8ab12968c9bfcae019444",
     "faa1ba1d46e597eea54db65e3b3c1a2b274b3744",
     "9115f45ab3e29b01edfb8e1523c4ff20f6c26702",
-    "f893bd5e103187634ac0a77d5d94e92095139982"
+    "f893bd5e103187634ac0a77d5d94e92095139982",
+    "6de6545204ffeeb57635f089c6e2ec97b75149fd",
+    "705b9a9db8f67a24f76cac3a955d61346aeeec76"
   ],
   "days": {
     "2025-09-14": [
@@ -291,9 +293,13 @@
     "2025-11-01": [
       "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS",
       "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android"
+    ],
+    "2025-11-02": [
+      "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone",
+      "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV"
     ]
   },
-  "cat_index": 98,
+  "cat_index": 100,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -393,8 +399,8 @@
     "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android": 1,
     "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": 1,
     "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": 1,
-    "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": 0,
-    "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": 0,
+    "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": 1,
+    "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": 1,
     "ANDROID ET IOS – ASTUCES - Désactiver les applications en arrière-plan pour économiser la batterie": 0,
     "ANDROID ET IOS – ASTUCES - Utiliser Google Assistant efficacement": 0,
     "ANDROID ET IOS – ASTUCES - Libérer de l’espace sur iPhone sans supprimer de photos": 0,
@@ -1319,8 +1325,12 @@
     "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": [
       "🚀 Android : La MAJ manuelle ultime sans attendre !"
     ],
-    "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": [],
-    "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": [],
+    "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": [
+      "💡 iPhone perdu ? La méthode SECRÈTE pour le récupérer illico !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": [
+      "✨ Téléphone sur TV : le secret iOS/Android enfin révélé !"
+    ],
     "ANDROID ET IOS – ASTUCES - Désactiver les applications en arrière-plan pour économiser la batterie": [],
     "ANDROID ET IOS – ASTUCES - Utiliser Google Assistant efficacement": [],
     "ANDROID ET IOS – ASTUCES - Libérer de l’espace sur iPhone sans supprimer de photos": [],
