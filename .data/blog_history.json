@@ -107,7 +107,9 @@
     "63cfca6abbe8bc0315c3c3d51acb402bfb104d62",
     "5d38ad7bca4fde837939ba1b7ee611e20a4b9083",
     "060ca0c8c6dd514de50200f6b980eee49480db17",
-    "8484a36c79fd65cedf78dedee469e9999ad6b5f6"
+    "8484a36c79fd65cedf78dedee469e9999ad6b5f6",
+    "09c8120c28ac5199afa11cad077b1e17865d4698",
+    "66c48e670366003768328b92caeb08cca1114ecb"
   ],
   "days": {
     "2025-09-14": [
@@ -321,9 +323,13 @@
     "2025-11-06": [
       "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android",
       "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application"
+    ],
+    "2025-11-07": [
+      "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées",
+      "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles"
     ]
   },
-  "cat_index": 108,
+  "cat_index": 110,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -433,8 +439,8 @@
     "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": 1,
     "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": 1,
     "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": 1,
-    "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": 0,
-    "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": 0,
+    "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": 1,
+    "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": 1,
     "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": 0,
     "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": 0,
     "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique": 0,
@@ -1379,8 +1385,12 @@
     "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": [
       "🤯 Scannez un QR Code SANS application ? L'astuce Android/iOS !"
     ],
-    "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": [],
-    "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": [],
+    "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": [
+      "🤯 OUPS ! Récupérez vos applis Android/iOS effacées en 2 clics !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": [
+      "🛡️ Android & iOS : Stoppez l'hémorragie de vos données mobiles !"
+    ],
     "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": [],
     "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": [],
     "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique": [],
