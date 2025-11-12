@@ -117,7 +117,9 @@
     "e00f67d8ab23327bf0442208be77533e36cb5246",
     "6d77d32cd43818fba1de7216fa22d9cfae2ccc22",
     "b3d73da0f73982b64807635dc23f568143b5534b",
-    "2a212e95819fff6640f8e639a5dbe170f64d21a3"
+    "2a212e95819fff6640f8e639a5dbe170f64d21a3",
+    "13b635328be254d4175bdafc4f6e87f70fe013e2",
+    "d084f21f00c125fdf9d0380f2a78e409a2d0b3ea"
   ],
   "days": {
     "2025-09-14": [
@@ -351,9 +353,13 @@
     "2025-11-11": [
       "BUREAUTIQUE ET OUTILS - Mettre un mot de passe sur un fichier Word",
       "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word"
+    ],
+    "2025-11-12": [
+      "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement",
+      "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets"
     ]
   },
-  "cat_index": 118,
+  "cat_index": 120,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -473,8 +479,8 @@
     "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne": 1,
     "BUREAUTIQUE ET OUTILS - Mettre un mot de passe sur un fichier Word": 1,
     "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word": 1,
-    "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": 0,
-    "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": 0,
+    "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": 1,
+    "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": 1,
     "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": 0,
     "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": 0,
     "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": 0,
@@ -1439,8 +1445,12 @@
     "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word": [
       "🤫 Publipostage Word : L'astuce pro que personne ne vous dit !"
     ],
-    "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": [],
-    "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": [],
+    "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": [
+      "🚀 Traduire Word auto : le secret que personne ne vous dit !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": [
+      "✨ Créez un planning Google Sheets IMPARABLE en 5 min !"
+    ],
     "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": [],
     "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": [],
     "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": [],
