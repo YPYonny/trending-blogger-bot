@@ -121,7 +121,9 @@
     "13b635328be254d4175bdafc4f6e87f70fe013e2",
     "d084f21f00c125fdf9d0380f2a78e409a2d0b3ea",
     "f6b572406b67431461e3b55079bbf883f88b724d",
-    "be183fc737e36937e9b5b8231f63763a406a1165"
+    "be183fc737e36937e9b5b8231f63763a406a1165",
+    "91c95b7f1df5acfc8d61b1237fecd10d655dac83",
+    "a3fa1e95965125428c9510a57f498932fbbf25b9"
   ],
   "days": {
     "2025-09-14": [
@@ -363,9 +365,13 @@
     "2025-11-13": [
       "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement",
       "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF"
+    ],
+    "2025-11-14": [
+      "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms",
+      "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille"
     ]
   },
-  "cat_index": 122,
+  "cat_index": 124,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -489,8 +495,8 @@
     "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": 1,
     "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": 1,
     "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": 1,
-    "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": 0,
-    "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": 0,
+    "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": 1,
+    "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": 1,
     "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": 0,
     "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": 0,
     "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": 0,
@@ -1463,8 +1469,12 @@
     "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": [
       "✨ PDF : Extrayez TOUTES les images en 3 secondes chrono !"
     ],
-    "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": [],
-    "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": [],
+    "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": [
+      "🚀 Google Forms : Créez-le comme un PRO en 2025 !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": [
+      "⚡ PDF LOURD ? Compressez-le illico presto SANS sacrifier la qualité !"
+    ],
     "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": [],
     "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": [],
     "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": [],
