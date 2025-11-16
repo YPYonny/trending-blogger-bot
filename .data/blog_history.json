@@ -125,7 +125,9 @@
     "91c95b7f1df5acfc8d61b1237fecd10d655dac83",
     "a3fa1e95965125428c9510a57f498932fbbf25b9",
     "6552187d6e8a923e97653faef83c7fea82aef443",
-    "2f5e035707b4ed01ddd2336a7b8ba3908faec422"
+    "2f5e035707b4ed01ddd2336a7b8ba3908faec422",
+    "1b8b740a887240161fde6e3fcac6a3718e577a73",
+    "694087ce196f409710254e461176822589307819"
   ],
   "days": {
     "2025-09-14": [
@@ -375,9 +377,13 @@
     "2025-11-15": [
       "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel",
       "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel"
+    ],
+    "2025-11-16": [
+      "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint",
+      "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs"
     ]
   },
-  "cat_index": 126,
+  "cat_index": 128,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -505,8 +511,8 @@
     "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": 1,
     "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": 1,
     "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": 1,
-    "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": 0,
-    "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": 0,
+    "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": 1,
+    "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": 1,
     "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": 0,
     "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut": 0,
@@ -1487,8 +1493,12 @@
     "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": [
       "🚀 Macros Excel: Automatisez tout et gagnez des heures !"
     ],
-    "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": [],
-    "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": [],
+    "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": [
+      "🤯 Oubliez les PPT fades : Insérez une vidéo en 2 clics !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": [
+      "🚀 Partage Word : Révolutionnez la collaboration sur vos documents !"
+    ],
     "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": [],
     "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut": [],
