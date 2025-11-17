@@ -127,7 +127,9 @@
     "6552187d6e8a923e97653faef83c7fea82aef443",
     "2f5e035707b4ed01ddd2336a7b8ba3908faec422",
     "1b8b740a887240161fde6e3fcac6a3718e577a73",
-    "694087ce196f409710254e461176822589307819"
+    "694087ce196f409710254e461176822589307819",
+    "8e8af4232ce5e99a054268001e395e7e0d573774",
+    "4fb0dcdf155895a8435e5fb330e3b509ae8eee96"
   ],
   "days": {
     "2025-09-14": [
@@ -381,9 +383,13 @@
     "2025-11-16": [
       "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint",
       "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs"
+    ],
+    "2025-11-17": [
+      "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo",
+      "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word"
     ]
   },
-  "cat_index": 128,
+  "cat_index": 130,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -513,8 +519,8 @@
     "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": 1,
     "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": 1,
     "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": 1,
-    "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": 0,
-    "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": 0,
+    "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": 1,
+    "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une miniature YouTube avec Canva": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": 0,
@@ -1499,8 +1505,12 @@
     "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": [
       "🚀 Partage Word : Révolutionnez la collaboration sur vos documents !"
     ],
-    "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": [],
-    "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": [],
+    "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": [
+      "🤯 Convertir PPT en vidéo : la méthode secrète révélée !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": [
+      "💡 Word : Ne commentez plus jamais sans cette astuce !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une miniature YouTube avec Canva": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": [],
