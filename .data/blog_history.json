@@ -135,7 +135,9 @@
     "837b3ab8894e2510ddd008641cbd6711a62c3e32",
     "08e578a9aec32ce6f250c512d36c270924572874",
     "94c677d03dc961f569c76d10368e2dfe89750c1b",
-    "d00378982ef015fcd9043b191166261676cb0e5d"
+    "d00378982ef015fcd9043b191166261676cb0e5d",
+    "d6c93eaf9e243eb8a3e266dca325a0e860f834d0",
+    "cc3e2dd2cbf482786df64a0424af6a19764c6cab"
   ],
   "days": {
     "2025-09-14": [
@@ -405,9 +407,13 @@
     "2025-11-20": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter des sous-titres à une vidéo",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran"
+    ],
+    "2025-11-21": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)"
     ]
   },
-  "cat_index": 136,
+  "cat_index": 138,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -545,8 +551,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter des sous-titres à une vidéo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": 0,
@@ -1547,8 +1553,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran": [
       "🎬 OBS Studio : Filmez votre écran comme un PRO, même si vous débutez !"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": [
+      "📸 Créez un diaporama photo musical ÉPOUSTOUFLANT !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": [
+      "✨ Photopea Gratuit: La Retouche Photo PRO enfin accessible à tous !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": [],
