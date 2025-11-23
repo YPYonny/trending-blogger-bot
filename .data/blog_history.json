@@ -139,7 +139,9 @@
     "d6c93eaf9e243eb8a3e266dca325a0e860f834d0",
     "cc3e2dd2cbf482786df64a0424af6a19764c6cab",
     "952858f31c8a24fb5d8e26800efdc2d5a8578991",
-    "867f23dca97e05602998de1b45c3cefcaec944f8"
+    "867f23dca97e05602998de1b45c3cefcaec944f8",
+    "9b4dccba5a90cff60b1956323adbff34b10c9d79",
+    "8237b19014460660c30094e13fb9c3853a646b86"
   ],
   "days": {
     "2025-09-14": [
@@ -417,9 +419,13 @@
     "2025-11-22": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom"
+    ],
+    "2025-11-23": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo"
     ]
   },
-  "cat_index": 140,
+  "cat_index": 142,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -561,8 +567,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": 0,
@@ -1571,8 +1577,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": [
       "🔥 Zoom : Enregistrez vos réunions comme un PRO, facilement !"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": [
+      "🔥 TikTok 2025 : Explosez vos vues, devenez viral !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": [
+      "✂️ Video: Coupez l'extrait parfait en 1 minute chrono !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": [],
