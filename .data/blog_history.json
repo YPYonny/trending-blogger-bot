@@ -143,7 +143,9 @@
     "9b4dccba5a90cff60b1956323adbff34b10c9d79",
     "8237b19014460660c30094e13fb9c3853a646b86",
     "fa1a1a55c7c754c5553227c0715e38af5e4b7c2f",
-    "6058fa41eacf66485217dba2187d425bf62628fc"
+    "6058fa41eacf66485217dba2187d425bf62628fc",
+    "949d1d1f2e6aefe342d769d35b8526537f98ec87",
+    "7184865faba9f8f29a4ec0b8e188fb87d2ce40bc"
   ],
   "days": {
     "2025-09-14": [
@@ -429,9 +431,13 @@
     "2025-11-24": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne"
+    ],
+    "2025-11-25": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo"
     ]
   },
-  "cat_index": 144,
+  "cat_index": 146,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -577,8 +583,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": 0,
@@ -1595,8 +1601,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": [
       "✨ Le secret d'un logo pro GRATUIT : créez le vôtre en ligne."
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": [
+      "🎬 Ralenti ÉPOUSTOUFLANT : Filmez comme un PRO (même avec votre tel)"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": [
+      "✂️ Détourez une photo: l'astuce pro en 1 clic !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": [],
