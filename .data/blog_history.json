@@ -147,7 +147,9 @@
     "949d1d1f2e6aefe342d769d35b8526537f98ec87",
     "7184865faba9f8f29a4ec0b8e188fb87d2ce40bc",
     "55bb13687d8186bf1939c56a8c13c9973cfca4b4",
-    "77bd156a7daae18cda2a6aca8d6466ce07d82c6b"
+    "77bd156a7daae18cda2a6aca8d6466ce07d82c6b",
+    "8d9fd5c460d3ba92b169e82a27a4818809927e01",
+    "78b0d5bdd99be7ac6901779b46baf0b92d7aa28a"
   ],
   "days": {
     "2025-09-14": [
@@ -441,9 +443,13 @@
     "2025-11-26": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos"
+    ],
+    "2025-11-27": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social"
     ]
   },
-  "cat_index": 148,
+  "cat_index": 150,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -593,8 +599,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": 1,
     "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": 0,
     "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": 0,
     "INTERNET ET NAVIGATION - Rechercher efficacement sur Google": 0,
@@ -1619,8 +1625,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": [
       "🚀 InShot : Montez des vidéos virales en 2 clics !"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": [
+      "🎧 Montage Audio Simple : Le Secret Pour Créer en Un Clin d'Œil !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": [
+      "✨ Bannière Sociale : Votre profil va devenir viral en 2025 !"
+    ],
     "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": [],
     "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": [],
     "INTERNET ET NAVIGATION - Rechercher efficacement sur Google": [],
