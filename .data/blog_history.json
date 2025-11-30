@@ -153,7 +153,9 @@
     "7eaf44617b899fc28b59d9c8351c5aadd189c3d6",
     "2b4b439e74e6e622a1e644912aa8c18eae41be9e",
     "ccbf3fe7fab76e8a87f230643b9ee01ac15e5a6b",
-    "37da15ccaa4a49607792748372cc49739faf0c58"
+    "37da15ccaa4a49607792748372cc49739faf0c58",
+    "58ebbed71c68654ca33928f02cd68def8c4c1201",
+    "d606d7f844671e282a16e740c323a0cd4d0a5460"
   ],
   "days": {
     "2025-09-14": [
@@ -459,9 +461,13 @@
     "2025-11-29": [
       "INTERNET ET NAVIGATION - Rechercher efficacement sur Google",
       "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome"
+    ],
+    "2025-11-30": [
+      "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome",
+      "INTERNET ET NAVIGATION - Installer une extension sur Firefox"
     ]
   },
-  "cat_index": 154,
+  "cat_index": 156,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -617,8 +623,8 @@
     "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": 1,
     "INTERNET ET NAVIGATION - Rechercher efficacement sur Google": 1,
     "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome": 1,
-    "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": 0,
-    "INTERNET ET NAVIGATION - Installer une extension sur Firefox": 0,
+    "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": 1,
+    "INTERNET ET NAVIGATION - Installer une extension sur Firefox": 1,
     "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": 0,
     "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": 0,
     "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": 0,
@@ -1655,8 +1661,12 @@
     "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome": [
       "✅ Chrome: Gagnez du temps, sauvegardez vos mots de passe sans risque!"
     ],
-    "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": [],
-    "INTERNET ET NAVIGATION - Installer une extension sur Firefox": [],
+    "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": [
+      "🌐 Traduction Chrome : Comprenez TOUT instantanément et sans effort !"
+    ],
+    "INTERNET ET NAVIGATION - Installer une extension sur Firefox": [
+      "🚀 Firefox Métamorphosé: Installer une extension en 3 clics, c'est possible !"
+    ],
     "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": [],
     "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": [],
     "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": [],
