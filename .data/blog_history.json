@@ -155,7 +155,9 @@
     "ccbf3fe7fab76e8a87f230643b9ee01ac15e5a6b",
     "37da15ccaa4a49607792748372cc49739faf0c58",
     "58ebbed71c68654ca33928f02cd68def8c4c1201",
-    "d606d7f844671e282a16e740c323a0cd4d0a5460"
+    "d606d7f844671e282a16e740c323a0cd4d0a5460",
+    "1cc62c1a6313a7490a9beee04b54a8158baeccd2",
+    "f2b2faadc2055879ce6ac7bd3fd20381768eafb5"
   ],
   "days": {
     "2025-09-14": [
@@ -465,9 +467,13 @@
     "2025-11-30": [
       "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome",
       "INTERNET ET NAVIGATION - Installer une extension sur Firefox"
+    ],
+    "2025-12-01": [
+      "INTERNET ET NAVIGATION - Utiliser le mode navigation privée",
+      "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement"
     ]
   },
-  "cat_index": 156,
+  "cat_index": 158,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -625,8 +631,8 @@
     "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome": 1,
     "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": 1,
     "INTERNET ET NAVIGATION - Installer une extension sur Firefox": 1,
-    "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": 0,
-    "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": 0,
+    "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": 1,
+    "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": 1,
     "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": 0,
     "INTERNET ET NAVIGATION - Télécharger une page web en PDF": 0,
     "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": 0,
@@ -1667,8 +1673,12 @@
     "INTERNET ET NAVIGATION - Installer une extension sur Firefox": [
       "🚀 Firefox Métamorphosé: Installer une extension en 3 clics, c'est possible !"
     ],
-    "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": [],
-    "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": [],
+    "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": [
+      "🤯 Votre mode privé n'est pas si privé ! Apprenez la vérité."
+    ],
+    "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": [
+      "🤯 Stop au chaos des onglets ! Maîtrisez votre navigateur."
+    ],
     "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": [],
     "INTERNET ET NAVIGATION - Télécharger une page web en PDF": [],
     "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": [],
