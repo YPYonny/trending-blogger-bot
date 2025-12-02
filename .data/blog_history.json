@@ -157,7 +157,9 @@
     "58ebbed71c68654ca33928f02cd68def8c4c1201",
     "d606d7f844671e282a16e740c323a0cd4d0a5460",
     "1cc62c1a6313a7490a9beee04b54a8158baeccd2",
-    "f2b2faadc2055879ce6ac7bd3fd20381768eafb5"
+    "f2b2faadc2055879ce6ac7bd3fd20381768eafb5",
+    "018ed924da83973a6a9cd4acd1be8817337b6641",
+    "c7052c4d1d213e0c1e8be125ccb0aaad78ec8437"
   ],
   "days": {
     "2025-09-14": [
@@ -471,9 +473,13 @@
     "2025-12-01": [
       "INTERNET ET NAVIGATION - Utiliser le mode navigation privée",
       "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement"
+    ],
+    "2025-12-02": [
+      "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires",
+      "INTERNET ET NAVIGATION - Télécharger une page web en PDF"
     ]
   },
-  "cat_index": 158,
+  "cat_index": 160,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -633,8 +639,8 @@
     "INTERNET ET NAVIGATION - Installer une extension sur Firefox": 1,
     "INTERNET ET NAVIGATION - Utiliser le mode navigation privée": 1,
     "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": 1,
-    "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": 0,
-    "INTERNET ET NAVIGATION - Télécharger une page web en PDF": 0,
+    "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": 1,
+    "INTERNET ET NAVIGATION - Télécharger une page web en PDF": 1,
     "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": 0,
     "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": 0,
     "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": 0,
@@ -1679,8 +1685,12 @@
     "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": [
       "🤯 Stop au chaos des onglets ! Maîtrisez votre navigateur."
     ],
-    "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": [],
-    "INTERNET ET NAVIGATION - Télécharger une page web en PDF": [],
+    "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": [
+      "✋ Bloquez les cookies pub : La méthode ultime anti-traque 2025 !"
+    ],
+    "INTERNET ET NAVIGATION - Télécharger une page web en PDF": [
+      "🚀 Page web en PDF : La méthode SECONDE que personne ne connaît !"
+    ],
     "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": [],
     "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": [],
     "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": [],
