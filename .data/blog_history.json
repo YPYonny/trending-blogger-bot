@@ -161,7 +161,9 @@
     "018ed924da83973a6a9cd4acd1be8817337b6641",
     "c7052c4d1d213e0c1e8be125ccb0aaad78ec8437",
     "64252fed6ea3722ae3c7afcce99f6f88a2fd57a9",
-    "d68286dc4f11c18cc7b2f556762c354ee987bcfe"
+    "d68286dc4f11c18cc7b2f556762c354ee987bcfe",
+    "d093a0804b05f6ad2b68d3e69090960e254403ff",
+    "cfb6e3edfd53c09e8df7a96f85e0eccb8d6c9dbd"
   ],
   "days": {
     "2025-09-14": [
@@ -483,9 +485,13 @@
     "2025-12-03": [
       "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet",
       "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo"
+    ],
+    "2025-12-04": [
+      "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up",
+      "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau"
     ]
   },
-  "cat_index": 162,
+  "cat_index": 164,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -649,8 +655,8 @@
     "INTERNET ET NAVIGATION - Télécharger une page web en PDF": 1,
     "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": 1,
     "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": 1,
-    "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": 0,
-    "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": 0,
+    "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": 1,
+    "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": 1,
     "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": 0,
     "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": 0,
     "INTERNET ET NAVIGATION - Sauvegarder ses favoris pour les importer ailleurs": 0,
@@ -1703,8 +1709,12 @@
     "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": [
       "🔍 Le secret Google pour identifier N'IMPORTE quelle image !"
     ],
-    "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": [],
-    "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": [],
+    "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": [
+      "😡 Pop-ups : La technique SECRÈTE pour les bloquer TOUS !"
+    ],
+    "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": [
+      "⚡️ Votre site préféré en un clic : le raccourci bureau facile !"
+    ],
     "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": [],
     "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": [],
     "INTERNET ET NAVIGATION - Sauvegarder ses favoris pour les importer ailleurs": [],
