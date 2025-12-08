@@ -169,7 +169,9 @@
     "69b3ccaa11ba5a662d29625f5b2545129c59e601",
     "9d65f8accc6b88528228e4ea44f0955a94bee98e",
     "c9a87fb6bceb2e37a47aff8e6958de7a934e165d",
-    "61b360a5271c12c24219b450a21230d3cbc4b815"
+    "61b360a5271c12c24219b450a21230d3cbc4b815",
+    "af842fc0e6024c7d5d41a1773f35331d37217ba3",
+    "b36d7b9988699e46f96889aeda81125e95317b71"
   ],
   "days": {
     "2025-09-14": [
@@ -507,9 +509,13 @@
     "2025-12-07": [
       "INTERNET ET NAVIGATION - Utiliser un outil de capture d’écran web",
       "INTERNET ET NAVIGATION - Consulter les statistiques d’un site web"
+    ],
+    "2025-12-08": [
+      "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES",
+      "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable"
     ]
   },
-  "cat_index": 170,
+  "cat_index": 172,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -681,8 +687,8 @@
     "INTERNET ET NAVIGATION - Ouvrir automatiquement plusieurs onglets au démarrage": 1,
     "INTERNET ET NAVIGATION - Utiliser un outil de capture d’écran web": 1,
     "INTERNET ET NAVIGATION - Consulter les statistiques d’un site web": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": 1,
     "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": 0,
     "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": 0,
     "CYBERSÉCURITÉ AVANCÉE - Utiliser l’authentification biométrique": 0,
@@ -1751,8 +1757,12 @@
     "INTERNET ET NAVIGATION - Consulter les statistiques d’un site web": [
       "📈 Vos concurrents ne veulent PAS que vous sachiez ça !"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES": [],
-    "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": [],
+    "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES": [
+      "🔑 AES : La clé pour une cybersécurité avancée dévoilée !"
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": [
+      "🤯 Stop aux hacks! Votre mot de passe ultime révélé"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": [],
     "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": [],
     "CYBERSÉCURITÉ AVANCÉE - Utiliser l’authentification biométrique": [],
