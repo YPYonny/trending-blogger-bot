@@ -177,7 +177,9 @@
     "53fb8b5c8830619ff0540ae46d75c86463050e5e",
     "ccd57c17aad71ab286d14139dde711374c30deac",
     "2db15ddc39033a225828c5fbc2a8516f2c4db332",
-    "2d2f00a0726a8b99f3d07ccdd1ee1a8ba96088ba"
+    "2d2f00a0726a8b99f3d07ccdd1ee1a8ba96088ba",
+    "61448fecafa889f20db1cb0705034654d13a5861",
+    "ef56cb76aa31b1bc2bdb198d865594cfc62b437d"
   ],
   "days": {
     "2025-09-14": [
@@ -531,9 +533,13 @@
     "2025-12-11": [
       "CYBERSÉCURITÉ AVANCÉE - Protéger un fichier ZIP par mot de passe",
       "CYBERSÉCURITÉ AVANCÉE - Apprendre les bases du RGPD"
+    ],
+    "2025-12-12": [
+      "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy",
+      "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger"
     ]
   },
-  "cat_index": 178,
+  "cat_index": 180,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -713,8 +719,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Sauvegarder ses données sur un disque externe sécurisé": 1,
     "CYBERSÉCURITÉ AVANCÉE - Protéger un fichier ZIP par mot de passe": 1,
     "CYBERSÉCURITÉ AVANCÉE - Apprendre les bases du RGPD": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": 1,
     "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": 0,
     "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": 0,
     "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe": 0,
@@ -1799,8 +1805,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Apprendre les bases du RGPD": [
       "🚨 RGPD : Ne faites pas ces 3 erreurs fatales en cybersécurité !"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy": [],
-    "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": [],
+    "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy": [
+      "🔒 Authy: Le secret pour des comptes 100% impirables."
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": [
+      "🚨 Ransomware: Vos données prises en otage ? Agissez avant qu'il ne soit trop tard !"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": [],
     "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": [],
     "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe": [],
