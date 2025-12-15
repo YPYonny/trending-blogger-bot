@@ -183,7 +183,9 @@
     "d9281e6f7e9984781be760fe6c17cbe54f46f63b",
     "aff174f47bec8290a264f2e1c67e5731276652bc",
     "125ed5f4bb0680217b370b95a550c93c04d64670",
-    "34d08c10cfadecef475b378fe6a66d1bf6acc91d"
+    "34d08c10cfadecef475b378fe6a66d1bf6acc91d",
+    "f51f84a7b4f5eb43661bce5a06768f0d1b9ea606",
+    "577914663676d19c9caed60900186ef09b40323a"
   ],
   "days": {
     "2025-09-14": [
@@ -549,9 +551,13 @@
     "2025-12-14": [
       "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe",
       "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage"
+    ],
+    "2025-12-15": [
+      "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned",
+      "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn"
     ]
   },
-  "cat_index": 184,
+  "cat_index": 186,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -737,8 +743,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": 1,
     "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe": 1,
     "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": 1,
     "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": 0,
     "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": 0,
     "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile": 0,
@@ -1835,8 +1841,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage": [
       "🕵️‍♀️ Stop aux cyber-espions! Sécurisez votre webcam MAINTENANT"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": [],
-    "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": [],
+    "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": [
+      "😱 Vos données ont fuité ? Vérifiez avec HaveIBeenPwned !"
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": [
+      "🛡️ LinkedIn invincible ? Maîtrisez la cybersécurité avancée !"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": [],
     "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": [],
     "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile": [],
