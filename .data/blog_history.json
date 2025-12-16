@@ -185,7 +185,9 @@
     "125ed5f4bb0680217b370b95a550c93c04d64670",
     "34d08c10cfadecef475b378fe6a66d1bf6acc91d",
     "f51f84a7b4f5eb43661bce5a06768f0d1b9ea606",
-    "577914663676d19c9caed60900186ef09b40323a"
+    "577914663676d19c9caed60900186ef09b40323a",
+    "5a4bd042a98dcb711b2dd2e45b9a7823e90ee1f7",
+    "07543069bbf37f6a9dbf586c6144d15c5cacd861"
   ],
   "days": {
     "2025-09-14": [
@@ -555,9 +557,13 @@
     "2025-12-15": [
       "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned",
       "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn"
+    ],
+    "2025-12-16": [
+      "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles",
+      "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés"
     ]
   },
-  "cat_index": 186,
+  "cat_index": 188,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -745,8 +751,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage": 1,
     "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": 1,
     "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": 1,
     "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile": 0,
     "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store": 0,
     "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": 0,
@@ -1847,8 +1853,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Configurer la sécurité sur LinkedIn": [
       "🛡️ LinkedIn invincible ? Maîtrisez la cybersécurité avancée !"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": [],
-    "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": [],
+    "CYBERSÉCURITÉ AVANCÉE - Supprimer ses anciennes publications sensibles": [
+      "👻 Passé numérique : supprimez vos posts sensibles avant qu'il ne soit trop tard"
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": [
+      "🚨 Wi-Fi Public: Le piège invisible qui vous guette !"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile": [],
     "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store": [],
     "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": [],
