@@ -189,7 +189,9 @@
     "5a4bd042a98dcb711b2dd2e45b9a7823e90ee1f7",
     "07543069bbf37f6a9dbf586c6144d15c5cacd861",
     "ad2b49e8868f33b8185bcaab7b47ebcf00117b75",
-    "f88b752ed244cd0ab9371a25b4efc153532ddff7"
+    "f88b752ed244cd0ab9371a25b4efc153532ddff7",
+    "34d64d6bd9f62bb586d4c695040fc0a5337a3975",
+    "4730fee23f1e434757e295a66b6e31f78c0b9433"
   ],
   "days": {
     "2025-09-14": [
@@ -567,9 +569,13 @@
     "2025-12-17": [
       "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile",
       "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store"
+    ],
+    "2025-12-18": [
+      "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé",
+      "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi"
     ]
   },
-  "cat_index": 190,
+  "cat_index": 192,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -761,8 +767,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Éviter les réseaux Wi-Fi publics non sécurisés": 1,
     "CYBERSÉCURITÉ AVANCÉE - Gérer les permissions d’une application mobile": 1,
     "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": 1,
     "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": 0,
     "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": 0,
     "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": 0,
@@ -1871,8 +1877,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store": [
       "🚨 Piège Play Store : Comment repérer une fausse application en 2025 ?"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": [],
-    "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": [],
+    "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": [
+      "⛏️ Crée ton serveur Minecraft privé GRATUIT en 15 min !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": [
+      "🚀 Connectez votre imprimante Wi-Fi: Le secret des pros révélé !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": [],
     "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": [],
     "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": [],
