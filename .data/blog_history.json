@@ -195,7 +195,9 @@
     "5814d6166fa3b4bb13e2d704e26223577a87964b",
     "6a9ff5c0fcd28af45b16e6856afe51860b14e60d",
     "84adf1f9abcc15b36490f267e9902d47bd01d739",
-    "dd26845a6bca22c65a84d506d4c675e15449f72d"
+    "dd26845a6bca22c65a84d506d4c675e15449f72d",
+    "cc55fc3e992b5e9ca888557bae560d0978ac485e",
+    "c97d41e777ade7badcf9600aaa8368a53273cf14"
   ],
   "days": {
     "2025-09-14": [
@@ -585,9 +587,13 @@
     "2025-12-20": [
       "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino",
       "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone"
+    ],
+    "2025-12-21": [
+      "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers",
+      "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP"
     ]
   },
-  "cat_index": 196,
+  "cat_index": 198,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -785,8 +791,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": 1,
     "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": 1,
     "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": 1,
     "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": 0,
     "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": 0,
     "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": 0,
@@ -1907,8 +1913,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": [
       "💡Lampe LED DIY : Domptez votre lumière avec votre smartphone !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": [],
-    "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": [],
+    "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": [
+      "💰 Vieux PC ? Créez votre serveur de fichiers PRO !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": [
+      "🚨 Sécurité IP DIY: Configurez votre caméra en 15 min chrono !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": [],
     "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": [],
     "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": [],
