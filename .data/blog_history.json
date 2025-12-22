@@ -197,7 +197,9 @@
     "84adf1f9abcc15b36490f267e9902d47bd01d739",
     "dd26845a6bca22c65a84d506d4c675e15449f72d",
     "cc55fc3e992b5e9ca888557bae560d0978ac485e",
-    "c97d41e777ade7badcf9600aaa8368a53273cf14"
+    "c97d41e777ade7badcf9600aaa8368a53273cf14",
+    "61480bf3fa8311d2dab5723b68ad4e407440aa20",
+    "19939bf261388bf4f76877ab8849bea5693a61b1"
   ],
   "days": {
     "2025-09-14": [
@@ -591,9 +593,13 @@
     "2025-12-21": [
       "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers",
       "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP"
+    ],
+    "2025-12-22": [
+      "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino",
+      "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple"
     ]
   },
-  "cat_index": 198,
+  "cat_index": 200,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -793,8 +799,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": 1,
     "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": 1,
     "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": 1,
     "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": 0,
     "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": 0,
     "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": 0,
@@ -1919,8 +1925,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": [
       "🚨 Sécurité IP DIY: Configurez votre caméra en 15 min chrono !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": [],
-    "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": [],
+    "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": [
+      "🚀 Arduino Arrosage DIY: Le secret pour un jardin parfait sans effort !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": [
+      "🚀 Domotique facile : Créez votre Smart Home sans effort !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": [],
     "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": [],
     "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": [],
