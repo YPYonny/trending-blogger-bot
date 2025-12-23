@@ -199,7 +199,9 @@
     "cc55fc3e992b5e9ca888557bae560d0978ac485e",
     "c97d41e777ade7badcf9600aaa8368a53273cf14",
     "61480bf3fa8311d2dab5723b68ad4e407440aa20",
-    "19939bf261388bf4f76877ab8849bea5693a61b1"
+    "19939bf261388bf4f76877ab8849bea5693a61b1",
+    "50bfd3ef397c2e94589141bb4d8cb207297f20ae",
+    "a1a1974ad84045f36c3bb0df408e7c72119d1e55"
   ],
   "days": {
     "2025-09-14": [
@@ -597,9 +599,13 @@
     "2025-12-22": [
       "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino",
       "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple"
+    ],
+    "2025-12-23": [
+      "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone",
+      "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison"
     ]
   },
-  "cat_index": 200,
+  "cat_index": 202,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -801,8 +807,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": 1,
     "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": 1,
     "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": 1,
     "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": 0,
     "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": 0,
     "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": 0,
@@ -1931,8 +1937,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": [
       "🚀 Domotique facile : Créez votre Smart Home sans effort !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": [],
-    "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": [],
+    "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": [
+      "🤯 Manette sur smartphone ? Le guide CHOC que personne ne dit !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": [
+      "🎮 Borne d'arcade DIY: Le secret pour la construire SANS prise de tête!"
+    ],
     "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": [],
     "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": [],
     "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": [],
