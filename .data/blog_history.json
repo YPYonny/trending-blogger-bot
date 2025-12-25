@@ -203,7 +203,9 @@
     "50bfd3ef397c2e94589141bb4d8cb207297f20ae",
     "a1a1974ad84045f36c3bb0df408e7c72119d1e55",
     "67b81fb889b00278f69e09769a157ef5272610d1",
-    "7bd1409605426b4bd01bc3c0d4bbaf47a50709f2"
+    "7bd1409605426b4bd01bc3c0d4bbaf47a50709f2",
+    "10d19fc65b7bf5274a00d501340a5c9364db049c",
+    "df5d392b7a67e7aec1d751b93f82008fde537ea4"
   ],
   "days": {
     "2025-09-14": [
@@ -609,9 +611,13 @@
     "2025-12-24": [
       "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV",
       "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison"
+    ],
+    "2025-12-25": [
+      "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté",
+      "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté"
     ]
   },
-  "cat_index": 204,
+  "cat_index": 206,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -817,8 +823,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": 1,
     "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": 1,
     "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": 1,
     "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": 0,
     "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": 0,
     "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi": 0,
@@ -1955,8 +1961,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": [
       "💡 Le HP Bluetooth DIY que vous avez toujours voulu... Révélé !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": [],
-    "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": [],
+    "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": [
+      "🔒 Sécurité DIY : Le détecteur connecté, installé en 10 min chrono !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": [
+      "🤯 Montez Votre Capteur Connecté DIY : C'est Incroyablement Simple !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": [],
     "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": [],
     "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi": [],
