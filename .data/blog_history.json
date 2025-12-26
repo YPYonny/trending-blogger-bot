@@ -205,7 +205,9 @@
     "67b81fb889b00278f69e09769a157ef5272610d1",
     "7bd1409605426b4bd01bc3c0d4bbaf47a50709f2",
     "10d19fc65b7bf5274a00d501340a5c9364db049c",
-    "df5d392b7a67e7aec1d751b93f82008fde537ea4"
+    "df5d392b7a67e7aec1d751b93f82008fde537ea4",
+    "44834c0a1180e368b4c1b2d439c2622cb1ede1b9",
+    "0889930c92f7b57b0a8792147c13280cdc19d5c0"
   ],
   "days": {
     "2025-09-14": [
@@ -615,9 +617,13 @@
     "2025-12-25": [
       "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté",
       "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté"
+    ],
+    "2025-12-26": [
+      "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z",
+      "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide"
     ]
   },
-  "cat_index": 206,
+  "cat_index": 208,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -825,8 +831,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": 1,
     "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": 1,
     "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": 1,
     "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi": 0,
     "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source": 0,
     "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": 0,
@@ -1967,8 +1973,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": [
       "🤯 Montez Votre Capteur Connecté DIY : C'est Incroyablement Simple !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": [],
-    "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": [],
+    "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": [
+      "🎮 Monte TON PC gaming en 2025: Le guide ultra facile!"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": [
+      "🚀 PC lent? Découvrez nos astuces DIY pour le rendre ultra rapide!"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi": [],
     "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source": [],
     "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": [],
