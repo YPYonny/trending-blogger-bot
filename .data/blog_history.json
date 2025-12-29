@@ -211,7 +211,9 @@
     "133333a6c1724b0643341d8e566db633909cdef5",
     "1274b062ba7a8a9eac9fda1475428bcdf17907ba",
     "f75e9964b8cc050a7d429c1a643b3871bc485bb1",
-    "c04e03afeb7d33be100cbe920d83478a7169c2f1"
+    "c04e03afeb7d33be100cbe920d83478a7169c2f1",
+    "fb5f9bd21a4b704156f0e0bb45ede53c438dc79a",
+    "a550d165541e99b79ed7b8b3ffcff9dd083ddd58"
   ],
   "days": {
     "2025-09-14": [
@@ -633,9 +635,13 @@
     "2025-12-28": [
       "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll",
       "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte"
+    ],
+    "2025-12-29": [
+      "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest",
+      "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement"
     ]
   },
-  "cat_index": 212,
+  "cat_index": 214,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -849,8 +855,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": 1,
     "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": 1,
-    "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": 0,
-    "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": 0,
+    "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": 1,
+    "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": 1,
     "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": 0,
     "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": 0,
     "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": 0,
@@ -2003,8 +2009,12 @@
     "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": [
       "✍️ Audio en Texte : Transcrivez sans effort, la révélation 2025 !"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": [],
-    "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": [],
+    "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": [
+      "🚀 Le test qui révèle LA VRAIE vitesse de votre Internet !"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": [
+      "✨ Le SECRET pour détourer vos images PRO, c'est GRATUIT!"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": [],
     "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": [],
     "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": [],
