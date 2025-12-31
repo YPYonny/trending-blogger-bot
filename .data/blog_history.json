@@ -215,7 +215,9 @@
     "fb5f9bd21a4b704156f0e0bb45ede53c438dc79a",
     "a550d165541e99b79ed7b8b3ffcff9dd083ddd58",
     "2214a77a8b0e03774994216ecbbe25e33292a09b",
-    "d560c24796e4c68237d75eca77b706281822dc22"
+    "d560c24796e4c68237d75eca77b706281822dc22",
+    "8afa745167e2448ca9d49ec5777c8ac19299c0f0",
+    "1450fa2e3af4c4e782e5a16d72d7ca13ed66c551"
   ],
   "days": {
     "2025-09-14": [
@@ -645,9 +647,13 @@
     "2025-12-30": [
       "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne",
       "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement"
+    ],
+    "2025-12-31": [
+      "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé",
+      "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux"
     ]
   },
-  "cat_index": 216,
+  "cat_index": 218,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -865,8 +871,8 @@
     "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": 1,
     "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": 1,
     "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": 1,
-    "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": 0,
-    "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": 0,
+    "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": 1,
+    "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": 1,
     "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": 0,
     "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": 0,
     "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets": 0,
@@ -2027,8 +2033,12 @@
     "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": [
       "🤫 Vidéo en MP3 : La méthode légale et GRATUITE enfin révélée !"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": [],
-    "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": [],
+    "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": [
+      "🎨 Créez votre QR Code personnalisé unique et GRATUIT !"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": [
+      "🤯 Le secret des pros pour publier sans stress sur les réseaux !"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": [],
     "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": [],
     "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets": [],
