@@ -217,7 +217,9 @@
     "2214a77a8b0e03774994216ecbbe25e33292a09b",
     "d560c24796e4c68237d75eca77b706281822dc22",
     "8afa745167e2448ca9d49ec5777c8ac19299c0f0",
-    "1450fa2e3af4c4e782e5a16d72d7ca13ed66c551"
+    "1450fa2e3af4c4e782e5a16d72d7ca13ed66c551",
+    "e1f1bf0647d220fe88fd3ad8c96ca257c40a5a4b",
+    "66994b25751efc71491c4a1a8b2f2544357ca19e"
   ],
   "days": {
     "2025-09-14": [
@@ -651,9 +653,13 @@
     "2025-12-31": [
       "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé",
       "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux"
+    ],
+    "2026-01-01": [
+      "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile",
+      "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique"
     ]
   },
-  "cat_index": 218,
+  "cat_index": 220,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -873,8 +879,8 @@
     "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": 1,
     "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": 1,
-    "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": 0,
-    "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": 0,
+    "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": 1,
+    "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": 1,
     "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets": 0,
     "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne": 0,
     "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": 0,
@@ -2039,8 +2045,12 @@
     "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": [
       "🤯 Le secret des pros pour publier sans stress sur les réseaux !"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": [],
-    "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": [],
+    "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": [
+      "📸 Le secret des captures longues mobiles ENFIN révélé!"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": [
+      "✍️ Créez votre signature électronique en 2 minutes chrono !"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets": [],
     "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne": [],
     "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": [],
