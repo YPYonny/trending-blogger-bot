@@ -221,7 +221,9 @@
     "e1f1bf0647d220fe88fd3ad8c96ca257c40a5a4b",
     "66994b25751efc71491c4a1a8b2f2544357ca19e",
     "c2fcebc2fb86a5176599a74632c7cffde01236fa",
-    "8bcd9a5d9ece637e369c605eea7ceb169c0795ea"
+    "8bcd9a5d9ece637e369c605eea7ceb169c0795ea",
+    "6d111cf1f8da2ea70f0fcafe4aa73061618bbb95",
+    "c90e30151bd0e8f0f08d2960da2ff77901ff292f"
   ],
   "days": {
     "2025-09-14": [
@@ -663,9 +665,13 @@
     "2026-01-02": [
       "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets",
       "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne"
+    ],
+    "2026-01-03": [
+      "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur",
+      "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement"
     ]
   },
-  "cat_index": 222,
+  "cat_index": 224,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -889,8 +895,8 @@
     "OUTILS ET SERVICES EN LIGNE - Créer une signature électronique": 1,
     "OUTILS ET SERVICES EN LIGNE - Utiliser Trello pour gérer ses projets": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne": 1,
-    "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": 0,
-    "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": 0,
+    "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": 1,
+    "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": 0,
     "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": 0,
     "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": 0,
@@ -2063,8 +2069,12 @@
     "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne": [
       "✨ Organigramme en ligne : La méthode PRO enfin accessible à tous !"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": [],
-    "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": [],
+    "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": [
+      "✨ Adieu les logiciels ! Éditez vos PDF en ligne, instantané."
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": [
+      "🤯 Fini les fautes d'orthographe ! Votre texte PRO en 1 clic."
+    ],
     "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": [],
     "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": [],
     "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": [],
