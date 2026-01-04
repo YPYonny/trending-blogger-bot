@@ -223,7 +223,9 @@
     "c2fcebc2fb86a5176599a74632c7cffde01236fa",
     "8bcd9a5d9ece637e369c605eea7ceb169c0795ea",
     "6d111cf1f8da2ea70f0fcafe4aa73061618bbb95",
-    "c90e30151bd0e8f0f08d2960da2ff77901ff292f"
+    "c90e30151bd0e8f0f08d2960da2ff77901ff292f",
+    "5a76481f4b0ae77ff5fe1428b24e5e218b93a05c",
+    "3a4a3e5a02d2f9928c3aa74025219a18f026abb0"
   ],
   "days": {
     "2025-09-14": [
@@ -669,9 +671,13 @@
     "2026-01-03": [
       "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur",
       "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement"
+    ],
+    "2026-01-04": [
+      "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne",
+      "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne"
     ]
   },
-  "cat_index": 224,
+  "cat_index": 226,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -897,8 +903,8 @@
     "OUTILS ET SERVICES EN LIGNE - Créer un organigramme en ligne": 1,
     "OUTILS ET SERVICES EN LIGNE - Éditer un fichier PDF directement dans le navigateur": 1,
     "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": 1,
-    "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": 0,
-    "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": 0,
+    "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": 1,
+    "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": 1,
     "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": 0,
     "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": 0,
     "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne": 0,
@@ -2075,8 +2081,12 @@
     "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": [
       "🤯 Fini les fautes d'orthographe ! Votre texte PRO en 1 clic."
     ],
-    "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": [],
-    "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": [],
+    "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": [
+      "🤯 Oubliez le chaos: créez votre calendrier partagé en ligne !"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": [
+      "🔑 Le secret pour ne plus jamais oublier vos mots de passe !"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": [],
     "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": [],
     "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne": [],
