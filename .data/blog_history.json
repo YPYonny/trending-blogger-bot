@@ -229,7 +229,9 @@
     "b30db0644e9f10bf5c699d8b7a7459d6fa4d0fb1",
     "f05671d149dd158b6f71c898c105180cc7ca040f",
     "8c11cf45a2458eef331f2866e7f8512c9a6755c1",
-    "161da1f0aec725fcc4784b5282243cc02afabe5f"
+    "161da1f0aec725fcc4784b5282243cc02afabe5f",
+    "cea5463fdbd97dd7b4ce095da4d7c7733514aa84",
+    "6366d13643642a79267cf6f90b649e193ae724d3"
   ],
   "days": {
     "2025-09-14": [
@@ -687,9 +689,13 @@
     "2026-01-06": [
       "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne",
       "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite"
+    ],
+    "2026-01-07": [
+      "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier",
+      "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO"
     ]
   },
-  "cat_index": 230,
+  "cat_index": 232,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -921,8 +927,8 @@
     "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": 1,
     "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne": 1,
     "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": 0,
-    "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": 1,
+    "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": 0,
     "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": 0,
     "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms": 0,
@@ -2111,8 +2117,12 @@
     "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite": [
       "🔥 Eventbrite: Révélez le pro de l'événement en vous !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": [],
-    "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": [
+      "🚀 Tapez 2x plus vite ! Boostez votre productivité dès aujourd'hui."
+    ],
+    "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": [
+      "🚀 SEO 2025 : Maîtrisez les Bases et Dominez Google Facilement !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": [],
     "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": [],
     "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms": [],
