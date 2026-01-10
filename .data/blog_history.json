@@ -235,7 +235,9 @@
     "e1944df9a7ea9d470498ffc922b11b4544f13783",
     "e4f7021bd97b0951e2a040b0ad2b6bbe63d775d3",
     "9a143ba4773eb7cccf8d7ab6cdbd0c1465fd0445",
-    "8ed8cd24de280c19b9e3834b4f8fbe32b2c72bfb"
+    "8ed8cd24de280c19b9e3834b4f8fbe32b2c72bfb",
+    "c68ab2ae4194aac2648a80ca2c3df68a694f088d",
+    "b94a2804228880d3c67587adf59c4805b42b1f29"
   ],
   "days": {
     "2025-09-14": [
@@ -705,9 +707,13 @@
     "2026-01-09": [
       "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms",
       "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo"
+    ],
+    "2026-01-10": [
+      "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy",
+      "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle"
     ]
   },
-  "cat_index": 236,
+  "cat_index": 238,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -945,8 +951,8 @@
     "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": 1,
     "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": 0,
-    "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": 1,
+    "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": 0,
     "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": 0,
@@ -2147,8 +2153,12 @@
     "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo": [
       "🦉 Duolingo Anglais : Devenez bilingue RAPIDEMENT !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": [],
-    "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": [
+      "💡 Maîtriser les Maths : Le Secret Khan Academy Révélé en 2025 !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": [
+      "🚀 Finance Perso : Découvrez LES bases pour changer votre vie !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": [],
     "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": [],
     "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": [],
