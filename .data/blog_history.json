@@ -239,7 +239,9 @@
     "c68ab2ae4194aac2648a80ca2c3df68a694f088d",
     "b94a2804228880d3c67587adf59c4805b42b1f29",
     "8c345c7bc690d3d82993d3bb0c87748310caff83",
-    "46e10e7611c0d6cf6b02e03c78aa805c5003a209"
+    "46e10e7611c0d6cf6b02e03c78aa805c5003a209",
+    "990e0987942c4922f1dd63034158d5e6538b71f6",
+    "1b62b18aa165d47fbd98fdb708880e991372fa31"
   ],
   "days": {
     "2025-09-14": [
@@ -717,9 +719,13 @@
     "2026-01-11": [
       "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement",
       "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité"
+    ],
+    "2026-01-12": [
+      "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design",
+      "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera"
     ]
   },
-  "cat_index": 240,
+  "cat_index": 242,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -961,8 +967,8 @@
     "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": 1,
     "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": 0,
-    "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": 1,
+    "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": 0,
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": 0,
@@ -2171,8 +2177,12 @@
     "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": [
       "🔒 Stop au Piratage: Apprenez les Bases de la Cybersécurité Facilement!"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": [],
-    "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": [
+      "🎨 Maîtrisez Canva: Créez des designs pro SANS être expert!"
+    ],
+    "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": [
+      "🚀 Coursera Gratuit : Le Savoir Qui Va Changer Votre Vie !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": [],
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": [],
     "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": [],
