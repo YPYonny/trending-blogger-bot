@@ -243,7 +243,9 @@
     "990e0987942c4922f1dd63034158d5e6538b71f6",
     "1b62b18aa165d47fbd98fdb708880e991372fa31",
     "ff1a5b5d59dd48b76d4761dea1184d7180b94551",
-    "cc5468f145d8eb6353c669ca6bde3986ae8b830b"
+    "cc5468f145d8eb6353c669ca6bde3986ae8b830b",
+    "99ea3a8eec5d7bc2fc64dbace2297a323de7401d",
+    "40fc11fd205ab72aca30483794335eed3c7709b6"
   ],
   "days": {
     "2025-09-14": [
@@ -729,9 +731,13 @@
     "2026-01-13": [
       "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet",
       "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain"
+    ],
+    "2026-01-14": [
+      "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo",
+      "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java"
     ]
   },
-  "cat_index": 244,
+  "cat_index": 246,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -977,8 +983,8 @@
     "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": 1,
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": 0,
-    "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": 1,
+    "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": 0,
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": 0,
@@ -2195,8 +2201,12 @@
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": [
       "🚀 Blockchain : Démystifiez la Révolution du Futur !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": [],
-    "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": [
+      "✨ Débutant ? Montez Vos Vidéos Pro Facilement dès Aujourd'hui !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": [
+      "🚀 Apprenez Java en 2025 : Démarrez votre carrière de développeur !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": [],
     "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": [],
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": [],
