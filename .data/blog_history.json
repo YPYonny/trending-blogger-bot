@@ -245,7 +245,9 @@
     "ff1a5b5d59dd48b76d4761dea1184d7180b94551",
     "cc5468f145d8eb6353c669ca6bde3986ae8b830b",
     "99ea3a8eec5d7bc2fc64dbace2297a323de7401d",
-    "40fc11fd205ab72aca30483794335eed3c7709b6"
+    "40fc11fd205ab72aca30483794335eed3c7709b6",
+    "498cd8bd0e1b494e62e3db5e68460aca9511ba5b",
+    "e1f9390c31a1b238c8d61ba5e1553180d04d9ce5"
   ],
   "days": {
     "2025-09-14": [
@@ -735,9 +737,13 @@
     "2026-01-14": [
       "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo",
       "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java"
+    ],
+    "2026-01-15": [
+      "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux",
+      "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web"
     ]
   },
-  "cat_index": 246,
+  "cat_index": 248,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -985,8 +991,8 @@
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": 0,
-    "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": 1,
+    "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": 1,
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": 0,
     "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": 0,
@@ -2207,8 +2213,12 @@
     "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": [
       "🚀 Apprenez Java en 2025 : Démarrez votre carrière de développeur !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": [],
-    "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": [
+      "💡 Le Secret pour Maîtriser Linux Facilement Dévoilé !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": [
+      "🔥 Le secret pour configurer un serveur web en 2025 !"
+    ],
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": [],
     "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": [],
