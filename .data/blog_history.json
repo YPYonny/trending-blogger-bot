@@ -247,7 +247,9 @@
     "99ea3a8eec5d7bc2fc64dbace2297a323de7401d",
     "40fc11fd205ab72aca30483794335eed3c7709b6",
     "498cd8bd0e1b494e62e3db5e68460aca9511ba5b",
-    "e1f9390c31a1b238c8d61ba5e1553180d04d9ce5"
+    "e1f9390c31a1b238c8d61ba5e1553180d04d9ce5",
+    "6f9a26959b13451a9014b19828466df25024580c",
+    "bd42b3ec51dfe2c74181421cd12325e52a16a65b"
   ],
   "days": {
     "2025-09-14": [
@@ -741,9 +743,13 @@
     "2026-01-15": [
       "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux",
       "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web"
+    ],
+    "2026-01-16": [
+      "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing",
+      "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données"
     ]
   },
-  "cat_index": 248,
+  "cat_index": 250,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -993,8 +999,8 @@
     "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": 1,
-    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": 0,
-    "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": 0,
+    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": 1,
+    "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": 0,
     "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": 0,
@@ -2219,8 +2225,12 @@
     "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": [
       "🔥 Le secret pour configurer un serveur web en 2025 !"
     ],
-    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": [],
-    "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": [],
+    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": [
+      "⚡ Cloud Computing : La révolution expliquée en 2025 !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": [
+      "🔒 Évitez les amendes: formation protection des données vitale !"
+    ],
     "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": [],
     "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": [],
