@@ -251,7 +251,9 @@
     "6f9a26959b13451a9014b19828466df25024580c",
     "bd42b3ec51dfe2c74181421cd12325e52a16a65b",
     "b0337048b14fb246c7862b1b121c35991cce324a",
-    "2f8224d4e5a56d836d6263540e9fc862f419a4b0"
+    "2f8224d4e5a56d836d6263540e9fc862f419a4b0",
+    "07af38fd0ec18ef1be29df6cb369bcabc9f610c3",
+    "07a2175312f709e74dbf60d35427bb21d4d91a63"
   ],
   "days": {
     "2025-09-14": [
@@ -753,9 +755,13 @@
     "2026-01-17": [
       "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto",
       "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas"
+    ],
+    "2026-01-18": [
+      "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP",
+      "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish"
     ]
   },
-  "cat_index": 252,
+  "cat_index": 254,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1009,8 +1015,8 @@
     "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": 1,
     "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": 1,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": 0,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": 0,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": 1,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": 1,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": 0,
@@ -2243,8 +2249,12 @@
     "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": [
       "🔓 Maîtrisez la Faille LFI: Guide Éthique Pas à Pas!"
     ],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": [],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": [],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": [
+      "⚠️ Brute-force FTP avec Hydra : Apprenez (légalement) comment !"
+    ],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": [
+      "🎣 Phishing Facebook : Créez votre clone avec SocialFish !"
+    ],
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": [],
