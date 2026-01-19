@@ -253,7 +253,9 @@
     "b0337048b14fb246c7862b1b121c35991cce324a",
     "2f8224d4e5a56d836d6263540e9fc862f419a4b0",
     "07af38fd0ec18ef1be29df6cb369bcabc9f610c3",
-    "07a2175312f709e74dbf60d35427bb21d4d91a63"
+    "07a2175312f709e74dbf60d35427bb21d4d91a63",
+    "9af340bdd7ad49ed0e84c35d5916cd64d75e69bd",
+    "b25a0cfc6a3c91a3f8a6b25795d38e8abc72b121"
   ],
   "days": {
     "2025-09-14": [
@@ -759,9 +761,13 @@
     "2026-01-18": [
       "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP",
       "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish"
+    ],
+    "2026-01-19": [
+      "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine",
+      "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl"
     ]
   },
-  "cat_index": 254,
+  "cat_index": 256,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1017,8 +1023,8 @@
     "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": 1,
-    "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": 0,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": 0,
+    "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": 1,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": 0,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux": 0,
@@ -2255,8 +2261,12 @@
     "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": [
       "🎣 Phishing Facebook : Créez votre clone avec SocialFish !"
     ],
-    "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": [],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": [],
+    "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": [
+      "🔐 Qui se cache derrière ce domaine? Maîtrisez Whois 2025 !"
+    ],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": [
+      "🚀 Curl: Dévoilez les en-têtes HTTP comme un pro du hacking éthique."
+    ],
     "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": [],
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux": [],
