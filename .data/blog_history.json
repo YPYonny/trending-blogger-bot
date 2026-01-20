@@ -255,7 +255,9 @@
     "07af38fd0ec18ef1be29df6cb369bcabc9f610c3",
     "07a2175312f709e74dbf60d35427bb21d4d91a63",
     "9af340bdd7ad49ed0e84c35d5916cd64d75e69bd",
-    "b25a0cfc6a3c91a3f8a6b25795d38e8abc72b121"
+    "b25a0cfc6a3c91a3f8a6b25795d38e8abc72b121",
+    "0dbec4f7277a67be5ad4b8b11d805b22082863db",
+    "4af96fb92a6b14d1551d784c651785c5d5ef15d0"
   ],
   "days": {
     "2025-09-14": [
@@ -765,9 +767,13 @@
     "2026-01-19": [
       "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine",
       "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl"
+    ],
+    "2026-01-20": [
+      "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC",
+      "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains"
     ]
   },
-  "cat_index": 256,
+  "cat_index": 258,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1025,8 +1031,8 @@
     "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": 1,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": 1,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": 0,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": 0,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": 1,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": 1,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux": 0,
     "HACKING ÉETHIQUE & SÉCURITÉ - Exploiter une injection XML (XXE)": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": 0,
@@ -2267,8 +2273,12 @@
     "HACKING ÉTHIQUE & SÉCURITÉ - Récupérer les en-têtes HTTP avec Curl": [
       "🚀 Curl: Dévoilez les en-têtes HTTP comme un pro du hacking éthique."
     ],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": [],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": [],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Simuler un DDoS sur un serveur local avec LOIC": [
+      "🚨 Simulez un DDoS avec LOIC: Testez votre sécurité (éthiquement)!"
+    ],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": [
+      "👻 Pare-feu ? Invisible avec Proxychains : Le Guide Ultime !"
+    ],
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux": [],
     "HACKING ÉETHIQUE & SÉCURITÉ - Exploiter une injection XML (XXE)": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": [],
