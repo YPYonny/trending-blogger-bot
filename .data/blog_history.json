@@ -259,7 +259,9 @@
     "0dbec4f7277a67be5ad4b8b11d805b22082863db",
     "4af96fb92a6b14d1551d784c651785c5d5ef15d0",
     "bbd27fd1519bcf8e73bdb1db39be1d84f705ef4d",
-    "92e092d83a97ee2f241a79080454274d62e5a094"
+    "92e092d83a97ee2f241a79080454274d62e5a094",
+    "52f39c8361848e322c4e6964db1e7351bd361143",
+    "f367cd209205241a3404564490daee84ca061f00"
   ],
   "days": {
     "2025-09-14": [
@@ -777,9 +779,13 @@
     "2026-01-21": [
       "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux",
       "HACKING ÉETHIQUE & SÉCURITÉ - Exploiter une injection XML (XXE)"
+    ],
+    "2026-01-22": [
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne",
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP"
     ]
   },
-  "cat_index": 260,
+  "cat_index": 262,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1041,8 +1047,8 @@
     "HACKING ÉTHIQUE & SÉCURITÉ - Bypasser un pare-feu avec proxychains": 1,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser John The Ripper pour cracker un mot de passe Linux": 1,
     "HACKING ÉETHIQUE & SÉCURITÉ - Exploiter une injection XML (XXE)": 1,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": 0,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP": 0,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": 1,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour trouver les sous-domaines d’un site": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": 0,
@@ -2291,8 +2297,12 @@
     "HACKING ÉETHIQUE & SÉCURITÉ - Exploiter une injection XML (XXE)": [
       "😈 XXE : Brisez les défenses ! Maîtrisez l'injection XML ultime."
     ],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": [],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP": [],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un script Python pour vérifier si un site est en ligne": [
+      "🚨 Votre site est down ? Le script Python qui vous sauve la mise !"
+    ],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP": [
+      "🚀 Python + FTP: Votre site sauvegardé EN AUTOMATIQUE, sans effort!"
+    ],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour trouver les sous-domaines d’un site": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": [],
