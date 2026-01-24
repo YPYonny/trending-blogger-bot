@@ -263,7 +263,9 @@
     "52f39c8361848e322c4e6964db1e7351bd361143",
     "f367cd209205241a3404564490daee84ca061f00",
     "0685dac6bb9f4e14e4d91a1b4db2ec769cd95b08",
-    "734e3140d360d9c87416c0ba3b762dfda4867dba"
+    "734e3140d360d9c87416c0ba3b762dfda4867dba",
+    "24ac27ec34c1b4611a79f7e7c05417c4d0660f91",
+    "77a280e20742551fb98b5029f7f58cfb2610a0ab"
   ],
   "days": {
     "2025-09-14": [
@@ -789,9 +791,13 @@
     "2026-01-23": [
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour trouver les sous-domaines d’un site",
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python"
+    ],
+    "2026-01-24": [
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python",
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)"
     ]
   },
-  "cat_index": 264,
+  "cat_index": 266,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1057,8 +1063,8 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser la sauvegarde d’un site avec Python et FTP": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour trouver les sous-domaines d’un site": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python": 1,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": 0,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": 0,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": 1,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": 0,
@@ -2315,8 +2321,12 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python": [
       "🚀 Python ultime: Révélez les failles avec vos scans de ports !"
     ],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": [],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": [],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": [
+      "🔒 Maîtrisez Python: Démasquez Votre IP Publique !"
+    ],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": [
+      "🔐 Votre Keylogger Python Éthique : Le Code Révélé 2025 !"
+    ],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": [],
