@@ -265,7 +265,9 @@
     "0685dac6bb9f4e14e4d91a1b4db2ec769cd95b08",
     "734e3140d360d9c87416c0ba3b762dfda4867dba",
     "24ac27ec34c1b4611a79f7e7c05417c4d0660f91",
-    "77a280e20742551fb98b5029f7f58cfb2610a0ab"
+    "77a280e20742551fb98b5029f7f58cfb2610a0ab",
+    "1179fd1342b9734260df0f9854fd61c9a892f556",
+    "6271b0a43bfc558e08cdd0ad1023890eb32c00ed"
   ],
   "days": {
     "2025-09-14": [
@@ -795,9 +797,13 @@
     "2026-01-24": [
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python",
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)"
+    ],
+    "2026-01-25": [
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python",
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python"
     ]
   },
-  "cat_index": 266,
+  "cat_index": 268,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1065,8 +1071,8 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Automatiser un scan de ports avec Python": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Détecter une adresse IP publique via Python": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": 1,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": 0,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": 0,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": 1,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": 0,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": 0,
@@ -2327,8 +2333,12 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": [
       "🔐 Votre Keylogger Python Éthique : Le Code Révélé 2025 !"
     ],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": [],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": [],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": [
+      "🔒 Ne soyez PLUS piraté! Mots de passe Python INCASSABLES!"
+    ],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": [
+      "🔒 Maîtrisez l'email anonyme avec Python: Le secret dévoilé !"
+    ],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": [],
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": [],
