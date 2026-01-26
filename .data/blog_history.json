@@ -267,7 +267,9 @@
     "24ac27ec34c1b4611a79f7e7c05417c4d0660f91",
     "77a280e20742551fb98b5029f7f58cfb2610a0ab",
     "1179fd1342b9734260df0f9854fd61c9a892f556",
-    "6271b0a43bfc558e08cdd0ad1023890eb32c00ed"
+    "6271b0a43bfc558e08cdd0ad1023890eb32c00ed",
+    "8e0d0be2c4b2236c2a42c61f915e7b08163371b8",
+    "ffff6163bed1367682322975cac8a555e36d729e"
   ],
   "days": {
     "2025-09-14": [
@@ -801,9 +803,13 @@
     "2026-01-25": [
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python",
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python"
+    ],
+    "2026-01-26": [
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup",
+      "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows"
     ]
   },
-  "cat_index": 268,
+  "cat_index": 270,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1073,8 +1079,8 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Créer un keylogger en Python (usage éthique uniquement)": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Générer des mots de passe forts en Python": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": 1,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": 0,
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": 0,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": 1,
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock": 0,
@@ -2339,8 +2345,12 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": [
       "🔒 Maîtrisez l'email anonyme avec Python: Le secret dévoilé !"
     ],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": [],
-    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": [],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": [
+      "🕵️ Démasquez tous les liens d'une page avec BeautifulSoup"
+    ],
+    "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": [
+      "🚀 Python en EXE Windows : Libérez vos scripts de sécurité !"
+    ],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock": [],
