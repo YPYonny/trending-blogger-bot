@@ -273,7 +273,9 @@
     "30db9735925b1be2ff21426559dc06e4b2aae8de",
     "89afcff4db202abdf5cd14c376b27fc99d76064d",
     "3bc6ddfc5032c0d9862d3f9210cb62c1f82a2515",
-    "e746c1c9120f03ed943c3430134bc7412f265d71"
+    "e746c1c9120f03ed943c3430134bc7412f265d71",
+    "6ab5bf2184db8e1e47ce116c5d8df3c1fe1fbd66",
+    "8a57bee26b96c63eb248e4e18ca1db7fc2a6d8c3"
   ],
   "days": {
     "2025-09-14": [
@@ -819,9 +821,13 @@
     "2026-01-28": [
       "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock",
       "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web"
+    ],
+    "2026-01-29": [
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine",
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP"
     ]
   },
-  "cat_index": 274,
+  "cat_index": 276,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1097,8 +1103,8 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web": 1,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": 0,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": 0,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": 1,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": 0,
@@ -2375,8 +2381,12 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web": [
       "🕵️‍♂️ Votre pseudo sur le Dark Web ? Révélez la vérité cachée !"
     ],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": [],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": [],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": [
+      "🕰️ OSINT & Wayback: Déterrez les Secrets des Sites Web!"
+    ],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": [
+      "🌐 IP : Le secret de sa localisation enfin révélé !"
+    ],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": [],
