@@ -277,7 +277,9 @@
     "6ab5bf2184db8e1e47ce116c5d8df3c1fe1fbd66",
     "8a57bee26b96c63eb248e4e18ca1db7fc2a6d8c3",
     "5b2c04d3986dd4e2dc5d55b778be217ea83a46bf",
-    "5b2707065de28f64f5c5334365565e3dd587f5e8"
+    "5b2707065de28f64f5c5334365565e3dd587f5e8",
+    "46343ef1c1976004645dbf2d3d6843b2166b6f49",
+    "308feafd2c7cc5834bfc3c69070d3bc0535a21de"
   ],
   "days": {
     "2025-09-14": [
@@ -831,9 +833,13 @@
     "2026-01-30": [
       "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens",
       "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint"
+    ],
+    "2026-01-31": [
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web",
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données"
     ]
   },
-  "cat_index": 278,
+  "cat_index": 280,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1113,8 +1119,8 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": 1,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": 0,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": 0,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": 1,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": 1,
     "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": 0,
     "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": 0,
     "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": 0,
@@ -2399,8 +2405,12 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": [
       "🕵️‍♂️ OSINT Facile: Suivez N'importe Quel Compte Twitter avec Twint !"
     ],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": [],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": [],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": [
+      "🔎 Qui héberge VRAIMENT ce site ? L'OSINT dévoile tout !"
+    ],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": [
+      "🕵️ OSINT Maltego : Révélez des connexions cachées et choquantes !"
+    ],
     "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": [],
     "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": [],
     "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": [],
