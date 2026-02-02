@@ -281,7 +281,9 @@
     "46343ef1c1976004645dbf2d3d6843b2166b6f49",
     "308feafd2c7cc5834bfc3c69070d3bc0535a21de",
     "d5c4cb999719f2515323708ea9bf93027649eab8",
-    "1e5ad7f943c99d0664583e653f9054305c436583"
+    "1e5ad7f943c99d0664583e653f9054305c436583",
+    "0aff0ce6cd852728c9973293a89783cf94df1fc2",
+    "3d91384d557b7b0b3f4c927be447b605e6e7573c"
   ],
   "days": {
     "2025-09-14": [
@@ -843,9 +845,13 @@
     "2026-02-01": [
       "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark",
       "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng"
+    ],
+    "2026-02-02": [
+      "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé",
+      "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng"
     ]
   },
-  "cat_index": 282,
+  "cat_index": 284,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1129,8 +1135,8 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": 1,
     "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": 1,
     "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": 1,
-    "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": 0,
-    "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": 0,
+    "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": 1,
+    "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": 1,
     "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": 0,
     "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": 0,
     "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": 0,
@@ -2423,8 +2429,12 @@
     "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": [
       "⚠️ Piège Wi-Fi: Créez votre faux AP avec Airbase-ng !"
     ],
-    "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": [],
-    "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": [],
+    "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": [
+      "🔓 Mots de passe réseau: Dévoilez les secrets d'un réseau non sécurisé!"
+    ],
+    "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": [
+      "🤫 WPA : Le secret pour cracker un mot de passe Aircrack-ng !"
+    ],
     "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": [],
     "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": [],
     "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": [],
