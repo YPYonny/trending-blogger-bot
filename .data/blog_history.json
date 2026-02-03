@@ -283,7 +283,9 @@
     "d5c4cb999719f2515323708ea9bf93027649eab8",
     "1e5ad7f943c99d0664583e653f9054305c436583",
     "0aff0ce6cd852728c9973293a89783cf94df1fc2",
-    "3d91384d557b7b0b3f4c927be447b605e6e7573c"
+    "3d91384d557b7b0b3f4c927be447b605e6e7573c",
+    "7796210d5068cc4d640fa9615908b5b5a65d9ced",
+    "de0a4438e7116dfe0d5f2a237da20cc999f10917"
   ],
   "days": {
     "2025-09-14": [
@@ -849,9 +851,13 @@
     "2026-02-02": [
       "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé",
       "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng"
+    ],
+    "2026-02-03": [
+      "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau",
+      "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit"
     ]
   },
-  "cat_index": 284,
+  "cat_index": 286,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1137,8 +1143,8 @@
     "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": 1,
     "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": 1,
     "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": 1,
-    "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": 0,
-    "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": 0,
+    "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": 1,
+    "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": 1,
     "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": 0,
     "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": 0,
     "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": 0,
@@ -2435,8 +2441,12 @@
     "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": [
       "🤫 WPA : Le secret pour cracker un mot de passe Aircrack-ng !"
     ],
-    "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": [],
-    "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": [],
+    "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": [
+      "🔍 Qui espionne votre réseau ? Révélez les intrus !"
+    ],
+    "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": [
+      "💀 SMB : L'attaque Metasploit que vous DEVEZ absolument maîtriser."
+    ],
     "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": [],
     "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": [],
     "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": [],
