@@ -285,7 +285,9 @@
     "0aff0ce6cd852728c9973293a89783cf94df1fc2",
     "3d91384d557b7b0b3f4c927be447b605e6e7573c",
     "7796210d5068cc4d640fa9615908b5b5a65d9ced",
-    "de0a4438e7116dfe0d5f2a237da20cc999f10917"
+    "de0a4438e7116dfe0d5f2a237da20cc999f10917",
+    "9ca7862b58306ade991ff4417d7ea2199b34c688",
+    "5d282a7de640bae4d8d1bb946c330e0b88c7b7f4"
   ],
   "days": {
     "2025-09-14": [
@@ -855,9 +857,13 @@
     "2026-02-03": [
       "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau",
       "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit"
+    ],
+    "2026-02-04": [
+      "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)",
+      "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis"
     ]
   },
-  "cat_index": 286,
+  "cat_index": 288,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1145,8 +1151,8 @@
     "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": 1,
     "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": 1,
     "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": 1,
-    "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": 0,
-    "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": 0,
+    "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": 1,
+    "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": 1,
     "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": 0,
     "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": 0,
     "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": 0,
@@ -2447,8 +2453,12 @@
     "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": [
       "💀 SMB : L'attaque Metasploit que vous DEVEZ absolument maîtriser."
     ],
-    "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": [],
-    "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": [],
+    "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": [
+      "😈 Hackez comme un pro : Maîtrisez l'attaque MITM en réseau !"
+    ],
+    "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": [
+      "🚫 Bloquez l'accès internet : Prenez le contrôle d'un appareil !"
+    ],
     "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": [],
     "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": [],
     "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": [],
