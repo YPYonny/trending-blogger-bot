@@ -287,7 +287,9 @@
     "7796210d5068cc4d640fa9615908b5b5a65d9ced",
     "de0a4438e7116dfe0d5f2a237da20cc999f10917",
     "9ca7862b58306ade991ff4417d7ea2199b34c688",
-    "5d282a7de640bae4d8d1bb946c330e0b88c7b7f4"
+    "5d282a7de640bae4d8d1bb946c330e0b88c7b7f4",
+    "4275f39559953a8182ef5a564ece46247fad19a3",
+    "84e4e3c07a65b75e28cb60cbaeb102497c05b040"
   ],
   "days": {
     "2025-09-14": [
@@ -861,9 +863,13 @@
     "2026-02-04": [
       "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)",
       "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis"
+    ],
+    "2026-02-05": [
+      "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap",
+      "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic"
     ]
   },
-  "cat_index": 288,
+  "cat_index": 290,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1153,8 +1159,8 @@
     "PENTESTING RÉSEAU - Exploiter une vulnérabilité SMB avec Metasploit": 1,
     "PENTESTING RÉSEAU - Simuler une attaque MITM (Man in the Middle)": 1,
     "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": 1,
-    "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": 0,
-    "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": 0,
+    "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": 1,
+    "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": 1,
     "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": 0,
     "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": 0,
     "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap": 0,
@@ -2459,8 +2465,12 @@
     "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": [
       "🚫 Bloquez l'accès internet : Prenez le contrôle d'un appareil !"
     ],
-    "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": [],
-    "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": [],
+    "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": [
+      "🕵️ Révélez les secrets de votre réseau avec Nmap : Guide 2025 !"
+    ],
+    "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": [
+      "📡 Interceptez TOUT: L'ARP Spoofing en Pentesting Réseau Dévoilé"
+    ],
     "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": [],
     "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": [],
     "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap": [],
