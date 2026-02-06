@@ -289,7 +289,9 @@
     "9ca7862b58306ade991ff4417d7ea2199b34c688",
     "5d282a7de640bae4d8d1bb946c330e0b88c7b7f4",
     "4275f39559953a8182ef5a564ece46247fad19a3",
-    "84e4e3c07a65b75e28cb60cbaeb102497c05b040"
+    "84e4e3c07a65b75e28cb60cbaeb102497c05b040",
+    "c1cb53c7be57c61ea7d5c14c667255ad7181f1bc",
+    "597eade2b2628a0ab653e28dc0adb09867ed7153"
   ],
   "days": {
     "2025-09-14": [
@@ -867,9 +869,13 @@
     "2026-02-05": [
       "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap",
       "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic"
+    ],
+    "2026-02-06": [
+      "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS",
+      "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique"
     ]
   },
-  "cat_index": 290,
+  "cat_index": 292,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1161,8 +1167,8 @@
     "PENTESTING RÉSEAU - Bloquer l’accès internet à un appareil précis": 1,
     "PENTESTING RÉSEAU - Faire un scan réseau avec Nmap": 1,
     "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": 1,
-    "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": 0,
-    "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": 0,
+    "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": 1,
+    "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": 1,
     "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap": 0,
     "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP": 0,
     "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": 0,
@@ -2471,8 +2477,12 @@
     "PENTESTING RÉSEAU - Utiliser ARP Spoofing pour intercepter du trafic": [
       "📡 Interceptez TOUT: L'ARP Spoofing en Pentesting Réseau Dévoilé"
     ],
-    "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": [],
-    "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": [],
+    "SÉCURITÉ WEB & BYPASS - Tester un site pour vulnérabilités XSS": [
+      "🚨 XSS : Découvrez la faille cachée qui menace votre site !"
+    ],
+    "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": [
+      "🔓 Bypasser un login: Le secret SQL Injection enfin dévoilé !"
+    ],
     "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap": [],
     "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP": [],
     "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": [],
