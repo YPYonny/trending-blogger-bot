@@ -293,7 +293,9 @@
     "c1cb53c7be57c61ea7d5c14c667255ad7181f1bc",
     "597eade2b2628a0ab653e28dc0adb09867ed7153",
     "91f8b2ba61f32b9571828013bf084b6aeb1db5ab",
-    "91dd09da21f3b99d501ec084a2fdb6707bd83c31"
+    "91dd09da21f3b99d501ec084a2fdb6707bd83c31",
+    "d90caaf69e1dbfcef2bbe1a9c80483c38163069c",
+    "ee2679e80de20a6102b8eaeb31e7157d1c397e5e"
   ],
   "days": {
     "2025-09-14": [
@@ -879,9 +881,13 @@
     "2026-02-07": [
       "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap",
       "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP"
+    ],
+    "2026-02-08": [
+      "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb",
+      "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles"
     ]
   },
-  "cat_index": 294,
+  "cat_index": 296,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1177,8 +1183,8 @@
     "SÉCURITÉ WEB & BYPASS - Bypasser un login avec SQL Injection basique": 1,
     "SÉCURITÉ WEB & BYPASS - Extraire des données via SQLMap": 1,
     "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP": 1,
-    "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": 0,
-    "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": 0,
+    "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": 1,
+    "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": 1,
     "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": 0,
     "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": 0,
     "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": 0,
@@ -2495,8 +2501,12 @@
     "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP": [
       "🔥 Bypass PHP: Le secret de l'upload malveillant révélé!"
     ],
-    "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": [],
-    "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": [],
+    "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": [
+      "⚡️ Dirb : Accédez aux pages cachées ! Maîtrisez le Web Bypass."
+    ],
+    "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": [
+      "🚨 CMS : Découvrez VITE ses Failles SECRÈTES avant les Hackers !"
+    ],
     "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": [],
     "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": [],
     "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": [],
