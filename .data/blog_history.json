@@ -297,7 +297,9 @@
     "d90caaf69e1dbfcef2bbe1a9c80483c38163069c",
     "ee2679e80de20a6102b8eaeb31e7157d1c397e5e",
     "705b4788858ef2e40196267f7f9218fb92fc83b7",
-    "15f019f0abf187ac1c0f3a86414623e7f958fb58"
+    "15f019f0abf187ac1c0f3a86414623e7f958fb58",
+    "e38c7430c61dcf34ad05cb5273dffcdd134ec802",
+    "31464a153af7a4e17d74ca6cf1f2ed4017a94d1f"
   ],
   "days": {
     "2025-09-14": [
@@ -891,9 +893,13 @@
     "2026-02-09": [
       "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF",
       "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle"
+    ],
+    "2026-02-11": [
+      "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé",
+      "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web"
     ]
   },
-  "cat_index": 298,
+  "cat_index": 300,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1193,8 +1199,8 @@
     "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": 1,
     "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": 1,
     "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": 1,
-    "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": 0,
-    "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": 0,
+    "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": 1,
+    "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": 1,
     "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": 0,
     "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": 0,
     "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": 0,
@@ -2519,8 +2525,12 @@
     "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": [
       "🔓 Cloudflare: Le secret pour démasquer l'IP réelle révélé !"
     ],
-    "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": [],
-    "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": [],
+    "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": [
+      "🔒 Fichier protégé ? Le secret pour le télécharger révélé !"
+    ],
+    "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": [
+      "🔓 Bypass Login: Votre Script d'Auto-Connexion Secret !"
+    ],
     "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": [],
     "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": [],
     "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": [],
