@@ -301,7 +301,9 @@
     "e38c7430c61dcf34ad05cb5273dffcdd134ec802",
     "31464a153af7a4e17d74ca6cf1f2ed4017a94d1f",
     "edbc50696c3f7692a1febb9fc5cd6ed24aa7c0b1",
-    "13ff3fe9638601138d0456c6031e5cf554b37a19"
+    "13ff3fe9638601138d0456c6031e5cf554b37a19",
+    "3a63787c18ea09a13a12ce44b55cb01ea032a702",
+    "222ef272ea4966dc6fced5d68e0f8585b04ec4ad"
   ],
   "days": {
     "2025-09-14": [
@@ -903,9 +905,13 @@
     "2026-02-12": [
       "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)",
       "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android"
+    ],
+    "2026-02-13": [
+      "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK",
+      "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX"
     ]
   },
-  "cat_index": 302,
+  "cat_index": 304,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1209,8 +1215,8 @@
     "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": 1,
     "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": 1,
     "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": 1,
-    "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": 0,
-    "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": 0,
+    "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": 1,
+    "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": 1,
     "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": 0,
     "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": 0,
     "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": 0,
@@ -2543,8 +2549,12 @@
     "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": [
       "🔓 Comment extraire les données d'une app Android? Révélé!"
     ],
-    "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": [],
-    "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": [],
+    "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": [
+      "🚨 Stop! Vos applis Android voient TOUT. Comment savoir ?"
+    ],
+    "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": [
+      "🔒 Dévoilez les secrets des APK Android avec JADX en 2025 !"
+    ],
     "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": [],
     "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": [],
     "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": [],
