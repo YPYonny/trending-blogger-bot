@@ -303,7 +303,9 @@
     "edbc50696c3f7692a1febb9fc5cd6ed24aa7c0b1",
     "13ff3fe9638601138d0456c6031e5cf554b37a19",
     "3a63787c18ea09a13a12ce44b55cb01ea032a702",
-    "222ef272ea4966dc6fced5d68e0f8585b04ec4ad"
+    "222ef272ea4966dc6fced5d68e0f8585b04ec4ad",
+    "da3a8df794ba10c7376d63643e89d1bf037d746c",
+    "396822b3807b974421c53220d7409e64c2701393"
   ],
   "days": {
     "2025-09-14": [
@@ -909,9 +911,13 @@
     "2026-02-13": [
       "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK",
       "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX"
+    ],
+    "2026-02-14": [
+      "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android",
+      "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python"
     ]
   },
-  "cat_index": 304,
+  "cat_index": 306,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1217,8 +1223,8 @@
     "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": 1,
     "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": 1,
-    "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": 0,
-    "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": 0,
+    "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": 1,
+    "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": 1,
     "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": 0,
     "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": 0,
     "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": 0,
@@ -2555,8 +2561,12 @@
     "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": [
       "🔒 Dévoilez les secrets des APK Android avec JADX en 2025 !"
     ],
-    "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": [],
-    "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": [],
+    "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": [
+      "🕵️‍♂️ Android: Démasquez les secrets de votre réseau mobile !"
+    ],
+    "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": [
+      "⚡ Android: Le secret pour lancer Python sur mobile avec Termux !"
+    ],
     "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": [],
     "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": [],
     "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": [],
