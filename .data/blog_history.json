@@ -309,7 +309,9 @@
     "09dd5be39fd1cffa40748aea26618f92fba355dc",
     "91b9782157ee4307fe5a79c825c5f285107c31e4",
     "1a0c86cac7584fc06dd5c068f16db4dc1f1c1c7c",
-    "17115d4db170d94bb024adfcd53fa4a872630d7e"
+    "17115d4db170d94bb024adfcd53fa4a872630d7e",
+    "7f54b78f5185e03e1174cd2abe4e42fa83e808bb",
+    "6b78225d5d85872ebb3a9ddb047feae1da3b5578"
   ],
   "days": {
     "2025-09-14": [
@@ -927,9 +929,13 @@
     "2026-02-16": [
       "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté",
       "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)"
+    ],
+    "2026-02-17": [
+      "DARK WEB & ANONYMAT - Installer Tor sur PC et Android",
+      "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser"
     ]
   },
-  "cat_index": 310,
+  "cat_index": 312,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1241,8 +1247,8 @@
     "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": 1,
     "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": 1,
-    "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": 0,
-    "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": 0,
+    "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": 1,
+    "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": 1,
     "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": 0,
     "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": 0,
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 0,
@@ -2591,8 +2597,12 @@
     "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": [
       "🔓 Android bloqué ? Supprimez votre mot de passe oublié !"
     ],
-    "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": [],
-    "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": [],
+    "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": [
+      "🕵️‍♀️ Dark Web: Installez Tor sur PC & Android pour l'Anonymat Ultime"
+    ],
+    "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": [
+      "🔒 Dark Web : Explorez les sites .onion incognito avec Tor !"
+    ],
     "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": [],
     "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": [],
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": [],
