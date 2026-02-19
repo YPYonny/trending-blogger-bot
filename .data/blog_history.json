@@ -313,7 +313,9 @@
     "7f54b78f5185e03e1174cd2abe4e42fa83e808bb",
     "6b78225d5d85872ebb3a9ddb047feae1da3b5578",
     "5354411361e20f532868244fdc1a837e0f49f67b",
-    "d746bf07fefb59b4702939545566ee6112550959"
+    "d746bf07fefb59b4702939545566ee6112550959",
+    "08a35a55a0157a4025d1637c712cd314ad50fb29",
+    "94108a927f165143661bf643ee43475bc1442b02"
   ],
   "days": {
     "2025-09-14": [
@@ -939,9 +941,13 @@
     "2026-02-18": [
       "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor",
       "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme"
+    ],
+    "2026-02-19": [
+      "DARK WEB & ANONYMAT - Configurer un VPN sur routeur",
+      "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée"
     ]
   },
-  "cat_index": 314,
+  "cat_index": 316,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1257,8 +1263,8 @@
     "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": 1,
     "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": 1,
     "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": 1,
-    "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 0,
-    "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 0,
+    "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 1,
+    "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 1,
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 0,
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 0,
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 0,
@@ -2615,8 +2621,12 @@
     "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": [
       "🛡️ Dark Web : Anonymat TOTAL ! Découvrez le secret de Tails OS."
     ],
-    "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": [],
-    "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": [],
+    "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": [
+      "👻 Dark Web : VPN sur routeur, l'ultime bouclier anti-traçage !"
+    ],
+    "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": [
+      "🔒 Dark Web: Partagez vos fichiers chiffrés, restez introuvable !"
+    ],
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": [],
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": [],
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": [],
