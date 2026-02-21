@@ -317,7 +317,9 @@
     "08a35a55a0157a4025d1637c712cd314ad50fb29",
     "94108a927f165143661bf643ee43475bc1442b02",
     "588026947a0184697ef38647b29c0b10dad199a2",
-    "7fb22d98d0103ef332428eff487af4a47220cb4f"
+    "7fb22d98d0103ef332428eff487af4a47220cb4f",
+    "fae0a231e057b5a454b9b925f66344a78ce9685a",
+    "feff00427b35ed97c53108294f2461c9c4fd5653"
   ],
   "days": {
     "2025-09-14": [
@@ -951,9 +953,13 @@
     "2026-02-20": [
       "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages",
       "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy"
+    ],
+    "2026-02-21": [
+      "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme",
+      "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux"
     ]
   },
-  "cat_index": 318,
+  "cat_index": 320,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1273,8 +1279,8 @@
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 1,
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 1,
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 1,
-    "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 0,
-    "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 0,
+    "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 1,
+    "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 1,
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 0,
     "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": 0,
     "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": 0,
@@ -2639,8 +2645,12 @@
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": [
       "🔒 Votre IP exposée ? Maîtrisez l'anonymat sur le Dark Web !"
     ],
-    "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": [],
-    "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": [],
+    "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": [
+      "🛡️ Anonymat : Achetez en crypto sur le Dark Web sans laisser de trace"
+    ],
+    "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": [
+      "🕵️ Fuyez le tracking: Devenez invisible sur les réseaux sociaux !"
+    ],
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": [],
     "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": [],
     "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": [],
