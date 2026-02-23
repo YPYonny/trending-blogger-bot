@@ -321,7 +321,9 @@
     "fae0a231e057b5a454b9b925f66344a78ce9685a",
     "feff00427b35ed97c53108294f2461c9c4fd5653",
     "dac18872697b0494795a4ffa62ff76c75ad320a1",
-    "ffb856642c1477aaffeac59d16ca25560a35524b"
+    "ffb856642c1477aaffeac59d16ca25560a35524b",
+    "197bc151bd4aa8c2fb11a42654a26ca3033eb423",
+    "f077a5c8f7be3f2567fb606d6f52c8691c17fd48"
   ],
   "days": {
     "2025-09-14": [
@@ -963,9 +965,13 @@
     "2026-02-22": [
       "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort",
       "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt"
+    ],
+    "2026-02-23": [
+      "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux",
+      "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows"
     ]
   },
-  "cat_index": 322,
+  "cat_index": 324,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1289,8 +1295,8 @@
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 1,
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 1,
     "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": 1,
-    "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": 0,
-    "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": 0,
+    "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": 1,
+    "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": 1,
     "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs": 0,
     "CYBERDÉFENSE & PRÉVENTION - Détecter un logiciel espion sur PC": 0,
     "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": 0,
@@ -2663,8 +2669,12 @@
     "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": [
       "🛡️ VeraCrypt: Rendez vos données INVIOLABLES dès AUJOURD'HUI !"
     ],
-    "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": [],
-    "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": [],
+    "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": [
+      "⚡ Serveur Linux: L'erreur FATALE à éviter pour le sécuriser!"
+    ],
+    "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": [
+      "🛡️ Pare-feu Windows: Le bouclier anti-hacker que vous devez avoir!"
+    ],
     "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs": [],
     "CYBERDÉFENSE & PRÉVENTION - Détecter un logiciel espion sur PC": [],
     "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": [],
