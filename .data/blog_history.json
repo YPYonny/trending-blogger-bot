@@ -331,7 +331,9 @@
     "44259e7a1a19b2e8c4474c775a39c9ba6eb2466a",
     "4db2bfb7fdc7a97ccd1b534d67076cdef82f9041",
     "f74fbbac67267a59c7eed6de040c0c11a704c33f",
-    "7ed05feac5309239f39e0289e8de2ac7770bf25e"
+    "7ed05feac5309239f39e0289e8de2ac7770bf25e",
+    "31ab0d97ae572cc3a9421dc47421357e50930ee4",
+    "9e5cb91a2a6e5d3911e7e8eb002155aa4234838d"
   ],
   "days": {
     "2025-09-14": [
@@ -993,9 +995,13 @@
     "2026-02-27": [
       "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)",
       "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total"
+    ],
+    "2026-02-28": [
+      "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu",
+      "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus"
     ]
   },
-  "cat_index": 332,
+  "cat_index": 334,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1329,8 +1335,8 @@
     "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)": 1,
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": 1,
     "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": 1,
-    "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": 0,
-    "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": 0,
+    "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": 1,
+    "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": 1,
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": 0,
     "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": 0,
     "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": 0,
@@ -2723,8 +2729,12 @@
     "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": [
       "🤯 Hacking Éthique : Chaînez les failles pour l'accès total ultime !"
     ],
-    "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": [],
-    "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": [],
+    "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": [
+      "🤯 Piratage Éthique : Démasquez l'Inconnu. Analyse Malware Avancée"
+    ],
+    "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": [
+      "🚀 Hacking Éthique: Contournez N'IMPORTE QUEL Antivirus !"
+    ],
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": [],
     "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": [],
     "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": [],
