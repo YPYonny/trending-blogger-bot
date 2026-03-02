@@ -335,7 +335,9 @@
     "31ab0d97ae572cc3a9421dc47421357e50930ee4",
     "9e5cb91a2a6e5d3911e7e8eb002155aa4234838d",
     "27c67add9fb499856f17a445783889c5c9fab4bf",
-    "4cc8ce9a5f42a66d358724f9adc55a2a748deddd"
+    "4cc8ce9a5f42a66d358724f9adc55a2a748deddd",
+    "3a6fce347201334451c88098366beedc275923c4",
+    "f0eed22da64b5ad33cb39f155eefd1c01f2d349d"
   ],
   "days": {
     "2025-09-14": [
@@ -1005,9 +1007,13 @@
     "2026-03-01": [
       "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)",
       "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic"
+    ],
+    "2026-03-02": [
+      "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles",
+      "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web"
     ]
   },
-  "cat_index": 336,
+  "cat_index": 338,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1345,8 +1351,8 @@
     "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": 1,
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": 1,
     "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": 1,
-    "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": 0,
-    "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": 0,
+    "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": 1,
+    "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": 1,
     "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": 0,
     "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": 0,
     "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": 0,
@@ -2747,8 +2753,12 @@
     "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": [
       "🚨 Burp Suite: Interception avancée, démasquez les failles!"
     ],
-    "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": [],
-    "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": [],
+    "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": [
+      "🚀 Hackez comme un PRO: Maîtrisez les requêtes HTTP manuelles"
+    ],
+    "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": [
+      "🕵️‍♂️ Hacking Éthique: La vérité sur l'énumération d'utilisateurs !"
+    ],
     "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": [],
     "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": [],
     "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": [],
