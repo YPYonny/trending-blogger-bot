@@ -337,7 +337,9 @@
     "27c67add9fb499856f17a445783889c5c9fab4bf",
     "4cc8ce9a5f42a66d358724f9adc55a2a748deddd",
     "3a6fce347201334451c88098366beedc275923c4",
-    "f0eed22da64b5ad33cb39f155eefd1c01f2d349d"
+    "f0eed22da64b5ad33cb39f155eefd1c01f2d349d",
+    "04c5c6c42bf4aa6a508954c1c08b8891ef04b545",
+    "bbe40709070306f2d74fd9b09091ff8a7023f59d"
   ],
   "days": {
     "2025-09-14": [
@@ -1011,9 +1013,13 @@
     "2026-03-02": [
       "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles",
       "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web"
+    ],
+    "2026-03-03": [
+      "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF",
+      "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré"
     ]
   },
-  "cat_index": 338,
+  "cat_index": 340,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1353,8 +1359,8 @@
     "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": 1,
     "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": 1,
     "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": 1,
-    "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": 0,
-    "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": 0,
+    "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": 1,
+    "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": 1,
     "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": 0,
     "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": 0,
     "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": 0,
@@ -2759,8 +2765,12 @@
     "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": [
       "🕵️‍♂️ Hacking Éthique: La vérité sur l'énumération d'utilisateurs !"
     ],
-    "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": [],
-    "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": [],
+    "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": [
+      "🚨 SSRF: La faille critique que vous devez maîtriser!"
+    ],
+    "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": [
+      "🐍 Débloquez le Backdoor Python Chiffré : Hacking Éthique Pro !"
+    ],
     "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": [],
     "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": [],
     "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": [],
