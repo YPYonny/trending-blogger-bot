@@ -339,7 +339,9 @@
     "3a6fce347201334451c88098366beedc275923c4",
     "f0eed22da64b5ad33cb39f155eefd1c01f2d349d",
     "04c5c6c42bf4aa6a508954c1c08b8891ef04b545",
-    "bbe40709070306f2d74fd9b09091ff8a7023f59d"
+    "bbe40709070306f2d74fd9b09091ff8a7023f59d",
+    "038657e7caa7806dad8db0f53588b0c6163dd299",
+    "c5a7f8d8479ac5ed0e750c6902bda98dc01e2098"
   ],
   "days": {
     "2025-09-14": [
@@ -1017,9 +1019,13 @@
     "2026-03-03": [
       "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF",
       "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré"
+    ],
+    "2026-03-04": [
+      "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python",
+      "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API"
     ]
   },
-  "cat_index": 340,
+  "cat_index": 342,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1361,8 +1367,8 @@
     "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": 1,
     "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": 1,
     "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": 1,
-    "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": 0,
-    "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": 0,
+    "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": 1,
+    "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": 1,
     "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": 0,
     "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": 0,
     "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": 0,
@@ -2771,8 +2777,12 @@
     "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": [
       "🐍 Débloquez le Backdoor Python Chiffré : Hacking Éthique Pro !"
     ],
-    "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": [],
-    "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": [],
+    "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": [
+      "✨ Python: Automatisez vos téléchargements de fichiers (Le guide ultime !)"
+    ],
+    "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": [
+      "🚀 Scraper Google sans API : La méthode secrète 2025 !"
+    ],
     "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": [],
     "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": [],
     "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": [],
