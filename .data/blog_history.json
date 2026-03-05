@@ -341,7 +341,9 @@
     "04c5c6c42bf4aa6a508954c1c08b8891ef04b545",
     "bbe40709070306f2d74fd9b09091ff8a7023f59d",
     "038657e7caa7806dad8db0f53588b0c6163dd299",
-    "c5a7f8d8479ac5ed0e750c6902bda98dc01e2098"
+    "c5a7f8d8479ac5ed0e750c6902bda98dc01e2098",
+    "8ee3d1e25637fc0d8b3efcfc2f7933907cb4f7fa",
+    "d6410024be3634e216a70fb90eceb46c3b760c90"
   ],
   "days": {
     "2025-09-14": [
@@ -1023,9 +1025,13 @@
     "2026-03-04": [
       "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python",
       "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API"
+    ],
+    "2026-03-05": [
+      "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes",
+      "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale"
     ]
   },
-  "cat_index": 342,
+  "cat_index": 344,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1369,8 +1375,8 @@
     "HACKING ÉTHIQUE AVANCÉ - Créer un backdoor Python chiffré": 1,
     "DIVERS & AUTOMATISATION - Automatiser le téléchargement de fichiers via Python": 1,
     "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": 1,
-    "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": 0,
-    "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": 0,
+    "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": 1,
+    "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": 1,
     "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": 0,
     "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": 0,
     "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": 0,
@@ -2783,8 +2789,12 @@
     "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": [
       "🚀 Scraper Google sans API : La méthode secrète 2025 !"
     ],
-    "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": [],
-    "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": [],
+    "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": [
+      "🤯 Stop aux oublis : Créez votre bot Telegram d'alertes ultime !"
+    ],
+    "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": [
+      "🤖 Le secret pour un bot qui parle avec IA locale !"
+    ],
     "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": [],
     "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": [],
     "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": [],
