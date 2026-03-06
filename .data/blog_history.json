@@ -343,7 +343,9 @@
     "038657e7caa7806dad8db0f53588b0c6163dd299",
     "c5a7f8d8479ac5ed0e750c6902bda98dc01e2098",
     "8ee3d1e25637fc0d8b3efcfc2f7933907cb4f7fa",
-    "d6410024be3634e216a70fb90eceb46c3b760c90"
+    "d6410024be3634e216a70fb90eceb46c3b760c90",
+    "4b885c4c174999f4ee42e904b93a30f4d5959094",
+    "20abea6d8d39bd4c389c9e3d61007d5e45c7ff11"
   ],
   "days": {
     "2025-09-14": [
@@ -1029,9 +1031,13 @@
     "2026-03-05": [
       "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes",
       "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale"
+    ],
+    "2026-03-06": [
+      "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python",
+      "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap"
     ]
   },
-  "cat_index": 344,
+  "cat_index": 346,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1377,8 +1383,8 @@
     "DIVERS & AUTOMATISATION - Scraper des résultats Google sans API": 1,
     "DIVERS & AUTOMATISATION - Créer un bot Telegram pour envoyer des alertes": 1,
     "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": 1,
-    "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": 0,
-    "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": 0,
+    "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": 1,
+    "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": 1,
     "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": 0,
     "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": 0,
     "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": 0,
@@ -2795,8 +2801,12 @@
     "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": [
       "🤖 Le secret pour un bot qui parle avec IA locale !"
     ],
-    "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": [],
-    "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": [],
+    "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": [
+      "🔒 Créez votre ransomware éducatif en Python : Maîtrisez la cyberdéfense !"
+    ],
+    "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": [
+      "🤖 Nmap : Automatisez vos scans IP et devenez un pro !"
+    ],
     "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": [],
     "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": [],
     "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": [],
