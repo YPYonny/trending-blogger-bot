@@ -972,7 +972,6 @@ Contexte:
 Exigences SEO & mise en forme:
 - Longueur: 800–1200 mots
 - Première ligne EXACTE: <p class='meta'>{meta_desc}</p>
-- Ajouter cette image juste avant la méta description de chaque article "https://lh3.googleusercontent.com/-IlXxkaPE4bQ/aay_Ol8NbGI/AAAAAAABe-g/-Uj-ujLW4gUoibxlmRb_qkw6WKijMSGtQCNcBGAsYHQ/s1600/1000487903.png"
 - Titre H1: <h1>{title}</h1>
 - TOC ancré: <nav id='toc'> avec liens vers CHAQUE H2 (ancres id)
 - Structure: H2 (sections), H3 (sous-sections)
