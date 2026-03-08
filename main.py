@@ -960,7 +960,7 @@ Renvoie STRICTEMENT au format JSON:
 
 def gen_full_article_html(category: str, title: str, meta_desc: str, loop_index: int = 0):
     prompt = f"""
-Rédige un article bien structuré de blog en FRANÇAIS pour Blogger compatible avec l'éditeur de Blogger (HTML uniquement, sans <html> ni <body>).
+Rédige un article bien structuré de blog en FRANÇAIS pour Blogger compatible avec l'éditeur de Wordpress (HTML uniquement, sans <html> ni <body>).
 
 Contexte:
 - Catégorie: {category}
