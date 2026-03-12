@@ -15,7 +15,9 @@
     "ae3bfe784492b72ac3ece0446e065b2eb1e25abc",
     "2674bee6a38269623c23c9029b8b630b98ee5a3f",
     "e5aba42a9bedfd37514c2e56fe2e93086a85c97c",
-    "ddcae2e6bdcd32f1d7beb31e4a4451164524f8d6"
+    "ddcae2e6bdcd32f1d7beb31e4a4451164524f8d6",
+    "49de988a3f0fe2deab1807d672e1fce1c12cc3ce",
+    "0a84b99733d00aeeeafd41cd10116654eea91206"
   ],
   "days": {
     "2026-03-07": [
@@ -37,9 +39,13 @@
     "2026-03-11": [
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser sa clé USB contre les infections",
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment repérer un compte WhatsApp frauduleux"
+    ],
+    "2026-03-12": [
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone",
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android"
     ]
   },
-  "cat_index": 16,
+  "cat_index": 18,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -57,8 +63,8 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un virus de son PC avec Windows Defender": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser sa clé USB contre les infections": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment repérer un compte WhatsApp frauduleux": 1,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone": 0,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": 0,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone": 1,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": 0,
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": 0,
@@ -819,8 +825,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment repérer un compte WhatsApp frauduleux": [
       "🚨 Arnaque WhatsApp : 3 signes IMPARABLES pour la démasquer !"
     ],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone": [],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": [],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone": [
+      "🚨 Votre tel a un virus ? Supprimez-le en 3 étapes choc !"
+    ],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": [
+      "🔎 Votre Android a un virus ? Détectez-le avant qu'il ne détruise tout !"
+    ],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": [],
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": [],
