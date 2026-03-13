@@ -17,7 +17,9 @@
     "e5aba42a9bedfd37514c2e56fe2e93086a85c97c",
     "ddcae2e6bdcd32f1d7beb31e4a4451164524f8d6",
     "49de988a3f0fe2deab1807d672e1fce1c12cc3ce",
-    "0a84b99733d00aeeeafd41cd10116654eea91206"
+    "0a84b99733d00aeeeafd41cd10116654eea91206",
+    "2cd4adf05c8632dcf818ebfc34c63b451fcd8098",
+    "de0bb1356093bb9e72628d46108277ad5f3db9dd"
   ],
   "days": {
     "2026-03-07": [
@@ -43,9 +45,13 @@
     "2026-03-12": [
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone",
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android"
+    ],
+    "2026-03-13": [
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé",
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne"
     ]
   },
-  "cat_index": 18,
+  "cat_index": 20,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -65,8 +71,8 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment repérer un compte WhatsApp frauduleux": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un logiciel malveillant de son téléphone": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": 1,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": 0,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": 0,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": 1,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": 1,
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": 0,
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": 0,
     "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": 0,
@@ -831,8 +837,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": [
       "🔎 Votre Android a un virus ? Détectez-le avant qu'il ne détruise tout !"
     ],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": [],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": [],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": [
+      "🔑 Fini le stress ! Gérer vos mots de passe n'a jamais été aussi sûr."
+    ],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": [
+      "🔒 Vol d'identité : Nos 5 secrets pour protéger vos données en ligne !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": [],
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": [],
     "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": [],
