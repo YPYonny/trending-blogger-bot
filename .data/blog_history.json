@@ -35,7 +35,9 @@
     "3d8c818d731a65bbce555536e51ec7ae8eb4c5c8",
     "dd1783fac9e9e9f59e34b4e6ac6f14e9446f335a",
     "a6f740065ad4d75d9aa64ac4b34fbe1f820f1293",
-    "53fe5ddb459501ffb0026bd72f31ea77baf491dd"
+    "53fe5ddb459501ffb0026bd72f31ea77baf491dd",
+    "bb0db816b1a4435943c7da19b1e224efeff30095",
+    "30872b027074007a911703060986e44b481d7362"
   ],
   "days": {
     "2026-03-07": [
@@ -97,9 +99,13 @@
     "2026-03-21": [
       "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens",
       "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone"
+    ],
+    "2026-03-22": [
+      "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email",
+      "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android"
     ]
   },
-  "cat_index": 36,
+  "cat_index": 38,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -137,8 +143,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Avoir ses notifications Android sur PC": 1,
     "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens": 1,
     "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": 1,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": 0,
     "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": 0,
     "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue": 0,
@@ -939,8 +945,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": [
       "🤯 Fini le scanner ! Votre smartphone est la solution GRATUITE et rapide."
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": [],
-    "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": [],
+    "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": [
+      "🚀 Fichiers lourds? Partagez-les en un clin d'œil sans email!"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": [
+      "🤯 Android: Le secret des captures d'écran défilantes révélé !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": [],
     "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": [],
     "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue": [],
