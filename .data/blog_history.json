@@ -41,7 +41,9 @@
     "95d8db1042728044662d41912f76f861c0729d1c",
     "29853f75f11a3215894a30025c764dc0171a5b27",
     "a6b4e8b60e886a6186655d27e81fa966f1d91279",
-    "a0d5bde87c8e42c47710fcef42ed478fed84d704"
+    "a0d5bde87c8e42c47710fcef42ed478fed84d704",
+    "4329e7ed7c0238a42fdca47978a7eca0ddafca99",
+    "f33307a6f61f01c901518adecea8b58fd5d0e475"
   ],
   "days": {
     "2026-03-07": [
@@ -115,9 +117,13 @@
     "2026-03-24": [
       "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue",
       "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB"
+    ],
+    "2026-03-25": [
+      "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android",
+      "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important"
     ]
   },
-  "cat_index": 42,
+  "cat_index": 44,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -161,8 +167,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Trouver l’emplacement où une photo a été prise": 1,
     "MAINTENANCE ET DÉPANNAGE - Réparer une clé USB corrompue": 1,
     "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB": 1,
-    "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": 0,
-    "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": 0,
+    "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": 1,
+    "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": 1,
     "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": 0,
     "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": 0,
     "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": 0,
@@ -975,8 +981,12 @@
     "MAINTENANCE ET DÉPANNAGE - Supprimer un virus raccourci sur clé USB": [
       "🚨 Virus Raccourci USB ? Nettoyez votre clé en 5 minutes chrono !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": [],
-    "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": [],
+    "MAINTENANCE ET DÉPANNAGE - Retrouver des photos supprimées sur Android": [
+      "🚨 Photos supprimées Android ? Découvrez l'astuce ultime 2025 !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Sauvegarder un message WhatsApp important": [
+      "😱 WhatsApp: NE perdez plus VOS messages importants, voici comment!"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Accélérer son PC sous Windows": [],
     "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": [],
     "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": [],
