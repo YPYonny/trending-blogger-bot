@@ -47,7 +47,9 @@
     "bbc2abc402d1039e80b4b138444ebca6de0cb715",
     "42a60e0e7b9aed107f0a3747a7b438dd49af0a2e",
     "2fb326d44853bdf2790e81dfa0622c15b68019be",
-    "b8758cb36e7427052b032a957c5c091bd816f9f5"
+    "b8758cb36e7427052b032a957c5c091bd816f9f5",
+    "38954e3f011a98447426ee399435c5e3ae0ef55c",
+    "09303e3937a9286052bcd7796911d40130527245"
   ],
   "days": {
     "2026-03-07": [
@@ -133,9 +135,13 @@
     "2026-03-27": [
       "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome",
       "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)"
+    ],
+    "2026-03-28": [
+      "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers",
+      "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC"
     ]
   },
-  "cat_index": 48,
+  "cat_index": 50,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -185,8 +191,8 @@
     "MAINTENANCE ET DÉPANNAGE - Libérer de l’espace sur son smartphone": 1,
     "MAINTENANCE ET DÉPANNAGE - Désactiver les notifications intrusives sur Chrome": 1,
     "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": 1,
-    "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": 0,
-    "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": 0,
+    "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": 1,
+    "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": 1,
     "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": 0,
     "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": 0,
     "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": 0,
@@ -1011,8 +1017,12 @@
     "MAINTENANCE ET DÉPANNAGE - Réinitialiser un téléphone Android bloqué (méthode officielle)": [
       "🔓 Android bloqué ? Déverrouillez-le : la méthode OFFICIELLE !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": [],
-    "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": [],
+    "MAINTENANCE ET DÉPANNAGE - Mettre à jour Windows sans perdre ses fichiers": [
+      "⚠️ Windows Update : NE perdez PLUS vos fichiers ! Guide 2025"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": [
+      "🚨 Votre PC est KO ? Hiren’s BootCD ressuscite votre machine !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": [],
     "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": [],
     "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": [],
