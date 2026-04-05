@@ -63,7 +63,9 @@
     "bd2f13f52355e70f4f0e994f87b80752f8f1ed73",
     "3a8b412995db2e50706cf50ef1a3d680e1c8bc7f",
     "e4f064b09b8a13d8387983acc818509d69d74a17",
-    "2e7ba088c21b3ea1f3b43e03285fc1e11629f7fd"
+    "2e7ba088c21b3ea1f3b43e03285fc1e11629f7fd",
+    "decac96757095040f25439efb4be5ce8069e0df7",
+    "a28301665112039ac73291d70171b14ad4424c81"
   ],
   "days": {
     "2026-03-07": [
@@ -181,9 +183,13 @@
     "2026-04-04": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes",
       "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base"
+    ],
+    "2026-04-05": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP"
     ]
   },
-  "cat_index": 64,
+  "cat_index": 66,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -249,8 +255,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page web simple avec HTML et CSS": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre le JavaScript en 10 minutes": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": 0,
@@ -1107,8 +1113,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": [
       "🐍 Python Débutant : Créez votre 1er script dès MAINTENANT !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": [
+      "🚀 LE SECRET pour créer une calculatrice Python SIMPLE révélé !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": [
+      "🎯 Formulaire HTML/PHP: Créez votre contact pro en un clin d'œil!"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": [],
