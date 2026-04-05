@@ -3,22 +3,24 @@
     "def461c1b0fba021a017c67d749aa5efee6769ac",
     "9400916d0576ae9a46bd3a374847c76a11abb73c",
     "f9ad53068adf5cca83c9ae2019dbf513db4bab1d",
-    "5aeb3405a5cc6b1fadac31493011add6b745b64d"
+    "5aeb3405a5cc6b1fadac31493011add6b745b64d",
+    "f84aeeaa83c2897818f8320a7f0fd394bce4890c",
+    "b00a7e8d2bb07a70c94dca09a33d92bf9886d707"
   ],
   "days": {
     "2026-04-05": [
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs",
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne"
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer",
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp"
     ]
   },
-  "cat_index": 4,
+  "cat_index": 6,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": 1,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": 0,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": 0,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": 1,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Activer la vérification en deux étapes sur Gmail": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Bloquer la publicité intrusive sur son smartphone": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sauvegarder ses données pour éviter les pertes": 0,
@@ -755,8 +757,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": [
       "🚨 Arnaques en ligne : leurs ruses 2025 démasquées ! Vos données sont sûres."
     ],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": [],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": [],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": [
+      "🛑 LIEN DANGEREUX ? Le réflexe pour éviter le pire en 2025 !"
+    ],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": [
+      "🔐 Le secret pour des messages VRAIMENT privés ? Chiffrez Signal/WhatsApp"
+    ],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Activer la vérification en deux étapes sur Gmail": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Bloquer la publicité intrusive sur son smartphone": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sauvegarder ses données pour éviter les pertes": [],
