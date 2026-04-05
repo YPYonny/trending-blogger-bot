@@ -1,20 +1,22 @@
 {
   "titles": [
     "def461c1b0fba021a017c67d749aa5efee6769ac",
-    "9400916d0576ae9a46bd3a374847c76a11abb73c"
+    "9400916d0576ae9a46bd3a374847c76a11abb73c",
+    "f9ad53068adf5cca83c9ae2019dbf513db4bab1d",
+    "5aeb3405a5cc6b1fadac31493011add6b745b64d"
   ],
   "days": {
     "2026-04-05": [
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage",
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)"
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs",
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne"
     ]
   },
-  "cat_index": 2,
+  "cat_index": 4,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs": 0,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": 0,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs": 1,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Activer la vérification en deux étapes sur Gmail": 0,
@@ -747,8 +749,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": [
       "😱 Faux Facebook: Déjouez les arnaques de phishing facilement!"
     ],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs": [],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": [],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment sécuriser un compte Instagram avec l’authentification à deux facteurs": [
+      "🚨 Instagram: Activez la 2FA avant le piratage ! Votre guide 2025."
+    ],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Identifier un email frauduleux et éviter les arnaques en ligne": [
+      "🚨 Arnaques en ligne : leurs ruses 2025 démasquées ! Vos données sont sûres."
+    ],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Vérifier si un lien est sûr avant de cliquer": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment chiffrer ses messages avec Signal ou WhatsApp": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Activer la vérification en deux étapes sur Gmail": [],
