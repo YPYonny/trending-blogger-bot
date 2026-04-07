@@ -28,7 +28,7 @@ GMAIL_USER   = os.environ["GMAIL_USER"]
 GMAIL_PASS   = os.environ["GMAIL_PASS"]
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"]) 
-MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite-preview")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 HISTORY_FILE = os.getenv("HISTORY_FILE", ".data/blog_history.json")
 ARTICLES_PER_DAY = int(os.getenv("ARTICLES_PER_DAY", "2"))
 MAX_RETRIES_TITLE = int(os.getenv("MAX_RETRIES_TITLE", "5"))
