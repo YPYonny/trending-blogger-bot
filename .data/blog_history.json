@@ -9,7 +9,9 @@
     "626aa3f4509f2c24ba00e6385d88060851dc5ac4",
     "f02d3d2528a9e8edcb240506da5ac196a30d1792",
     "c981a8fe0a650763edcf67d7af905e6f668793f9",
-    "4359bc32fe34ba73300aff143447dba28907abcd"
+    "4359bc32fe34ba73300aff143447dba28907abcd",
+    "4524d4a459a347b75ac6e27b745a1f0d5e4a833b",
+    "f86814969cbd979963db925bcba353d0be023ddf"
   ],
   "days": {
     "2026-04-05": [
@@ -21,11 +23,11 @@
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Bloquer la publicité intrusive sur son smartphone"
     ],
     "2026-04-07": [
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sauvegarder ses données pour éviter les pertes",
-      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Protéger ses photos avec un mot de passe sur iOS et Android"
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Éviter les virus en naviguant sur Internet",
+      "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser un réseau Wi-Fi domestique"
     ]
   },
-  "cat_index": 10,
+  "cat_index": 12,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -37,8 +39,8 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Bloquer la publicité intrusive sur son smartphone": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sauvegarder ses données pour éviter les pertes": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Protéger ses photos avec un mot de passe sur iOS et Android": 1,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Éviter les virus en naviguant sur Internet": 0,
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser un réseau Wi-Fi domestique": 0,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Éviter les virus en naviguant sur Internet": 1,
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser un réseau Wi-Fi domestique": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître un site frauduleux (.onion et dark web)": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un virus de son PC avec Windows Defender": 0,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser sa clé USB contre les infections": 0,
@@ -787,8 +789,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Protéger ses photos avec un mot de passe sur iOS et Android": [
       "🔒 Vos photos privées en sécurité ? Le secret iOS/Android dévoilé !"
     ],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Éviter les virus en naviguant sur Internet": [],
-    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser un réseau Wi-Fi domestique": [],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Éviter les virus en naviguant sur Internet": [
+      "🛡️ Navigation sécurisée : 7 astuces vitales pour éviter les virus en 2025"
+    ],
+    "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser un réseau Wi-Fi domestique": [
+      "🔒 Wi-Fi piraté ? 5 étapes simples pour sécuriser votre réseau dès maintenant"
+    ],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître un site frauduleux (.onion et dark web)": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Supprimer un virus de son PC avec Windows Defender": [],
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Sécuriser sa clé USB contre les infections": [],
