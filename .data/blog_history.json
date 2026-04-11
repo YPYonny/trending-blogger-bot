@@ -19,7 +19,9 @@
     "3efa74bdd97bb1391d31ca4a9fdf4ab5431ca35e",
     "9a73e61a1954ffa87dcb511cd9cb02f68843bb7c",
     "5fe967267a685884fd087fd94ef1982c92cd6aa7",
-    "b24b8547459e26846eda3abe5591a64da83d119c"
+    "b24b8547459e26846eda3abe5591a64da83d119c",
+    "84ce0463b23f81c34c78020d2024e3bf158790d9",
+    "4f6402d2d9d9656ae5af6fcdb881a08f2cc65e6b"
   ],
   "days": {
     "2026-04-05": [
@@ -41,9 +43,13 @@
     "2026-04-09": [
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé",
       "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne"
+    ],
+    "2026-04-11": [
+      "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows",
+      "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC"
     ]
   },
-  "cat_index": 20,
+  "cat_index": 22,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -65,8 +71,8 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment détecter un malware sur Android": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Gérer ses mots de passe avec un gestionnaire sécurisé": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": 1,
     "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": 0,
     "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": 0,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": 0,
@@ -835,8 +841,12 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": [
       "🤯 Vol d'identité en ligne: Le piège invisible que vous devez éviter !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": [],
-    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": [],
+    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": [
+      "👻 Votre dossier secret Windows ? Personne ne le verra jamais !"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": [
+      "🤫 Créez un dossier invisible sur PC : le secret dévoilé !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": [],
     "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": [],
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": [],
