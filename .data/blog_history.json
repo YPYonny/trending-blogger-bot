@@ -21,7 +21,9 @@
     "5fe967267a685884fd087fd94ef1982c92cd6aa7",
     "b24b8547459e26846eda3abe5591a64da83d119c",
     "84ce0463b23f81c34c78020d2024e3bf158790d9",
-    "4f6402d2d9d9656ae5af6fcdb881a08f2cc65e6b"
+    "4f6402d2d9d9656ae5af6fcdb881a08f2cc65e6b",
+    "3ba8e5ea037a215462afe18226b6401e2ad27132",
+    "56822726b760516f468dfbaab6926b11e5abb2fa"
   ],
   "days": {
     "2026-04-05": [
@@ -47,9 +49,13 @@
     "2026-04-11": [
       "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows",
       "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC"
+    ],
+    "2026-04-12": [
+      "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox",
+      "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium"
     ]
   },
-  "cat_index": 22,
+  "cat_index": 24,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -73,8 +79,8 @@
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment éviter le vol d’identité en ligne": 1,
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier invisible sur Windows": 1,
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": 1,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": 0,
     "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": 0,
     "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": 0,
@@ -847,8 +853,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Créer un dossier sans nom sur PC": [
       "🤫 Créez un dossier invisible sur PC : le secret dévoilé !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": [],
-    "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": [],
+    "ASTUCES ET PRODUCTIVITÉ - Rouvrir un onglet fermé dans Chrome ou Firefox": [
+      "💡 Oubli ? Rouvrez votre onglet Chrome/Firefox en 1 clic !"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": [
+      "💡 YouTube Premium : Téléchargez vos vidéos SANS EFFORT et LÉGALEMENT"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": [],
     "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": [],
     "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": [],
