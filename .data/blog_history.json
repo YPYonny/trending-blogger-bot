@@ -25,7 +25,9 @@
     "3ba8e5ea037a215462afe18226b6401e2ad27132",
     "56822726b760516f468dfbaab6926b11e5abb2fa",
     "02030784a3f809c4bd4d11be1156ffdc21f0be91",
-    "231a4ac470b2f8227ce475011cc7dccf0360c9f9"
+    "231a4ac470b2f8227ce475011cc7dccf0360c9f9",
+    "4b432253b90c337ae1f06fe357ebfc9713a180d6",
+    "768735c1747ed238251d00cde5233f478b41f9c3"
   ],
   "days": {
     "2026-04-05": [
@@ -59,9 +61,13 @@
     "2026-04-14": [
       "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement",
       "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android"
+    ],
+    "2026-04-16": [
+      "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement",
+      "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application"
     ]
   },
-  "cat_index": 26,
+  "cat_index": 28,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -89,8 +95,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Télécharger des vidéos YouTube légalement avec YouTube Premium": 1,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Drive pour stocker ses fichiers gratuitement": 1,
     "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": 1,
     "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": 0,
     "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": 0,
     "ASTUCES ET PRODUCTIVITÉ - Télécharger ses photos iCloud sur PC": 0,
@@ -871,8 +877,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Accéder à son PC depuis un smartphone Android": [
       "🔓 Déverrouillez le contrôle total de votre PC via Android instantanément !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": [],
-    "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": [],
+    "ASTUCES ET PRODUCTIVITÉ - Convertir un fichier PDF en Word gratuitement": [
+      "🤯 PDF en Word gratuit : Vous ne croirez pas cette astuce secrète !"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Masquer un fichier sur Android sans application": [
+      "🤫 Android: Cachez vos fichiers SANS app, l'astuce CHOC !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Compresser des images sans perte de qualité": [],
     "ASTUCES ET PRODUCTIVITÉ - Créer une adresse email temporaire": [],
     "ASTUCES ET PRODUCTIVITÉ - Télécharger ses photos iCloud sur PC": [],
