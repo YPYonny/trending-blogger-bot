@@ -33,7 +33,9 @@
     "322fabe26266e52da8fd2af9d64937c2635d6a7c",
     "42a56653cc66cfdd2abb2dcbebd28e824fb6d3a4",
     "671bff160aa7d708cfe371630e20377bf143b0e4",
-    "9a8cc7e7209991e37396fdd087237cc2311a80ab"
+    "9a8cc7e7209991e37396fdd087237cc2311a80ab",
+    "c201f05c0c06dc5dd24d5002f8d437da9e3957f4",
+    "54ef5980cf8804c13811a903e2388a5d8967ad6d"
   ],
   "days": {
     "2026-04-05": [
@@ -83,9 +85,13 @@
     "2026-04-19": [
       "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Keep pour prendre des notes rapides",
       "ASTUCES ET PRODUCTIVITÉ - Avoir ses notifications Android sur PC"
+    ],
+    "2026-04-21": [
+      "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens",
+      "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone"
     ]
   },
-  "cat_index": 34,
+  "cat_index": 36,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -121,8 +127,8 @@
     "ASTUCES ET PRODUCTIVITÉ - Convertir une page web en fichier PDF": 1,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser Google Keep pour prendre des notes rapides": 1,
     "ASTUCES ET PRODUCTIVITÉ - Avoir ses notifications Android sur PC": 1,
-    "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens": 0,
-    "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": 0,
+    "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens": 1,
+    "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": 1,
     "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": 0,
     "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": 0,
     "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": 0,
@@ -919,8 +925,12 @@
     "ASTUCES ET PRODUCTIVITÉ - Avoir ses notifications Android sur PC": [
       "🚀 Notifs Android sur PC : le secret pour une productivité X10 !"
     ],
-    "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens": [],
-    "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": [],
+    "ASTUCES ET PRODUCTIVITÉ - Traduire instantanément un texte avec Google Lens": [
+      "🚀 Google Lens: Le TRUC pour traduire instantanément tout texte"
+    ],
+    "ASTUCES ET PRODUCTIVITÉ - Scanner un document avec son smartphone": [
+      "💡 Débloquez le scanner pro caché de votre smartphone !"
+    ],
     "ASTUCES ET PRODUCTIVITÉ - Partager un gros fichier sans email": [],
     "ASTUCES ET PRODUCTIVITÉ - Faire une capture d’écran défilante sur Android": [],
     "ASTUCES ET PRODUCTIVITÉ - Utiliser un VPN pour protéger sa connexion": [],
