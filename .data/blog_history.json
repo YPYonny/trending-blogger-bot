@@ -51,7 +51,9 @@
     "34f79a8e9bf947ca37619282d242b52fc6648e35",
     "e1e03935b305e9df319a3c46cd446c1f26f6e352",
     "d75162acc14f729394aec1a369557d8e13f6131e",
-    "39b48a5ed0c35cf59dcb36614df0f68279e99883"
+    "39b48a5ed0c35cf59dcb36614df0f68279e99883",
+    "44e46f0c7c65410b343bb848bff48ee34c3c3dcc",
+    "5bd1d6c2912fc6aa49d412ff0b72e83c57593665"
   ],
   "days": {
     "2026-04-05": [
@@ -137,9 +139,13 @@
     "2026-05-03": [
       "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur",
       "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)"
+    ],
+    "2026-05-04": [
+      "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller",
+      "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage"
     ]
   },
-  "cat_index": 52,
+  "cat_index": 54,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -193,8 +199,8 @@
     "MAINTENANCE ET DÉPANNAGE - Utiliser Hiren’s BootCD pour dépanner un PC": 1,
     "MAINTENANCE ET DÉPANNAGE - Vérifier la santé d’un disque dur": 1,
     "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": 1,
-    "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": 0,
-    "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": 0,
+    "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": 1,
+    "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": 1,
     "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": 0,
     "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": 0,
     "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": 0,
@@ -1027,8 +1033,12 @@
     "MAINTENANCE ET DÉPANNAGE - Changer le mot de passe Windows oublié (méthode légale)": [
       "🔑 Mot de passe Windows oublié ? Débloquez-le LÉGALEMENT en 2 min !"
     ],
-    "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": [],
-    "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": [],
+    "MAINTENANCE ET DÉPANNAGE - Supprimer un logiciel qui refuse de se désinstaller": [
+      "🤯 Logiciel bloqué ? Désinstallez-le en 2 minutes !"
+    ],
+    "MAINTENANCE ET DÉPANNAGE - Récupérer ses données après un formatage": [
+      "🚨 Données perdues après formatage ? La solution est LÀ !"
+    ],
     "MAINTENANCE ET DÉPANNAGE - Améliorer la vitesse de chargement de son smartphone": [],
     "MAINTENANCE ET DÉPANNAGE - Optimiser la batterie d’un téléphone Android": [],
     "MAINTENANCE ET DÉPANNAGE - Réparer un fichier corrompu": [],
