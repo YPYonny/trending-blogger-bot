@@ -65,7 +65,9 @@
     "aefdd8376e9d4a8e2d784b7c58753ad0c25ffd01",
     "acec91fc95ab2a37f1cded09b85e7e5da9c36e56",
     "f81b52de6e434d7d22a837704126cf7260c20712",
-    "913158e1461f0a1a8f7b715e22f5627e21d46353"
+    "913158e1461f0a1a8f7b715e22f5627e21d46353",
+    "2b98d8a2ab53b204d5ccdce4a24476ca1fcf8be7",
+    "64d661c4ccff35492fa93feca45cc4658fe737be"
   ],
   "days": {
     "2026-04-05": [
@@ -179,9 +181,13 @@
     "2026-05-13": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python",
       "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP"
+    ],
+    "2026-05-14": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme"
     ]
   },
-  "cat_index": 66,
+  "cat_index": 68,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -249,8 +255,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à créer un script Python de base": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire une calculatrice simple en Python": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": 0,
@@ -1111,8 +1117,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Développer un formulaire de contact en HTML/PHP": [
       "✨ Formulaire HTML/PHP : Devenez un Pro en 30 Minutes !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un bouton animé en CSS": [
+      "🚀 Créez le bouton CSS animé qui va bluffer tout le monde !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre l’algorithme": [
+      "🔑 Algorithmes: La clé pour tout comprendre !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Utiliser ChatGPT pour générer du code": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": [],
