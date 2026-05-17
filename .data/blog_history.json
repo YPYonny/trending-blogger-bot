@@ -71,7 +71,9 @@
     "16358d4b5a64ac24403b1499df528322880e11eb",
     "50c9302eddc8aac082904d2bfceadf167d5ff901",
     "45fc9d2f049ba8772d2c2ad8156fb5820ed78788",
-    "caf4759e679911881ffc7fd4d881347b370cf2b7"
+    "caf4759e679911881ffc7fd4d881347b370cf2b7",
+    "e177ff10a5df2770cff4205b8ec2faa872355188",
+    "b854af2afb099d836aed712f841e21b0894bce57"
   ],
   "days": {
     "2026-04-05": [
@@ -197,9 +199,13 @@
     "2026-05-16": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch",
       "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement"
+    ],
+    "2026-05-17": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python"
     ]
   },
-  "cat_index": 72,
+  "cat_index": 74,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -273,8 +279,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Introduction aux bases de données MySQL": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un mini-jeu avec Scratch": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": 0,
@@ -1147,8 +1153,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un script qui renomme plusieurs fichiers automatiquement": [
       "🚀 Renommez 1000 fichiers en 1 clic : Le script magique !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Apprendre à utiliser Git et GitHub": [
+      "🤯 Git & GitHub: Le Secret des Devs Pros Révélé !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": [
+      "🔒 Créez votre générateur de mots de passe Python incassable !"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": [],
