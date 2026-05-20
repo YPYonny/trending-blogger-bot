@@ -75,7 +75,9 @@
     "e177ff10a5df2770cff4205b8ec2faa872355188",
     "b854af2afb099d836aed712f841e21b0894bce57",
     "3ff53b28388cfd0d05b1daeb727863460d5d90a4",
-    "6c0da7532080eff0a3f0365fde91f7b4493ddefc"
+    "6c0da7532080eff0a3f0365fde91f7b4493ddefc",
+    "6913b89a1054e68b30083d95dd7f7b4c0a5b3ae0",
+    "9c0302dcab85d51123cd7b7507b8645c69f5586f"
   ],
   "days": {
     "2026-04-05": [
@@ -209,9 +211,13 @@
     "2026-05-18": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript",
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap"
+    ],
+    "2026-05-20": [
+      "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python",
+      "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser"
     ]
   },
-  "cat_index": 76,
+  "cat_index": 78,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -289,8 +295,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un générateur de mot de passe sécurisé en Python": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Afficher l’heure et la date en JavaScript": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": 1,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": 0,
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": 0,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": 1,
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": 0,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": 0,
@@ -1171,8 +1177,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer une page responsive avec Bootstrap": [
       "🔥 Bootstrap 2025 : Maîtrisez le Responsive Web Design Facilement !"
     ],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": [],
-    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": [],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Faire un bot Telegram simple en Python": [
+      "🚀 Bot Telegram Python : Créez le vôtre en un clin d'œil, facile !"
+    ],
+    "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": [
+      "🤯 API : La compétence ultime pour tout développeur en 2025"
+    ],
     "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": [],
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": [],
