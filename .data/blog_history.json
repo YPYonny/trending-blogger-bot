@@ -79,7 +79,9 @@
     "6913b89a1054e68b30083d95dd7f7b4c0a5b3ae0",
     "9c0302dcab85d51123cd7b7507b8645c69f5586f",
     "2da5267826fbf0479b6717789d66b28cdac36bc6",
-    "717ba7a6d4d1fa4bf14d2711f658b47e573b85d8"
+    "717ba7a6d4d1fa4bf14d2711f658b47e573b85d8",
+    "1b6d25a947e920bd56d5b22de67850ffd37f5f73",
+    "0f97f689791424185d31b43e971aeb467467b8c8"
   ],
   "days": {
     "2026-04-05": [
@@ -221,9 +223,13 @@
     "2026-05-21": [
       "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python",
       "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript"
+    ],
+    "2026-05-22": [
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos",
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier"
     ]
   },
-  "cat_index": 80,
+  "cat_index": 82,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -305,8 +311,8 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Comprendre les API et comment les utiliser": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Envoyer un email automatiquement avec Python": 1,
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": 1,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": 0,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": 0,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": 1,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": 0,
@@ -1195,8 +1201,12 @@
     "PROGRAMMATION ET DÉVELOPPEMENT - Créer un convertisseur d’unités en JavaScript": [
       "💡 Créez votre convertisseur JS en 10 min chrono !"
     ],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": [],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": [],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder automatiquement ses photos sur Google Photos": [
+      "🤯 Google Photos: Sauvegarde auto, ne perdez plus rien !"
+    ],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser Dropbox pour partager un fichier": [
+      "🚀 Dropbox : Partagez un fichier en un clic ! L'astuce 2025."
+    ],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Obtenir 15 Go gratuits sur Google Drive": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": [],
