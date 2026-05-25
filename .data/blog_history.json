@@ -85,7 +85,9 @@
     "a70230f54b3cfe07326579feab7f95c24d1f3588",
     "7a2ca19c5ed6f38f4355eb009aaab196dad50e0f",
     "75fa170fb2cfc8aea695b930c01964de088fa708",
-    "5a1a4a02b5c4a6c6eaf58e82e981f598b78f52af"
+    "5a1a4a02b5c4a6c6eaf58e82e981f598b78f52af",
+    "04fbdea6c75de71e0d82ce300e14275e38d82636",
+    "0b47426ffbfdc6e89c14af884a391868d7cf4f0d"
   ],
   "days": {
     "2026-04-05": [
@@ -239,9 +241,13 @@
     "2026-05-24": [
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone",
       "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne"
+    ],
+    "2026-05-25": [
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone",
+      "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email"
     ]
   },
-  "cat_index": 86,
+  "cat_index": 88,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -329,8 +335,8 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Organiser ses fichiers sur OneDrive": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Synchroniser ses documents entre PC et smartphone": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": 1,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": 0,
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": 0,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": 1,
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": 1,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": 0,
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": 0,
     "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": 0,
@@ -1231,8 +1237,12 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Sauvegarder un site web pour le consulter hors ligne": [
       "💡 Site web hors ligne ? La méthode simple et GRATUITE 2025 !"
     ],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": [],
-    "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": [],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser iCloud pour sauvegarder ses données iPhone": [
+      "🤯 Sauvegardez votre iPhone avec iCloud et dormez tranquille !"
+    ],
+    "CLOUD, STOCKAGE ET SYNCHRONISATION - Compresser des fichiers avant de les envoyer par email": [
+      "🤯 Le secret pour envoyer de gros fichiers par email révélé !"
+    ],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Utiliser WeTransfer pour envoyer des fichiers volumineux": [],
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": [],
     "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": [],
