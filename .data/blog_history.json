@@ -91,7 +91,9 @@
     "07c559ecc6997ff7809d3ab4f5cc9d2608d06e33",
     "b03f9ce10d827cdc751bcfb4da1d8b8df9d33fbf",
     "b659cf4ef2476ab5322c457bc7ea100119cf78e0",
-    "2d7e1adc5b8f399e496909456003528e9cc24c7c"
+    "2d7e1adc5b8f399e496909456003528e9cc24c7c",
+    "b9720a07d5cdf6b5df29a96a63e24154cd008b34",
+    "b0367816e1f913873bd875ebce88a5d2f0733860"
   ],
   "days": {
     "2026-04-05": [
@@ -257,9 +259,13 @@
     "2026-05-27": [
       "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée",
       "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android"
+    ],
+    "2026-05-28": [
+      "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS",
+      "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action"
     ]
   },
-  "cat_index": 92,
+  "cat_index": 94,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -353,8 +359,8 @@
     "CLOUD, STOCKAGE ET SYNCHRONISATION - Partager un dossier complet sur Google Drive": 1,
     "ANDROID ET IOS – ASTUCES - Installer une application Android en APK de manière sécurisée": 1,
     "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": 1,
-    "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": 0,
-    "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": 0,
+    "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": 1,
+    "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": 1,
     "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone": 0,
     "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android": 0,
     "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": 0,
@@ -1267,8 +1273,12 @@
     "ANDROID ET IOS – ASTUCES - Supprimer le cache d’une application sur Android": [
       "⚡️ Android: Cache plein? Videz-le en 1 clic pour le booster!"
     ],
-    "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": [],
-    "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": [],
+    "ANDROID ET IOS – ASTUCES - Créer un dossier d’applications sur l’écran d’accueil iOS": [
+      "🤯 iPhone/iPad: Créez des dossiers d'apps parfaits en 2 clics !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": [
+      "🤫 Siri: Découvrez l'astuce secrète pour automatiser votre iPhone !"
+    ],
     "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone": [],
     "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android": [],
     "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": [],
