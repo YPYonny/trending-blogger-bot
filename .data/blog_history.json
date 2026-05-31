@@ -95,7 +95,9 @@
     "b9720a07d5cdf6b5df29a96a63e24154cd008b34",
     "b0367816e1f913873bd875ebce88a5d2f0733860",
     "80f14cc3eef63e6ac1d7ffaea971f0cd7feaa0db",
-    "68e02bf38821d90ba1b879ccb4925128cba0c999"
+    "68e02bf38821d90ba1b879ccb4925128cba0c999",
+    "b587b497232350962819b8fb60e2ee0a41e2c1ea",
+    "77921e1f9c36621e5d6fcc8041e5ba914f7bfb59"
   ],
   "days": {
     "2026-04-05": [
@@ -269,9 +271,13 @@
     "2026-05-30": [
       "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone",
       "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android"
+    ],
+    "2026-05-31": [
+      "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS",
+      "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android"
     ]
   },
-  "cat_index": 96,
+  "cat_index": 98,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -369,8 +375,8 @@
     "ANDROID ET IOS – ASTUCES - Utiliser Siri pour automatiser une action": 1,
     "ANDROID ET IOS – ASTUCES - Faire un enregistrement d’écran sur iPhone": 1,
     "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android": 1,
-    "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": 0,
-    "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": 0,
+    "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": 1,
+    "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": 1,
     "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": 0,
     "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": 0,
     "ANDROID ET IOS – ASTUCES - Désactiver les applications en arrière-plan pour économiser la batterie": 0,
@@ -1291,8 +1297,12 @@
     "ANDROID ET IOS – ASTUCES - Programmer l’envoi d’un SMS sur Android": [
       "⏰ SMS auto Android : L'astuce que personne ne vous dit !"
     ],
-    "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": [],
-    "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": [],
+    "ANDROID ET IOS – ASTUCES - Utiliser le mode économie d’énergie sur iOS": [
+      "🔋 iOS: Débloquez l'autonomie cachée de votre iPhone !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Mettre à jour manuellement Android": [
+      "🔥 Android : l'astuce de MAJ manuelle que personne ne vous dit !"
+    ],
     "ANDROID ET IOS – ASTUCES - Retrouver un iPhone perdu avec Localiser mon iPhone": [],
     "ANDROID ET IOS – ASTUCES - Cloner l’écran de son téléphone sur une TV": [],
     "ANDROID ET IOS – ASTUCES - Désactiver les applications en arrière-plan pour économiser la batterie": [],
