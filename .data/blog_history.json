@@ -103,7 +103,9 @@
     "7b201774b3f77a8225045db2e00482f2fc00bcc3",
     "9be33e44e2965f6291b1ad64c6ef1c29a77fa472",
     "6275cedafb0f65c1adc66350fd98d00bae83bbe8",
-    "45fdabb0984fac833977f78f87c1301ce8d5393c"
+    "45fdabb0984fac833977f78f87c1301ce8d5393c",
+    "9d30a68e38e74f5ae296609311fcaca37a629739",
+    "901ed8e7a76d0f44981f47977e277ecdf50891f8"
   ],
   "days": {
     "2026-04-05": [
@@ -293,9 +295,13 @@
     "2026-06-04": [
       "ANDROID ET IOS – ASTUCES - Libérer de l’espace sur iPhone sans supprimer de photos",
       "ANDROID ET IOS – ASTUCES - Activer le mode sombre sur Android et iOS"
+    ],
+    "2026-06-05": [
+      "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android",
+      "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android"
     ]
   },
-  "cat_index": 104,
+  "cat_index": 106,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -401,8 +407,8 @@
     "ANDROID ET IOS – ASTUCES - Utiliser Google Assistant efficacement": 1,
     "ANDROID ET IOS – ASTUCES - Libérer de l’espace sur iPhone sans supprimer de photos": 1,
     "ANDROID ET IOS – ASTUCES - Activer le mode sombre sur Android et iOS": 1,
-    "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android": 0,
-    "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": 0,
+    "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android": 1,
+    "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": 1,
     "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": 0,
     "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": 0,
     "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": 0,
@@ -1339,8 +1345,12 @@
     "ANDROID ET IOS – ASTUCES - Activer le mode sombre sur Android et iOS": [
       "🌙 Mode Sombre Android/iOS: Activez-le en 2 clics !"
     ],
-    "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android": [],
-    "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": [],
+    "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android": [
+      "🚀 Ton Android ENFIN unique : le secret des polices stylées !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": [
+      "🤯 Vos apps vous espionnent ? Reprenez le contrôle Android/iOS !"
+    ],
     "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": [],
     "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": [],
     "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": [],
