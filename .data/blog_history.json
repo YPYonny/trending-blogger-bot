@@ -105,7 +105,9 @@
     "6275cedafb0f65c1adc66350fd98d00bae83bbe8",
     "45fdabb0984fac833977f78f87c1301ce8d5393c",
     "9d30a68e38e74f5ae296609311fcaca37a629739",
-    "901ed8e7a76d0f44981f47977e277ecdf50891f8"
+    "901ed8e7a76d0f44981f47977e277ecdf50891f8",
+    "2b8dca64ae98d82063b47958019d03891383b85a",
+    "29a80c9ef7e626871f101c35338ff0de3d24f77b"
   ],
   "days": {
     "2026-04-05": [
@@ -299,9 +301,13 @@
     "2026-06-05": [
       "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android",
       "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android"
+    ],
+    "2026-06-06": [
+      "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android",
+      "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application"
     ]
   },
-  "cat_index": 106,
+  "cat_index": 108,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -409,8 +415,8 @@
     "ANDROID ET IOS – ASTUCES - Activer le mode sombre sur Android et iOS": 1,
     "ANDROID ET IOS – ASTUCES - Installer une police personnalisée sur Android": 1,
     "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": 1,
-    "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": 0,
-    "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": 0,
+    "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": 1,
+    "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": 1,
     "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": 0,
     "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": 0,
     "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": 0,
@@ -1351,8 +1357,12 @@
     "ANDROID ET IOS – ASTUCES - Gérer les autorisations d’application sur Android": [
       "🤯 Vos apps vous espionnent ? Reprenez le contrôle Android/iOS !"
     ],
-    "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": [],
-    "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": [],
+    "ANDROID ET IOS – ASTUCES - Transférer ses données d’iPhone vers Android": [
+      "🚀 iPhone vers Android: Transférez toutes vos données en un clin d'œil !"
+    ],
+    "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": [
+      "🤯 Scanner un QR Code sans app ? Android & iOS : LA solution !"
+    ],
     "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": [],
     "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": [],
     "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": [],
