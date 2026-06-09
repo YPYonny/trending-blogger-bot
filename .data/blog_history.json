@@ -109,7 +109,9 @@
     "2b8dca64ae98d82063b47958019d03891383b85a",
     "29a80c9ef7e626871f101c35338ff0de3d24f77b",
     "3a4b7d85c0a515ac674a08d72940ef6798f93e5f",
-    "fd99d149c201e42b98830961d0032ec92b31228e"
+    "fd99d149c201e42b98830961d0032ec92b31228e",
+    "48a079c902bb7207e0dc3a20deb4249bddd97bd7",
+    "7810bab08a7a9eb1667ebd9e2e95ae5911adde91"
   ],
   "days": {
     "2026-04-05": [
@@ -311,9 +313,13 @@
     "2026-06-07": [
       "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées",
       "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles"
+    ],
+    "2026-06-09": [
+      "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples",
+      "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV"
     ]
   },
-  "cat_index": 110,
+  "cat_index": 112,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -425,8 +431,8 @@
     "ANDROID ET IOS – ASTUCES - Scanner un QR Code sans application": 1,
     "ANDROID ET IOS – ASTUCES - Retrouver les applications récemment supprimées": 1,
     "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": 1,
-    "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": 0,
-    "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": 0,
+    "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": 1,
+    "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": 1,
     "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique": 0,
     "BUREAUTIQUE ET OUTILS - Convertir un fichier Word en PDF": 0,
     "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": 0,
@@ -1375,8 +1381,12 @@
     "ANDROID ET IOS – ASTUCES - Empêcher une application d’utiliser vos données mobiles": [
       "🤯 Stop aux apps gourmandes ! Bloquez leur accès data Android/iOS."
     ],
-    "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": [],
-    "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": [],
+    "BUREAUTIQUE ET OUTILS - Créer un tableau Excel avec formules simples": [
+      "✨ Maîtrisez Excel: Tableaux & Formules Simples en 5 Min"
+    ],
+    "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": [
+      "✅ Créez un CV pro IR-RÉ-SIS-TIBLE avec Word en 2025 !"
+    ],
     "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique": [],
     "BUREAUTIQUE ET OUTILS - Convertir un fichier Word en PDF": [],
     "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": [],
