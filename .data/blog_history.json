@@ -113,7 +113,9 @@
     "48a079c902bb7207e0dc3a20deb4249bddd97bd7",
     "7810bab08a7a9eb1667ebd9e2e95ae5911adde91",
     "ef2a88fd3256d6c742c64c85cb43850e2a071aa3",
-    "df7fb3708c8ef6481b5e044418337f1015032574"
+    "df7fb3708c8ef6481b5e044418337f1015032574",
+    "68b243476d1fc9f1b9d6cc484d672ce6a7fd69ce",
+    "ebef4399ca89128df0a588fd622cd0e2d052869e"
   ],
   "days": {
     "2026-04-05": [
@@ -323,9 +325,13 @@
     "2026-06-11": [
       "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique",
       "BUREAUTIQUE ET OUTILS - Convertir un fichier Word en PDF"
+    ],
+    "2026-06-13": [
+      "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel",
+      "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne"
     ]
   },
-  "cat_index": 114,
+  "cat_index": 116,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -441,8 +447,8 @@
     "BUREAUTIQUE ET OUTILS - Utiliser Word pour créer un CV": 1,
     "BUREAUTIQUE ET OUTILS - Faire une présentation PowerPoint dynamique": 1,
     "BUREAUTIQUE ET OUTILS - Convertir un fichier Word en PDF": 1,
-    "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": 0,
-    "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne": 0,
+    "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": 1,
+    "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne": 1,
     "BUREAUTIQUE ET OUTILS - Mettre un mot de passe sur un fichier Word": 0,
     "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word": 0,
     "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": 0,
@@ -1399,8 +1405,12 @@
     "BUREAUTIQUE ET OUTILS - Convertir un fichier Word en PDF": [
       "🚀 Word en PDF: Convertissez-le en 2 clics (sans effort !)"
     ],
-    "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": [],
-    "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne": [],
+    "BUREAUTIQUE ET OUTILS - Ajouter un graphique dans Excel": [
+      "💡 Excel : Maîtrisez les graphiques impactants en un clin d'œil."
+    ],
+    "BUREAUTIQUE ET OUTILS - Utiliser Google Docs pour travailler en ligne": [
+      "📈 Google Docs: Boostez votre productivité à distance MAINTENANT !"
+    ],
     "BUREAUTIQUE ET OUTILS - Mettre un mot de passe sur un fichier Word": [],
     "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word": [],
     "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": [],
