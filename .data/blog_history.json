@@ -119,7 +119,9 @@
     "2829dc65e915870dcc6d1fba5da742530559137e",
     "1e84ff336a37285c1791b50518f6af30c023a9e6",
     "41803c887cd696c396ae3e3979d2dbb039f68b46",
-    "a3564e2bd0c794be4f41bf5d36241627ee610cf1"
+    "a3564e2bd0c794be4f41bf5d36241627ee610cf1",
+    "4c4754e1cdf5678073d5ef041afde72eaac5cf61",
+    "5e20b7f709527c579db23b4345a493ab724e7642"
   ],
   "days": {
     "2026-04-05": [
@@ -341,9 +343,13 @@
     "2026-06-17": [
       "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement",
       "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets"
+    ],
+    "2026-06-18": [
+      "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement",
+      "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF"
     ]
   },
-  "cat_index": 120,
+  "cat_index": 122,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -465,8 +471,8 @@
     "BUREAUTIQUE ET OUTILS - Faire un publipostage dans Word": 1,
     "BUREAUTIQUE ET OUTILS - Traduire un document Word automatiquement": 1,
     "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": 1,
-    "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": 0,
-    "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": 0,
+    "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": 1,
+    "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": 1,
     "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": 0,
     "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": 0,
     "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": 0,
@@ -1435,8 +1441,12 @@
     "BUREAUTIQUE ET OUTILS - Créer un planning dans Google Sheets": [
       "📈 Créez votre planning parfait sur Google Sheets en 5 min !"
     ],
-    "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": [],
-    "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": [],
+    "BUREAUTIQUE ET OUTILS - Fusionner deux PDF gratuitement": [
+      "💡 Secret GRATUIT : Fusionnez 2 PDF en un éclair !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": [
+      "📸 PDF: Récupérez vos images pro en 3 clics (c'est facile!)"
+    ],
     "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": [],
     "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": [],
     "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": [],
