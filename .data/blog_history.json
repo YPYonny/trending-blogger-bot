@@ -123,7 +123,9 @@
     "4c4754e1cdf5678073d5ef041afde72eaac5cf61",
     "5e20b7f709527c579db23b4345a493ab724e7642",
     "cbb715b19ebca713347473197e31a77d4dcb185f",
-    "47231b788f2f52b7bc2c02ed991d8c97f5b6e18e"
+    "47231b788f2f52b7bc2c02ed991d8c97f5b6e18e",
+    "12e3f8ac4046d9956e245a0ad40993e6fd1c8402",
+    "b3dd242939a02760adfa91b5ca402226defb69af"
   ],
   "days": {
     "2026-04-05": [
@@ -353,9 +355,13 @@
     "2026-06-19": [
       "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms",
       "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille"
+    ],
+    "2026-06-20": [
+      "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel",
+      "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel"
     ]
   },
-  "cat_index": 124,
+  "cat_index": 126,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -481,8 +487,8 @@
     "BUREAUTIQUE ET OUTILS - Extraire des images d’un PDF": 1,
     "BUREAUTIQUE ET OUTILS - Créer un formulaire Google Forms": 1,
     "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": 1,
-    "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": 0,
-    "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": 0,
+    "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": 1,
+    "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": 1,
     "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": 0,
     "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": 0,
     "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": 0,
@@ -1459,8 +1465,12 @@
     "BUREAUTIQUE ET OUTILS - Compresser un PDF pour réduire sa taille": [
       "⚡ Votre PDF est énorme ? Réduisez sa taille en 2 clics, c'est gratuit !"
     ],
-    "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": [],
-    "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": [],
+    "BUREAUTIQUE ET OUTILS - Supprimer les doublons dans Excel": [
+      "⏱️ Gagnez des heures: Supprimez les doublons Excel !"
+    ],
+    "BUREAUTIQUE ET OUTILS - Utiliser les macros dans Excel": [
+      "🚀Macros Excel : Le secret pour travailler moins et mieux !"
+    ],
     "BUREAUTIQUE ET OUTILS - Insérer une vidéo dans PowerPoint": [],
     "BUREAUTIQUE ET OUTILS - Partager un document Word pour travailler à plusieurs": [],
     "BUREAUTIQUE ET OUTILS - Convertir un PowerPoint en vidéo": [],
