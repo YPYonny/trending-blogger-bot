@@ -131,7 +131,9 @@
     "60f23d2c2ab45c443ae49da7b37970cbb06996fb",
     "560914cae210a47483494c26aad84566554c22d7",
     "462bb06724390fc6126871e79060c682cbc97f6a",
-    "ccf3fdb809a2f21dacc59fe886105da3a46e805c"
+    "ccf3fdb809a2f21dacc59fe886105da3a46e805c",
+    "81ce8615b2bc6239cee520ba27b9e62791223533",
+    "9cea56b0aff2943ab13f391c5d9495fcf360c5cd"
   ],
   "days": {
     "2026-04-05": [
@@ -377,9 +379,13 @@
     "2026-06-26": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une miniature YouTube avec Canva"
+    ],
+    "2026-06-27": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone"
     ]
   },
-  "cat_index": 132,
+  "cat_index": 134,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -513,8 +519,8 @@
     "BUREAUTIQUE ET OUTILS - Ajouter des commentaires dans un document Word": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Monter une vidéo avec CapCut": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une miniature YouTube avec Canva": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter des sous-titres à une vidéo": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": 0,
@@ -1507,8 +1513,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une miniature YouTube avec Canva": [
       "🚀 Miniatures YouTube Canva : Tes vues vont exploser !"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer sa voix sur PC": [
+      "🎤 Votre voix pro sur PC : astuces 2025 pour un son parfait !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un podcast depuis son téléphone": [
+      "🤯 Votre podcast PRO juste avec votre téléphone ? C'est facile !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter des sous-titres à une vidéo": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": [],
