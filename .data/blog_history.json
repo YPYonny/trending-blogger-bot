@@ -137,7 +137,9 @@
     "b81d57a348f713651113231871ee536bc35934b9",
     "598f52095c641d8ff1f9afff21b54b764a6b8773",
     "e4d8740806ef7253a53b3fc67a9860f5fdae3289",
-    "9bc472d37d045836a80bba125e407d83ad156709"
+    "9bc472d37d045836a80bba125e407d83ad156709",
+    "fc2741d8b4220172a158876ae2c54894abe7b570",
+    "c560ea9be2f1a52f935ab0eccea084e401c55377"
   ],
   "days": {
     "2026-04-05": [
@@ -395,9 +397,13 @@
     "2026-06-29": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)"
+    ],
+    "2026-06-30": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom"
     ]
   },
-  "cat_index": 138,
+  "cat_index": 140,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -537,8 +543,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser OBS Studio pour filmer son écran": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un diaporama photo avec musique": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": 0,
@@ -1543,8 +1549,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Retoucher une image avec Photopea (gratuit)": [
       "🤯 Oubliez Photoshop ! Maîtrisez la retouche GRATUITE avec Photopea"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un GIF animé à partir d’une vidéo": [
+      "🤯 Le guide ULTIME pour créer des GIFs animés à partir de vidéos !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": [
+      "📸 Ne ratez AUCUN détail: Enregistrez vos réunions Zoom FACILEMENT !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": [],
