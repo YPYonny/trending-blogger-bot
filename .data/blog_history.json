@@ -141,7 +141,9 @@
     "fc2741d8b4220172a158876ae2c54894abe7b570",
     "c560ea9be2f1a52f935ab0eccea084e401c55377",
     "205a7c66faf593548b9c381ac9741504405c0211",
-    "c9157994630043741074cf93e4f7ba4d2c4cd47c"
+    "c9157994630043741074cf93e4f7ba4d2c4cd47c",
+    "cd50777ed9a5dc30ccf3c95971afbec4afe09cb0",
+    "a0701e16fed8b73a2017374da4352a36cf9fa573"
   ],
   "days": {
     "2026-04-05": [
@@ -407,9 +409,13 @@
     "2026-07-01": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo"
+    ],
+    "2026-07-02": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne"
     ]
   },
-  "cat_index": 142,
+  "cat_index": 144,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -553,8 +559,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une réunion Zoom": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Optimiser une vidéo pour TikTok": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": 0,
@@ -1567,8 +1573,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Couper un extrait d’une vidéo": [
       "✂️ Couper une vidéo en 1 clic ? Le secret enfin révélé !"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Ajouter un filigrane à une image": [
+      "🔒 Stop au vol! Protégez vos images avec un filigrane facile."
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": [
+      "✨ Créez votre logo pro GRATUIT en ligne : c'est un jeu d'enfant !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": [],
