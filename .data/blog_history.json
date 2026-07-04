@@ -145,7 +145,9 @@
     "cd50777ed9a5dc30ccf3c95971afbec4afe09cb0",
     "a0701e16fed8b73a2017374da4352a36cf9fa573",
     "2c8d88dc36aff1a3202d62ea138d7d16a2f92ba6",
-    "11195411a0d086b2d0add3525f27c9481d6c5b8e"
+    "11195411a0d086b2d0add3525f27c9481d6c5b8e",
+    "35095ef04e9689614b681476db552570db5a9bf0",
+    "dd3e993cb9f23ea7eeed454590d9506909b9f460"
   ],
   "days": {
     "2026-04-05": [
@@ -419,9 +421,13 @@
     "2026-07-03": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo"
+    ],
+    "2026-07-04": [
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile",
+      "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos"
     ]
   },
-  "cat_index": 146,
+  "cat_index": 148,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -569,8 +575,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un logo gratuitement en ligne": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Enregistrer une vidéo en slow motion": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": 1,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": 0,
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": 0,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": 1,
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": 0,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": 0,
     "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": 0,
@@ -1591,8 +1597,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Supprimer l’arrière-plan d’une photo": [
       "🤯 Dites adieu à l'arrière-plan : La méthode que personne ne dit"
     ],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": [],
-    "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": [],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer un collage photo sur mobile": [
+      "🚀 Collage photo mobile : Épatez vos amis en 5 min chrono !"
+    ],
+    "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": [
+      "🚀 InShot : Éditez des vidéos pro sur mobile en un éclair !"
+    ],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": [],
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": [],
     "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": [],
