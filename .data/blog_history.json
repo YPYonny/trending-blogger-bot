@@ -149,7 +149,9 @@
     "35095ef04e9689614b681476db552570db5a9bf0",
     "dd3e993cb9f23ea7eeed454590d9506909b9f460",
     "6d22c788112f11abe84489d9a2f949733055eb93",
-    "b31d3f2445db7a8ac893041cf05dadaeae61ea22"
+    "b31d3f2445db7a8ac893041cf05dadaeae61ea22",
+    "a61e47f47528be5e6676acf2f04762d788538e44",
+    "ec5b34e6ac3defcbd007be8390962c42ddc22e7f"
   ],
   "days": {
     "2026-04-05": [
@@ -431,9 +433,13 @@
     "2026-07-05": [
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple",
       "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social"
+    ],
+    "2026-07-06": [
+      "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur",
+      "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement"
     ]
   },
-  "cat_index": 150,
+  "cat_index": 152,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -585,8 +591,8 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Utiliser InShot pour éditer des vidéos": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Faire un montage audio simple": 1,
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": 1,
-    "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": 0,
-    "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": 0,
+    "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": 1,
+    "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": 1,
     "INTERNET ET NAVIGATION - Rechercher efficacement sur Google": 0,
     "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome": 0,
     "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": 0,
@@ -1615,8 +1621,12 @@
     "CRÉATION DE CONTENU ET MULTIMÉDIA - Créer une bannière pour un réseau social": [
       "🎨 Bannière Sociale : Créez l'IRRÉSISTIBLE en 5 min chrono !"
     ],
-    "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": [],
-    "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": [],
+    "INTERNET ET NAVIGATION - Activer le mode lecteur dans un navigateur": [
+      "🤯 Votre navigateur cache un mode lecture secret ! Découvrez-le vite."
+    ],
+    "INTERNET ET NAVIGATION - Utiliser les favoris pour retrouver un site rapidement": [
+      "🚀 Ne perdez plus jamais un site ! L'astuce FAVORIS ultime"
+    ],
     "INTERNET ET NAVIGATION - Rechercher efficacement sur Google": [],
     "INTERNET ET NAVIGATION - Sauvegarder les mots de passe dans Chrome": [],
     "INTERNET ET NAVIGATION - Activer la traduction automatique dans Chrome": [],
