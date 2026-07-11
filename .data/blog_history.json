@@ -159,7 +159,9 @@
     "06e48ae1ac5538f06a7cdbbcf2af9df38f52c9ea",
     "bae686436b9562def265ff775de2a7906344ebde",
     "5c493c322828dc9202e4fda933747c57260aab6a",
-    "47823c85c2c916d4aa03827a81416082d102f79a"
+    "47823c85c2c916d4aa03827a81416082d102f79a",
+    "9463901baf555bd658dd0a74be53337489d52f42",
+    "eef3cc8b500192f416440d7700759db6486dbef5"
   ],
   "days": {
     "2026-04-05": [
@@ -461,9 +463,13 @@
     "2026-07-10": [
       "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires",
       "INTERNET ET NAVIGATION - Télécharger une page web en PDF"
+    ],
+    "2026-07-11": [
+      "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet",
+      "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo"
     ]
   },
-  "cat_index": 160,
+  "cat_index": 162,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -625,8 +631,8 @@
     "INTERNET ET NAVIGATION - Gérer plusieurs onglets facilement": 1,
     "INTERNET ET NAVIGATION - Bloquer les cookies publicitaires": 1,
     "INTERNET ET NAVIGATION - Télécharger une page web en PDF": 1,
-    "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": 0,
-    "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": 0,
+    "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": 1,
+    "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": 1,
     "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": 0,
     "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": 0,
     "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": 0,
@@ -1675,8 +1681,12 @@
     "INTERNET ET NAVIGATION - Télécharger une page web en PDF": [
       "🚀 Page web en PDF : La méthode GRATUITE et SECRÈTE en 2025 !"
     ],
-    "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": [],
-    "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": [],
+    "INTERNET ET NAVIGATION - Vérifier la vitesse de sa connexion Internet": [
+      "🐢 Internet Lent ? Testez votre vitesse et soyez CHOQUÉ !"
+    ],
+    "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": [
+      "📸 DÉMASQUEZ la Vérité : Trouvez N'IMPORTE Quelle Image sur Google !"
+    ],
     "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": [],
     "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": [],
     "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": [],
