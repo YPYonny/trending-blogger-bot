@@ -163,7 +163,9 @@
     "9463901baf555bd658dd0a74be53337489d52f42",
     "eef3cc8b500192f416440d7700759db6486dbef5",
     "78734cc9d21b3074b769a8fa3fdc101da895877e",
-    "46d4783029ad1678c7810d42ff551ffebf5e9582"
+    "46d4783029ad1678c7810d42ff551ffebf5e9582",
+    "82dfc8f75d18821e6d85ee5758757b2f28b7977f",
+    "2f80f8d0bb588a72ff8cf23c142f357f7af6f311"
   ],
   "days": {
     "2026-04-05": [
@@ -473,9 +475,13 @@
     "2026-07-12": [
       "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up",
       "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau"
+    ],
+    "2026-07-13": [
+      "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet",
+      "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine"
     ]
   },
-  "cat_index": 164,
+  "cat_index": 166,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -641,8 +647,8 @@
     "INTERNET ET NAVIGATION - Rechercher une image sur Google à partir d’une photo": 1,
     "INTERNET ET NAVIGATION - Utiliser un bloqueur de pop-up": 1,
     "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": 1,
-    "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": 0,
-    "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": 0,
+    "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": 1,
+    "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": 1,
     "INTERNET ET NAVIGATION - Sauvegarder ses favoris pour les importer ailleurs": 0,
     "INTERNET ET NAVIGATION - Ouvrir automatiquement plusieurs onglets au démarrage": 0,
     "INTERNET ET NAVIGATION - Utiliser un outil de capture d’écran web": 0,
@@ -1699,8 +1705,12 @@
     "INTERNET ET NAVIGATION - Créer un raccourci vers un site web sur le bureau": [
       "🚀 Vos Sites Web en 1 Clic sur le Bureau ? C'est Si Simple !"
     ],
-    "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": [],
-    "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": [],
+    "INTERNET ET NAVIGATION - Utiliser Google Alerts pour surveiller un sujet": [
+      "🕵️‍♀️ Google Alerts: Le secret pour ne plus rien rater !"
+    ],
+    "INTERNET ET NAVIGATION - Consulter l’historique d’un site avec Wayback Machine": [
+      "🤯 Wayback Machine : Dévoilez le Passé Secret des Sites !"
+    ],
     "INTERNET ET NAVIGATION - Sauvegarder ses favoris pour les importer ailleurs": [],
     "INTERNET ET NAVIGATION - Ouvrir automatiquement plusieurs onglets au démarrage": [],
     "INTERNET ET NAVIGATION - Utiliser un outil de capture d’écran web": [],
