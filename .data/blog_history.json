@@ -171,7 +171,9 @@
     "44a8c124676eab33c3b5fc9d4f6e2cbb6465b473",
     "eba0a609e120cb5c6a0e9c3cf1d5a006d09ae2f3",
     "9bf2c58196ce4e68366cee907e729abed08b1c32",
-    "152d22a6938cc71b95701d1df2414c45c674d27c"
+    "152d22a6938cc71b95701d1df2414c45c674d27c",
+    "bf6f611fc81dabd3ce95f13b9472b9eee604c444",
+    "963e9cbf3c5af239cd02a3ab2e9dd77a499af8e6"
   ],
   "days": {
     "2026-04-05": [
@@ -497,9 +499,13 @@
     "2026-07-18": [
       "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES",
       "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable"
+    ],
+    "2026-07-19": [
+      "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS",
+      "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS"
     ]
   },
-  "cat_index": 172,
+  "cat_index": 174,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -673,8 +679,8 @@
     "INTERNET ET NAVIGATION - Consulter les statistiques d’un site web": 1,
     "CYBERSÉCURITÉ AVANCÉE - Comprendre le chiffrement AES": 1,
     "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": 1,
     "CYBERSÉCURITÉ AVANCÉE - Utiliser l’authentification biométrique": 0,
     "CYBERSÉCURITÉ AVANCÉE - Sauvegarder ses données sur un disque externe sécurisé": 0,
     "CYBERSÉCURITÉ AVANCÉE - Protéger un fichier ZIP par mot de passe": 0,
@@ -1747,8 +1753,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Créer un mot de passe fort et mémorisable": [
       "💪 Mot de passe IMPRENABLE et facile à retenir ? C'est possible !"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": [],
-    "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": [],
+    "CYBERSÉCURITÉ AVANCÉE - Activer un pare-feu sur Windows et macOS": [
+      "🚨 PC Windows/Mac: Activez votre pare-feu et bloquez les hackers !"
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Détecter une tentative de phishing par SMS": [
+      "🚨 Phishing SMS: Le Secret Pour Détecter et Bloquer les Arnaques !"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Utiliser l’authentification biométrique": [],
     "CYBERSÉCURITÉ AVANCÉE - Sauvegarder ses données sur un disque externe sécurisé": [],
     "CYBERSÉCURITÉ AVANCÉE - Protéger un fichier ZIP par mot de passe": [],
