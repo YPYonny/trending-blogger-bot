@@ -179,7 +179,9 @@
     "d0d56124f8345904cf09b25f8349736b973a6a61",
     "6ad07885b34f1f5574566acd09fadcc967141a53",
     "6784a27cb09a0d1c100812a1a8b0b9366f7eb287",
-    "df33008c22bf731d62960f095343559b43398776"
+    "df33008c22bf731d62960f095343559b43398776",
+    "79ff7c55215cb38e6c8be9c047bec4d30a9bf6cf",
+    "4a57a50369c26aa827e8f2f323f6e13fb40c18bf"
   ],
   "days": {
     "2026-04-05": [
@@ -521,9 +523,13 @@
     "2026-07-23": [
       "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy",
       "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger"
+    ],
+    "2026-07-24": [
+      "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles",
+      "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable"
     ]
   },
-  "cat_index": 180,
+  "cat_index": 182,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -705,8 +711,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Apprendre les bases du RGPD": 1,
     "CYBERSÉCURITÉ AVANCÉE - Sécuriser ses comptes avec Authy": 1,
     "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": 1,
-    "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": 0,
-    "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": 0,
+    "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": 1,
+    "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": 1,
     "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe": 0,
     "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage": 0,
     "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": 0,
@@ -1795,8 +1801,12 @@
     "CYBERSÉCURITÉ AVANCÉE - Comprendre les ransomwares et comment s’en protéger": [
       "🚨 Ransomware : Votre entreprise est-elle la prochaine cible ?"
     ],
-    "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": [],
-    "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": [],
+    "CYBERSÉCURITÉ AVANCÉE - Mettre à jour ses logiciels pour éviter les failles": [
+      "🛡️ Cybersécurité 2025 : l'erreur fatale que vous faites sans le savoir"
+    ],
+    "CYBERSÉCURITÉ AVANCÉE - Utiliser un antivirus gratuit fiable": [
+      "🤯 Antivirus Gratuit 2025: Vraiment Fiable pour une CyberSécurité Avancée?"
+    ],
     "CYBERSÉCURITÉ AVANCÉE - Chiffrer un disque dur externe": [],
     "CYBERSÉCURITÉ AVANCÉE - Protéger sa webcam contre le piratage": [],
     "CYBERSÉCURITÉ AVANCÉE - Vérifier si ses données ont fuité avec HaveIBeenPwned": [],
