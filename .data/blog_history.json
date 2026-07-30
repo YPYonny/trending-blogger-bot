@@ -191,7 +191,9 @@
     "092c5ca248efc04e569b191a8098b5c90033e705",
     "d0c84c00e165db9dd53ab038945d0eb224753c1b",
     "cd842a731de5d1dc453a3fc716ab6a2a8f54f962",
-    "d91e9fd55c1c7328088ecfb7c9ebb391b4526f3d"
+    "d91e9fd55c1c7328088ecfb7c9ebb391b4526f3d",
+    "306044e00b1e8877fb85f614e52e72b1096ad2e2",
+    "48b41652a1c2abcc80cd36e959facf9c757b6840"
   ],
   "days": {
     "2026-04-05": [
@@ -557,9 +559,13 @@
     "2026-07-29": [
       "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé",
       "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi"
+    ],
+    "2026-07-30": [
+      "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison",
+      "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur"
     ]
   },
-  "cat_index": 192,
+  "cat_index": 194,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -753,8 +759,8 @@
     "CYBERSÉCURITÉ AVANCÉE - Reconnaître une fausse application sur le Play Store": 1,
     "TECHNOLOGIE ET PROJETS DIY - Créer un serveur Minecraft privé": 1,
     "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": 1,
     "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": 0,
     "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": 0,
     "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": 0,
@@ -1867,8 +1873,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": [
       "🤯 Imprimante Wi-Fi : L'installation FACILE que PERSONNE ne vous dit !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": [],
-    "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": [],
+    "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": [
+      "💰 Stop acheter ! Créez votre support téléphone DIY en 5 min chrono"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": [
+      "🤯 Raspberry Pi : Le Mini-PC DIY qui va tout changer !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": [],
     "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": [],
     "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": [],
