@@ -193,7 +193,9 @@
     "cd842a731de5d1dc453a3fc716ab6a2a8f54f962",
     "d91e9fd55c1c7328088ecfb7c9ebb391b4526f3d",
     "306044e00b1e8877fb85f614e52e72b1096ad2e2",
-    "48b41652a1c2abcc80cd36e959facf9c757b6840"
+    "48b41652a1c2abcc80cd36e959facf9c757b6840",
+    "3588c9e37f53818c7371f9229f55351a098c7a64",
+    "98c930823128ea0148ac6a5285ca9441378f9400"
   ],
   "days": {
     "2026-04-05": [
@@ -563,9 +565,13 @@
     "2026-07-30": [
       "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison",
       "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur"
+    ],
+    "2026-07-31": [
+      "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino",
+      "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone"
     ]
   },
-  "cat_index": 194,
+  "cat_index": 196,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -761,8 +767,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer une imprimante sur un réseau Wi-Fi": 1,
     "TECHNOLOGIE ET PROJETS DIY - Fabriquer un support de téléphone maison": 1,
     "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": 1,
-    "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": 0,
+    "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": 1,
     "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": 0,
     "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": 0,
     "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": 0,
@@ -1879,8 +1885,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Utiliser une Raspberry Pi comme mini-ordinateur": [
       "🤯 Raspberry Pi : Le Mini-PC DIY qui va tout changer !"
     ],
-    "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": [],
-    "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": [],
+    "TECHNOLOGIE ET PROJETS DIY - Créer une horloge connectée avec Arduino": [
+      "🚀 Créez votre Horloge Connectée Arduino : Le futur, c'est vous !"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Faire une lampe LED pilotée par smartphone": [
+      "📱 Lampe LED DIY connectée: Le futur de votre éclairage est là !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Transformer un vieux PC en serveur de fichiers": [],
     "TECHNOLOGIE ET PROJETS DIY - Configurer une caméra de sécurité IP": [],
     "TECHNOLOGIE ET PROJETS DIY - Construire un système d’arrosage automatique avec Arduino": [],
