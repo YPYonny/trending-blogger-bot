@@ -201,7 +201,9 @@
     "c9a60b768d35b5ae576aaa9b5ea3d1de95415ebd",
     "e28b1b00f952771656bc4edd509e027acc68725e",
     "60eda6642e2647eeb6a0f6d5b0dfedaa15712648",
-    "938f42d2b36cd5018482ea663d01da432497493d"
+    "938f42d2b36cd5018482ea663d01da432497493d",
+    "895dee46c0d1e31bc9198a76510dc6d1cc408eac",
+    "d8e26be7c4959ee5c315665c46cef00c5ec84592"
   ],
   "days": {
     "2026-04-05": [
@@ -587,9 +589,13 @@
     "2026-08-03": [
       "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone",
       "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison"
+    ],
+    "2026-08-04": [
+      "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV",
+      "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison"
     ]
   },
-  "cat_index": 202,
+  "cat_index": 204,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -793,8 +799,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer un système domotique simple": 1,
     "TECHNOLOGIE ET PROJETS DIY - Connecter une manette de jeu à son téléphone": 1,
     "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": 1,
-    "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": 0,
-    "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": 0,
+    "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": 1,
+    "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": 1,
     "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": 0,
     "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": 0,
     "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": 0,
@@ -1927,8 +1933,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Faire une borne d’arcade maison": [
       "🔥 Borne d'Arcade Maison: Réalisez ce rêve sans vous ruiner !"
     ],
-    "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": [],
-    "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": [],
+    "TECHNOLOGIE ET PROJECTS DIY - Transformer un écran de PC en TV": [
+      "💡 Écran PC en TV : Le Hack DIY que personne ne vous dit!"
+    ],
+    "TECHNOLOGIE ET PROJETS DIY - Construire un haut-parleur Bluetooth maison": [
+      "✨ Votre enceinte Bluetooth DIY : Un son bluffant, c'est facile !"
+    ],
     "TECHNOLOGIE ET PROJETS DIY - Installer un détecteur de mouvement connecté": [],
     "TECHNOLOGIE ET PROJETS DIY - Utiliser un capteur de température connecté": [],
     "TECHNOLOGIE ET PROJETS DIY - Monter un PC de A à Z": [],
