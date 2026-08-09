@@ -209,7 +209,9 @@
     "ff038a05c30ea3ee31774f9f026a2aab0385fc32",
     "2a6c56a3197cc1ff90dd3faaf2f5aa801abc627a",
     "ee1fc3b852c4cb67f992aa5e9c829f9d92638dda",
-    "dfc152d72b5a7df824e5e9828a832674cc3f3e42"
+    "dfc152d72b5a7df824e5e9828a832674cc3f3e42",
+    "ca8e8d4ba94190b6757977bf5dc6ad3b226781b0",
+    "6d1b24aef38c7434d3f321ee189699e52c56b2df"
   ],
   "days": {
     "2026-04-05": [
@@ -611,9 +613,13 @@
     "2026-08-08": [
       "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi",
       "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source"
+    ],
+    "2026-08-09": [
+      "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll",
+      "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte"
     ]
   },
-  "cat_index": 210,
+  "cat_index": 212,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -825,8 +831,8 @@
     "TECHNOLOGIE ET PROJETS DIY - Optimiser un vieux PC pour qu’il soit plus rapide": 1,
     "TECHNOLOGIE ET PROJETS DIY - Créer un NAS avec un Raspberry Pi": 1,
     "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source": 1,
-    "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": 0,
-    "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": 0,
+    "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": 1,
+    "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": 1,
     "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": 0,
     "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": 0,
     "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": 0,
@@ -1975,8 +1981,12 @@
     "TECHNOLOGIE ET PROJETS DIY - Installer un assistant vocal open source": [
       "🤖 Maîtrisez votre maison: Assistant vocal open source DIY RÉVÉLÉ!"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": [],
-    "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": [],
+    "OUTILS ET SERVICES EN LIGNE - Créer un sondage avec Strawpoll": [
+      "🤔 Strawpoll: Créez un sondage en ligne en 2 clics (c'est dingue!)"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": [
+      "🎙️ Audio en texte: le secret pour transcrire facilement"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": [],
     "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": [],
     "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": [],
