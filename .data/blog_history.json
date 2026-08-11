@@ -213,7 +213,9 @@
     "ca8e8d4ba94190b6757977bf5dc6ad3b226781b0",
     "6d1b24aef38c7434d3f321ee189699e52c56b2df",
     "8dffc12ab2c458849dba5182565bf6c5d9dd7231",
-    "01f0163ba18e35520dd3e80c8f3f09f019034279"
+    "01f0163ba18e35520dd3e80c8f3f09f019034279",
+    "fc7717a7de12ade7cb2ebceb317177eeb79c488c",
+    "224ba8bfb91f04a304e5be28ec80fb7b9f10fb96"
   ],
   "days": {
     "2026-04-05": [
@@ -623,9 +625,13 @@
     "2026-08-10": [
       "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest",
       "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement"
+    ],
+    "2026-08-11": [
+      "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne",
+      "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement"
     ]
   },
-  "cat_index": 214,
+  "cat_index": 216,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -841,8 +847,8 @@
     "OUTILS ET SERVICES EN LIGNE - Convertir un fichier audio en texte": 1,
     "OUTILS ET SERVICES EN LIGNE - Faire un test de vitesse Internet avec Speedtest": 1,
     "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": 1,
-    "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": 0,
-    "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": 0,
+    "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": 1,
+    "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": 0,
     "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": 0,
     "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": 0,
@@ -1999,8 +2005,12 @@
     "OUTILS ET SERVICES EN LIGNE - Retirer un arrière-plan d’image gratuitement": [
       "🤯 Vire un fond d'image GRATUIT ? Oui, c'est possible !"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": [],
-    "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": [],
+    "OUTILS ET SERVICES EN LIGNE - Redimensionner une image en ligne": [
+      "🚀 Redimensionner image en ligne: L'outil magique et 100% gratuit!"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Convertir une vidéo en MP3 légalement": [
+      "🎵 Vidéo en MP3 Légalement? La Solution Simple et GRATUITE !"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Créer un QR Code personnalisé": [],
     "OUTILS ET SERVICES EN LIGNE - Utiliser un planificateur de publications sur réseaux sociaux": [],
     "OUTILS ET SERVICES EN LIGNE - Faire une capture d’écran longue sur mobile": [],
