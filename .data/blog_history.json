@@ -225,7 +225,9 @@
     "244610c929ca92f7b2cca233da47970bc37bec8e",
     "bdbada9b4e37d8b19b75900ee6d496375fcd59a8",
     "d03177950436aba8f32a6ec6e0b01c1e86607e88",
-    "ade89d14dddb137513063d3e84180db00a991a08"
+    "ade89d14dddb137513063d3e84180db00a991a08",
+    "cf9c4355319d210db3a2243c519175e1b0383298",
+    "14b599708fa97eb0f9467c318c382566f2641288"
   ],
   "days": {
     "2026-04-05": [
@@ -659,9 +661,13 @@
     "2026-08-16": [
       "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne",
       "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne"
+    ],
+    "2026-08-18": [
+      "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet",
+      "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly"
     ]
   },
-  "cat_index": 226,
+  "cat_index": 228,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -889,8 +895,8 @@
     "OUTILS ET SERVICES EN LIGNE - Vérifier l’orthographe d’un texte automatiquement": 1,
     "OUTILS ET SERVICES EN LIGNE - Créer un calendrier partagé en ligne": 1,
     "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": 1,
-    "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": 0,
-    "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": 0,
+    "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": 1,
+    "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": 1,
     "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne": 0,
     "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": 0,
@@ -2071,8 +2077,12 @@
     "OUTILS ET SERVICES EN LIGNE - Sauvegarder ses mots de passe sur un coffre-fort en ligne": [
       "🔒 Vos mots de passe à l'abri: Le secret des pros révélé!"
     ],
-    "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": [],
-    "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": [],
+    "OUTILS ET SERVICES EN LIGNE - Utiliser Google Trends pour analyser un sujet": [
+      "🚀 Google Trends: Dominez votre niche avec cette astuce !"
+    ],
+    "OUTILS ET SERVICES EN LIGNE - Créer un lien court avec Bitly": [
+      "🚀 Bitly : Transformez vos liens, explosez vos clics !"
+    ],
     "OUTILS ET SERVICES EN LIGNE - Générer une infographie en ligne": [],
     "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite": [],
     "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": [],
