@@ -231,7 +231,9 @@
     "2252bc1bfd11f04e8287de9c77c07e2d3516654e",
     "53e2162e10b95db0f1e7775f830418f3d81f2c26",
     "7dc4fdfbbb59226dd0636010b6f39cd9de64cddb",
-    "7003a2640faa43d1bf81ecd8f8dcce69d0de7248"
+    "7003a2640faa43d1bf81ecd8f8dcce69d0de7248",
+    "1e4be45fd6e3bae57cc9899c7b051462fa2d01bb",
+    "9bec94476b1717a7eaa0d36a624706223d1a665d"
   ],
   "days": {
     "2026-04-05": [
@@ -677,9 +679,13 @@
     "2026-08-20": [
       "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier",
       "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO"
+    ],
+    "2026-08-21": [
+      "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital",
+      "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive"
     ]
   },
-  "cat_index": 232,
+  "cat_index": 234,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -913,8 +919,8 @@
     "OUTILS ET SERVICES EN LIGNE - Organiser un événement avec Eventbrite": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre à taper plus vite au clavier": 1,
     "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": 0,
-    "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": 1,
+    "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": 1,
     "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": 0,
@@ -2107,8 +2113,12 @@
     "FORMATION ET APPRENTISSAGE - Comprendre les bases du référencement SEO": [
       "🚀 SEO Facile: Maîtrisez les Bases et Explosez Votre Trafic !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": [],
-    "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre les notions de base du marketing digital": [
+      "💡 Marketing Digital: Le Secret des Bases DÉVOILÉ pour 2025 !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Lire un livre gratuitement sur Internet Archive": [
+      "📚 Accès GRATUIT à des millions de livres : le secret révélé !"
+    ],
     "FORMATION ET APPRENTISSAGE - Suivre un cours gratuit sur OpenClassrooms": [],
     "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo": [],
     "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": [],
