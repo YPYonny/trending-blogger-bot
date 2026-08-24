@@ -237,7 +237,9 @@
     "1b8f1a2415bbe0e5454f85e6b7b7fc2e8e2336ff",
     "1fff60964ea6d4b5bc887fa8beaa2b332c54a9cf",
     "5b9db8568b04de42aa9c643583f1f5ca2541754f",
-    "f1bbc5bbc4f1a8af95f862434d5a1999cfa81253"
+    "f1bbc5bbc4f1a8af95f862434d5a1999cfa81253",
+    "b2a699c7a13b045dac92029c449bf194c4e539c5",
+    "66695692502cc34a46073b687cd683cdd3817bd3"
   ],
   "days": {
     "2026-04-05": [
@@ -695,9 +697,13 @@
     "2026-08-23": [
       "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy",
       "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle"
+    ],
+    "2026-08-24": [
+      "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement",
+      "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité"
     ]
   },
-  "cat_index": 238,
+  "cat_index": 240,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -937,8 +943,8 @@
     "FORMATION ET APPRENTISSAGE - Apprendre l’anglais avec Duolingo": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les mathématiques avec Khan Academy": 1,
     "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": 0,
-    "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": 1,
+    "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": 0,
     "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": 0,
@@ -2143,8 +2149,12 @@
     "FORMATION ET APPRENTISSAGE - Découvrir les bases de la finance personnelle": [
       "💸 Stop aux galères ! Maîtrisez vos finances perso sans effort."
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": [],
-    "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre la retouche photo gratuitement": [
+      "🚀 Apprenez la retouche photo GRATUITEMENT : Le guide ultime!"
+    ],
+    "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": [
+      "🔓 Cybersécurité : Apprenez l'essentiel avant qu'il ne soit trop tard !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": [],
     "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": [],
     "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": [],
