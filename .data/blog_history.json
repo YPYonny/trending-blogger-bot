@@ -241,7 +241,9 @@
     "b2a699c7a13b045dac92029c449bf194c4e539c5",
     "66695692502cc34a46073b687cd683cdd3817bd3",
     "70f2da341f81148dbffbdbec23cfed1be5864beb",
-    "df693e6a9edebe4f5b96d06646446a49571e374b"
+    "df693e6a9edebe4f5b96d06646446a49571e374b",
+    "d9c0c2dfd0429ada2e3dccac119f696169a82ef1",
+    "e903cf8475b2f3c485f6b8a27639e3b1a2fdd3bf"
   ],
   "days": {
     "2026-04-05": [
@@ -707,9 +709,13 @@
     "2026-08-25": [
       "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design",
       "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera"
+    ],
+    "2026-08-26": [
+      "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet",
+      "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain"
     ]
   },
-  "cat_index": 242,
+  "cat_index": 244,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -953,8 +959,8 @@
     "FORMATION ET APPRENTISSAGE - Comprendre les bases de la cybersécurité": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre à utiliser Canva pour le design": 1,
     "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": 1,
-    "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": 0,
-    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": 0,
+    "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": 1,
+    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": 1,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": 0,
     "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": 0,
@@ -2167,8 +2173,12 @@
     "FORMATION ET APPRENTISSAGE - Suivre une formation gratuite sur Coursera": [
       "🎓 Le Secret des Formations Coursera GRATUITES révélé !"
     ],
-    "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": [],
-    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": [],
+    "FORMATION ET APPRENTISSAGE - Apprendre la gestion de projet": [
+      "🔑 Gestion de projet : La clé de votre succès professionnel !"
+    ],
+    "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement de la blockchain": [
+      "🔑 Blockchain: Démystifiez la Tech qui Change le Monde !"
+    ],
     "FORMATION ET APPRENTISSAGE - Apprendre les bases du montage vidéo": [],
     "FORMATION ET APPRENTISSAGE - Apprendre à coder en Java": [],
     "FORMATION ET APPRENTISSAGE - Apprendre les bases de Linux": [],
