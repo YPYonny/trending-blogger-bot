@@ -249,7 +249,9 @@
     "a7071b4040c558683532542000a4a949667f7957",
     "94792007a0c2ec9429c1d137792e21bf6a480f7f",
     "74e6241733a164fb66be3cc9c5e0c7bc5b6bc4fc",
-    "33c9d0781a7f5fc02ecb610526574fe31c131063"
+    "33c9d0781a7f5fc02ecb610526574fe31c131063",
+    "df38d21d014ae80a06ade6a9ce3c9fde9ad169cb",
+    "5f8e8e2c4b0e68a2caba565bbf15ae1876cae1e4"
   ],
   "days": {
     "2026-04-05": [
@@ -731,9 +733,13 @@
     "2026-08-29": [
       "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing",
       "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données"
+    ],
+    "2026-08-30": [
+      "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto",
+      "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas"
     ]
   },
-  "cat_index": 250,
+  "cat_index": 252,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -985,8 +991,8 @@
     "FORMATION ET APPRENTISSAGE - Apprendre à configurer un serveur web": 1,
     "FORMATION ET APPRENTISSAGE - Comprendre le fonctionnement du cloud computing": 1,
     "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": 1,
-    "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": 0,
-    "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": 0,
+    "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": 1,
+    "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": 1,
     "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": 0,
     "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": 0,
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": 0,
@@ -2215,8 +2221,12 @@
     "FORMATION ET APPRENTISSAGE - Suivre une formation sur la protection des données": [
       "💥 Amende RGPD ? Non merci ! Formez-vous et protégez-vous."
     ],
-    "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": [],
-    "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": [],
+    "HACKING ÉTHIQUE & SÉCURITÉ - Comment scanner un site avec Nikto": [
+      "🔥 Scannez un site avec Nikto: Révélez les failles cachées !"
+    ],
+    "HACKING ÉTHETIQUE & SÉCURITÉ - Exploitation d’une faille LFI pas à pas": [
+      "🚨 Faille LFI : Le Guide Ultime d'Exploitation Éthique Révélé !"
+    ],
     "HACKING ÉTHIQUE & SÉCURITÉ - Utiliser Hydra pour brute-forcer un compte FTP": [],
     "HACKING ÉTHIQUE & SÉCURITÉ - Apprendre à faire un phishing Facebook avec SocialFish": [],
     "HACKING ÉETHIQUE & SÉCURITÉ - Utiliser la commande whois pour obtenir des infos d’un domaine": [],
