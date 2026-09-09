@@ -32,6 +32,7 @@ jobs:
       - name: Run Blogger script
         env:
           BLOGGER_SECRET_MAIL: ${{ secrets.BLOGGER_SECRET_MAIL }}
+          BLOGGER_SECRET_MAIL2: ${{ secrets.BLOGGER_SECRET_MAIL2 }}
           GMAIL_USER:          ${{ secrets.GMAIL_USER }}
           GMAIL_PASS:          ${{ secrets.GMAIL_PASS }}
           GEMINI_API_KEY:      ${{ secrets.GEMINI_API_KEY }}
