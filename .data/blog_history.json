@@ -269,7 +269,9 @@
     "1d9a1f63d35c6a0824a2eace94006ccf04d8040f",
     "b257181d6cbe8a9779061f31663a0c9c5009d98d",
     "8e9fded775afe8c8adeb81959c1130c78b901d25",
-    "7545db68fea5b61dc2abbb8ec4cef674a503e0d7"
+    "7545db68fea5b61dc2abbb8ec4cef674a503e0d7",
+    "b210ff4d7c3ec3d8d283431a3cb88af97f0c92de",
+    "cccf19437e77eb5eb80be2bebf71539693d5094a"
   ],
   "days": {
     "2026-04-05": [
@@ -791,9 +793,13 @@
     "2026-09-08": [
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup",
       "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows"
+    ],
+    "2026-09-09": [
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup",
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails"
     ]
   },
-  "cat_index": 270,
+  "cat_index": 272,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1065,8 +1071,8 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Script pour envoyer un email anonyme en Python": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Extraire les liens d’une page web avec BeautifulSoup": 1,
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": 1,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": 0,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": 0,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": 1,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": 0,
@@ -2335,8 +2341,12 @@
     "PROGRAMMATION & SCRIPTS DE SÉCURITÉ - Convertir un script Python en exécutable Windows": [
       "🔒 Python en .EXE Windows: Le secret pour vos scripts de sécurité !"
     ],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": [],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": [],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’adresse IP d’un site avec nslookup": [
+      "🕵️‍♂️ Démasquez l'IP d'un site web en 2 minutes avec nslookup!"
+    ],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser theHarvester pour collecter des emails": [
+      "🤯 OSINT: Révélez des milliers d'emails avec TheHarvester !"
+    ],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Analyse de profil Facebook avec Sherlock": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": [],
