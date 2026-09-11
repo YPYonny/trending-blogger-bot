@@ -275,7 +275,9 @@
     "fc92e6abed062930f06fb6409d9cec572dbb721d",
     "8d6949c9a9356c27167033e128f0b4762e753975",
     "2eb8ee6e99ae05f51ccf3e7ef9be1e826e12e31f",
-    "0a6af19befa06ce7629c10d1646590a16f46da8d"
+    "0a6af19befa06ce7629c10d1646590a16f46da8d",
+    "10561d31d9665dba8c6038e3dc10e55ae76763ec",
+    "a3de44df2b789548e21c664589e5683aa6957377"
   ],
   "days": {
     "2026-04-05": [
@@ -805,9 +807,13 @@
     "2026-09-10": [
       "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine",
       "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP"
+    ],
+    "2026-09-11": [
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens",
+      "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint"
     ]
   },
-  "cat_index": 276,
+  "cat_index": 278,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1085,8 +1091,8 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Rechercher un pseudo sur le dark web": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Retrouver les anciennes versions d’un site avec Wayback Machine": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": 1,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": 0,
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": 0,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": 1,
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": 0,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": 0,
     "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": 0,
@@ -2367,8 +2373,12 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Trouver l’emplacement approximatif d’une IP": [
       "🕵️‍♂️ Traquez une IP : L'OSINT dévoile son emplacement secret"
     ],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": [],
-    "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": [],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Recherche d’images inversée avec Google Lens": [
+      "🤫 Google Lens: Votre arme secrète OSINT pour tout savoir !"
+    ],
+    "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": [
+      "🔍 L'outil secret pour traquer n'importe quel Twitter !"
+    ],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": [],
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": [],
     "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": [],
