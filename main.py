@@ -24,7 +24,6 @@ import google.generativeai as genai
 
 # ---------------- CONFIG ----------------
 BLOGGER_MAIL = os.environ["BLOGGER_SECRET_MAIL"]
-BLOGGER_MAIL = os.environ["BLOGGER_SECRET_MAIL2"]
 GMAIL_USER   = os.environ["GMAIL_USER"]
 GMAIL_PASS   = os.environ["GMAIL_PASS"]
 
