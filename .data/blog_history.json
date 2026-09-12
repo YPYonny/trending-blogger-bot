@@ -279,7 +279,9 @@
     "10561d31d9665dba8c6038e3dc10e55ae76763ec",
     "a3de44df2b789548e21c664589e5683aa6957377",
     "a1a86d8b4c291e8bfd8a66d7323bb13647c2412b",
-    "59ef097f88245d636f0b607b283a9e01939d1ae8"
+    "59ef097f88245d636f0b607b283a9e01939d1ae8",
+    "e84d20205714517f165b0968c2a0f3279c7a5ccc",
+    "7a26738bc709963256367816ce5d4d01a5b03921"
   ],
   "days": {
     "2026-04-05": [
@@ -813,9 +815,13 @@
     "2026-09-11": [
       "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web",
       "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données"
+    ],
+    "2026-09-12": [
+      "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark",
+      "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng"
     ]
   },
-  "cat_index": 280,
+  "cat_index": 282,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1097,8 +1103,8 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Suivre un compte Twitter avec Twint": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Identifier un hébergeur de site web": 1,
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": 1,
-    "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": 0,
-    "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": 0,
+    "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": 1,
+    "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": 1,
     "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": 0,
     "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": 0,
     "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": 0,
@@ -2387,8 +2393,12 @@
     "OSINT (OPEN SOURCE INTELLIGENCE) - Utiliser Maltego pour cartographier des données": [
       "🕵️‍♂️ Maltego: Révélez les secrets cachés de vos données !"
     ],
-    "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": [],
-    "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": [],
+    "PENTESTING RÉSEAU - Analyse de paquets avec Wireshark": [
+      "🕵️‍♂️ Wireshark: Démystifiez les secrets de votre réseau !"
+    ],
+    "PENTESTING RÉSEAU - Créer un faux point Wi-Fi avec Airbase-ng": [
+      "🚨 Créer un faux Wi-Fi: Démystifiez les attaques Airbase-ng !"
+    ],
     "PENTESTING RÉSEAU - Capter les mots de passe sur un réseau non sécurisé": [],
     "PENTESTING RÉSEAU - Cracker un mot de passe WPA avec aircrack-ng": [],
     "PENTESTING RÉSEAU - Détecter les appareils connectés à un réseau": [],
