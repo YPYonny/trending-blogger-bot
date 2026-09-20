@@ -295,7 +295,9 @@
     "193763ad34788b6d4013b424784242900682882e",
     "9f7481f86ae1934f9e642c3f6f9647b3ec6de052",
     "6a61c27f66d005cda2ac80a5c2b0d6bfc10b6773",
-    "80c659be94abac56485ffdd46ab919a96f06d11d"
+    "80c659be94abac56485ffdd46ab919a96f06d11d",
+    "68e2a5b09ddd25e11b1f6ce55a896cc2061559fd",
+    "1fdecb887cb4f6fbf60ab3f118086c1705f54546"
   ],
   "days": {
     "2026-04-05": [
@@ -861,9 +863,13 @@
     "2026-09-19": [
       "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb",
       "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles"
+    ],
+    "2026-09-20": [
+      "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF",
+      "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle"
     ]
   },
-  "cat_index": 296,
+  "cat_index": 298,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1161,8 +1167,8 @@
     "SÉCURITÉ WEB & BYPASS - Upload malveillant et exécution PHP": 1,
     "SÉCURITÉ WEB & BYPASS - Trouver des pages cachées d’un site avec Dirb": 1,
     "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": 1,
-    "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": 0,
-    "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": 0,
+    "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": 1,
+    "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": 1,
     "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": 0,
     "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": 0,
     "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": 0,
@@ -2483,8 +2489,12 @@
     "SÉCURITÉ WEB & BYPASS - Détecter la version d’un CMS et ses failles": [
       "🔍 Sécurité CMS: Découvrez la version & ses failles cachées !"
     ],
-    "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": [],
-    "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": [],
+    "SÉCURITÉ WEB & BYPASS - Exploiter une faille CSRF": [
+      "🔑 CSRF: Le secret pour bypasser la sécurité web révélé !"
+    ],
+    "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": [
+      "🔓 Cloudflare craqué : La vraie IP révélée ! Guide 2025 explosif"
+    ],
     "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": [],
     "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": [],
     "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": [],
