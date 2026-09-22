@@ -299,7 +299,9 @@
     "68e2a5b09ddd25e11b1f6ce55a896cc2061559fd",
     "1fdecb887cb4f6fbf60ab3f118086c1705f54546",
     "fa97cadfbc27c56cb28559b15f29122426d8038d",
-    "e312598007da1f6e253446d7bf9b6a02edde067e"
+    "e312598007da1f6e253446d7bf9b6a02edde067e",
+    "7066be4b24b3e0a9a012422922e8b837b917ce6a",
+    "5c9c0c04cfb49c468068fb619429786def3fed1f"
   ],
   "days": {
     "2026-04-05": [
@@ -873,9 +875,13 @@
     "2026-09-21": [
       "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé",
       "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web"
+    ],
+    "2026-09-22": [
+      "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)",
+      "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android"
     ]
   },
-  "cat_index": 300,
+  "cat_index": 302,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1177,8 +1183,8 @@
     "SÉCURITÉ WEB & BYPASS - Contourner Cloudflare pour obtenir IP réelle": 1,
     "SÉCURITÉ WEB & BYPASS - Forcer le téléchargement d’un fichier protégé": 1,
     "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": 1,
-    "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": 0,
-    "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": 0,
+    "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": 1,
+    "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": 0,
     "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": 0,
     "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": 0,
@@ -2507,8 +2513,12 @@
     "SÉCURITÉ WEB & BYPASS - Créer un script d’auto-login sur un site web": [
       "🤖 Plus de mot de passe ! Créez votre script auto-login."
     ],
-    "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": [],
-    "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": [],
+    "SÉCURITÉ MOBILE & ANDROID - Rooter un téléphone Android (sécurité)": [
+      "🛡️ Root Android : Sécurité ou Porte Ouverte aux Pirates ?"
+    ],
+    "SÉCURITÉ MOBILE & ANDROID - Extraire les données d’une application Android": [
+      "🔓 Révélez les données cachées d'apps Android !"
+    ],
     "SÉCURITÉ MOBILE & ANDROID - Analyser les permissions d’une APK": [],
     "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": [],
     "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": [],
