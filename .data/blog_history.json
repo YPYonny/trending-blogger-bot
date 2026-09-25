@@ -305,7 +305,9 @@
     "0a8f74f715d7670fdeae4aee8196b8bbe4775a58",
     "9d3ffab8f00330059860fc55b6a0be33f3b4657b",
     "b6e34139fa085a4e310cea8f64c74b860dfb3075",
-    "01f8a0d9fd7ac90bb273f54f32208dde91cb8825"
+    "01f8a0d9fd7ac90bb273f54f32208dde91cb8825",
+    "10af6c2d8e1e2d1d825d34735b5b5de0e89cea90",
+    "d8ceabd4f4f2ebd002308df6a7afb6ec6bbb3a88"
   ],
   "days": {
     "2026-04-05": [
@@ -891,9 +893,13 @@
     "2026-09-24": [
       "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android",
       "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python"
+    ],
+    "2026-09-25": [
+      "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android",
+      "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android"
     ]
   },
-  "cat_index": 306,
+  "cat_index": 308,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1201,8 +1207,8 @@
     "SÉCURITÉ MOBILE & ANDROID - Désassembler une APK avec JADX": 1,
     "SÉCURITÉ MOBILE & ANDROID - Faire un sniffing réseau sur Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": 1,
-    "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": 0,
-    "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": 0,
+    "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": 1,
+    "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": 0,
     "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": 0,
     "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": 0,
@@ -2543,8 +2549,12 @@
     "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": [
       "🔓 Débloquez Android: Scripts Python avec Termux !"
     ],
-    "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": [],
-    "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": [],
+    "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": [
+      "🤫 Cloner une appli Android: Le secret des pros dévoilé!"
+    ],
+    "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": [
+      "🤯 Metasploit sur Android: Révélez les Secrets de la Cybersécurité"
+    ],
     "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": [],
     "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": [],
     "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": [],
