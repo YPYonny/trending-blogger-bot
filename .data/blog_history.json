@@ -307,7 +307,9 @@
     "b6e34139fa085a4e310cea8f64c74b860dfb3075",
     "01f8a0d9fd7ac90bb273f54f32208dde91cb8825",
     "10af6c2d8e1e2d1d825d34735b5b5de0e89cea90",
-    "d8ceabd4f4f2ebd002308df6a7afb6ec6bbb3a88"
+    "d8ceabd4f4f2ebd002308df6a7afb6ec6bbb3a88",
+    "46bc9d3ff66913415264b2f598025ab834e4f4b4",
+    "f33726e182f2e937bd3954802cd86b30222305f3"
   ],
   "days": {
     "2026-04-05": [
@@ -897,9 +899,13 @@
     "2026-09-25": [
       "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android",
       "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android"
+    ],
+    "2026-09-26": [
+      "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté",
+      "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)"
     ]
   },
-  "cat_index": 308,
+  "cat_index": 310,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1209,8 +1215,8 @@
     "SÉCURITÉ MOBILE & ANDROID - Utiliser Termux pour lancer des scripts Python": 1,
     "SÉCURITÉ MOBILE & ANDROID - Cloner une application Android": 1,
     "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": 1,
-    "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": 0,
-    "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": 0,
+    "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": 1,
+    "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": 1,
     "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": 0,
     "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": 0,
     "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": 0,
@@ -2555,8 +2561,12 @@
     "SÉCURITÉ MOBILE & ANDROID - Installer Metasploit sur Android": [
       "🤯 Metasploit sur Android: Révélez les Secrets de la Cybersécurité"
     ],
-    "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": [],
-    "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": [],
+    "SÉCURITÉ MOBILE & ANDROID - Capter les SMS sur un appareil rooté": [
+      "⚠️ Android Rooté : Capter vos SMS ? Découvrez la vérité choc !"
+    ],
+    "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": [
+      "🔒 Android : Oublié votre mot de passe ? Déverrouillez FACILEMENT !"
+    ],
     "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": [],
     "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": [],
     "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": [],
