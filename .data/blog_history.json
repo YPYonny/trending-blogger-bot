@@ -311,7 +311,9 @@
     "46bc9d3ff66913415264b2f598025ab834e4f4b4",
     "f33726e182f2e937bd3954802cd86b30222305f3",
     "428b5c4e86dc57541dede897039854919f431d89",
-    "b367db82ebc2efc02301c46427c94b2f12123994"
+    "b367db82ebc2efc02301c46427c94b2f12123994",
+    "a326eeed53121f6cd426ecd27554cd5b96e99689",
+    "9998752e977e170c93ec2ba1ecc28f92e27fff31"
   ],
   "days": {
     "2026-04-05": [
@@ -909,9 +911,13 @@
     "2026-09-27": [
       "DARK WEB & ANONYMAT - Installer Tor sur PC et Android",
       "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser"
+    ],
+    "2026-09-28": [
+      "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor",
+      "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme"
     ]
   },
-  "cat_index": 312,
+  "cat_index": 314,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1225,8 +1231,8 @@
     "SÉCURITÉ MOBILE & ANDROID - Supprimer un mot de passe d’écran sur Android (éthique)": 1,
     "DARK WEB & ANONYMAT - Installer Tor sur PC et Android": 1,
     "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": 1,
-    "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": 0,
-    "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": 0,
+    "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": 1,
+    "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": 1,
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 0,
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 0,
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 0,
@@ -2579,8 +2585,12 @@
     "DARK WEB & ANONYMAT - Accéder à des .onion avec Tor Browser": [
       "🕵️‍♂️ Explorez le Dark Web : Accédez aux .onion anonymement avec Tor !"
     ],
-    "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": [],
-    "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": [],
+    "DARK WEB & ANONYMAT - Créer un serveur caché sur Tor": [
+      "🤫 Dark Web : Créez votre serveur Tor caché, restez 100% invisible !"
+    ],
+    "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": [
+      "🕵️‍♂️ Anonymat extrême : Explorez le Dark Web sans laisser de trace !"
+    ],
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": [],
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": [],
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": [],
