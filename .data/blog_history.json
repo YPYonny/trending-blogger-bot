@@ -315,7 +315,9 @@
     "a326eeed53121f6cd426ecd27554cd5b96e99689",
     "9998752e977e170c93ec2ba1ecc28f92e27fff31",
     "aa7c4122cae382caadda9eecfcab8f674a714f84",
-    "9d3ff9ce62b878926c979dcc61e406559db4073a"
+    "9d3ff9ce62b878926c979dcc61e406559db4073a",
+    "3b5da6b1f70a69a860064d027b4480fc5b7d4b1f",
+    "fb627e206658981a09e91cc6a246fb76f334c6e7"
   ],
   "days": {
     "2026-04-05": [
@@ -921,9 +923,13 @@
     "2026-09-29": [
       "DARK WEB & ANONYMAT - Configurer un VPN sur routeur",
       "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée"
+    ],
+    "2026-09-30": [
+      "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages",
+      "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy"
     ]
   },
-  "cat_index": 316,
+  "cat_index": 318,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1241,8 +1247,8 @@
     "DARK WEB & ANONYMAT - Utiliser Tails OS pour rester anonyme": 1,
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 1,
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 1,
-    "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 0,
-    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 0,
+    "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 1,
+    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 1,
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 0,
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 0,
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 0,
@@ -2603,8 +2609,12 @@
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": [
       "🔒 Anonymat Absolu : Échangez vos fichiers via le Dark Web"
     ],
-    "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": [],
-    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": [],
+    "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": [
+      "🔐 STOP Surveillance : Chiffrez vos messages PGP sur le Dark Web !"
+    ],
+    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": [
+      "🤫 Le secret des pros pour masquer votre IP sur le Dark Web"
+    ],
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": [],
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": [],
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": [],
