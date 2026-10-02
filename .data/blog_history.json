@@ -319,7 +319,9 @@
     "3b5da6b1f70a69a860064d027b4480fc5b7d4b1f",
     "fb627e206658981a09e91cc6a246fb76f334c6e7",
     "bdff72b6d2be6d9d07b8ad14472151a6a5ed6e7b",
-    "014c1b29d4e1fd81c4ae49bd5c8291925c5ed259"
+    "014c1b29d4e1fd81c4ae49bd5c8291925c5ed259",
+    "c0d005413e6236fb58ebe1b04b023464d9375b94",
+    "a86a19966e37a927a85848302c3768fa1fd8c402"
   ],
   "days": {
     "2026-04-05": [
@@ -933,9 +935,13 @@
     "2026-10-01": [
       "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme",
       "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux"
+    ],
+    "2026-10-02": [
+      "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort",
+      "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt"
     ]
   },
-  "cat_index": 320,
+  "cat_index": 322,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1257,8 +1263,8 @@
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 1,
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 1,
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 1,
-    "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 0,
-    "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": 0,
+    "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 1,
+    "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": 1,
     "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": 0,
     "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": 0,
     "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs": 0,
@@ -2627,8 +2633,12 @@
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": [
       "🛡️ Traqué sur les Réseaux ? Devenez Invisible Dès Aujourd'hui !"
     ],
-    "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": [],
-    "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": [],
+    "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": [
+      "🔥 Snort IDS 2025: Détectez & bloquez les menaces avant l'impact."
+    ],
+    "CYBERDÉFENSE & PRÉVENTION - Sauvegarder et chiffrer ses données avec VeraCrypt": [
+      "🚨 Cyberattaques ? Sécurisez vos données avec VeraCrypt DÈS MAINTENANT !"
+    ],
     "CYBERDÉFENSE & PRÉVENTION - Sécuriser son serveur Linux": [],
     "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": [],
     "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs": [],
