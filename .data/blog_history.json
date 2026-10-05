@@ -325,7 +325,9 @@
     "9675c8d867aab7e0c1b287975a605c3ae6420582",
     "3ce90f0a8534d880ef14490864dba419fda961df",
     "d4d7ef0ba6ab6d8cc407dab241b9e1b54ec549ee",
-    "fb680813bc8c627c2ba7878844f5b54e19dc909b"
+    "fb680813bc8c627c2ba7878844f5b54e19dc909b",
+    "5bb35b97dd9ccc99d195d48053d22baebd069daa",
+    "30a986cf753748d9e7372f031087c249d37a8555"
   ],
   "days": {
     "2026-04-05": [
@@ -951,9 +953,13 @@
     "2026-10-04": [
       "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs",
       "CYBERDÉFENSE & PRÉVENTION - Détecter un logiciel espion sur PC"
+    ],
+    "2026-10-05": [
+      "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares",
+      "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier"
     ]
   },
-  "cat_index": 326,
+  "cat_index": 328,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1281,8 +1287,8 @@
     "CYBERDÉFENSE & PRÉVENTION - Configurer un pare-feu sous Windows": 1,
     "CYBERDÉFENSE & PRÉVENTION - Protéger ses comptes avec authentification à deux facteurs": 1,
     "CYBERDÉFENSE & PRÉVENTION - Détecter un logiciel espion sur PC": 1,
-    "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": 0,
-    "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier": 0,
+    "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": 1,
+    "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier": 1,
     "CYBERDÉFENSE & PRÉVENTION - Utiliser un gestionnaire de mots de passe sécurisé": 0,
     "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)": 0,
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": 0,
@@ -2663,8 +2669,12 @@
     "CYBERDÉFENSE & PRÉVENTION - Détecter un logiciel espion sur PC": [
       "🕵️ PC espionné ? Débusquez le logiciel malveillant MAINTENANT !"
     ],
-    "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": [],
-    "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier": [],
+    "CYBERDÉFENSE & PRÉVENTION - Éviter les ransomwares": [
+      "🔒 Évitez les ransomwares en 2025: LE secret que personne ne vous dit !"
+    ],
+    "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier": [
+      "🔒 Vos fichiers vous trahissent ! Nettoyez vos métadonnées MAINTENANT"
+    ],
     "CYBERDÉFENSE & PRÉVENTION - Utiliser un gestionnaire de mots de passe sécurisé": [],
     "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)": [],
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": [],
