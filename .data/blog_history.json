@@ -329,7 +329,9 @@
     "5bb35b97dd9ccc99d195d48053d22baebd069daa",
     "30a986cf753748d9e7372f031087c249d37a8555",
     "ac2d0cd4597685b6b001fa30982007127363ea59",
-    "bc689dabede3d79787d5776aebe715c72d8c389d"
+    "bc689dabede3d79787d5776aebe715c72d8c389d",
+    "ea244d09dbe513792d0bb9362f766f2ddcecf12e",
+    "797be4c8967c73b13fc9b289264e084a4ec7a023"
   ],
   "days": {
     "2026-04-05": [
@@ -963,9 +965,13 @@
     "2026-10-06": [
       "CYBERDÉFENSE & PRÉVENTION - Utiliser un gestionnaire de mots de passe sécurisé",
       "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)"
+    ],
+    "2026-10-07": [
+      "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)",
+      "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total"
     ]
   },
-  "cat_index": 330,
+  "cat_index": 332,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1297,8 +1303,8 @@
     "CYBERDÉFENSE & PRÉVENTION - Nettoyer les métadonnées d’un fichier": 1,
     "CYBERDÉFENSE & PRÉVENTION - Utiliser un gestionnaire de mots de passe sécurisé": 1,
     "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)": 1,
-    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": 0,
-    "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": 0,
+    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": 1,
+    "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": 1,
     "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": 0,
     "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": 0,
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": 0,
@@ -2687,8 +2693,12 @@
     "CYBERDÉFENSE & PRÉVENTION - Vérifier si ses données ont fuité (HaveIBeenPwned)": [
       "☠️ Fuite de données : Votre email est-il Pwned ? Découvrez-le ici !"
     ],
-    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": [],
-    "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": [],
+    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille RCE (Remote Code Execution)": [
+      "🚨Faille RCE: Maîtrisez l'exploit avancé du hacking éthique !"
+    ],
+    "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": [
+      "🔓 Hacking Éthique: Le secret de l'accès total déverrouillé !"
+    ],
     "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": [],
     "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": [],
     "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": [],
