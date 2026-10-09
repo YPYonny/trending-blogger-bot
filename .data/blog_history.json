@@ -333,7 +333,9 @@
     "ea244d09dbe513792d0bb9362f766f2ddcecf12e",
     "797be4c8967c73b13fc9b289264e084a4ec7a023",
     "a71ee09d63833e974a30b5e4f7ed158ec27ee16c",
-    "1133567fb6cea045f548415ff656c5d9a1d9e072"
+    "1133567fb6cea045f548415ff656c5d9a1d9e072",
+    "3e73d3fb6c379c0915d85268f9e6662ec33ea6a2",
+    "8cac68869e470a5fe8ca24154a161fd17703008b"
   ],
   "days": {
     "2026-04-05": [
@@ -975,9 +977,13 @@
     "2026-10-08": [
       "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu",
       "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus"
+    ],
+    "2026-10-09": [
+      "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)",
+      "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic"
     ]
   },
-  "cat_index": 334,
+  "cat_index": 336,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1313,8 +1319,8 @@
     "HACKING ÉTHIQUE AVANCÉ - Chainer plusieurs failles pour un accès total": 1,
     "HACKING ÉTHIQUE AVANCÉ - Analyse d’un malware inconnu": 1,
     "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": 1,
-    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": 0,
-    "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": 0,
+    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": 1,
+    "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": 1,
     "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": 0,
     "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": 0,
     "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": 0,
@@ -2711,8 +2717,12 @@
     "HACKING ÉTHIQUE AVANCÉ - Évasion d’un antivirus": [
       "😈 Contournez CHAQUE Antivirus: Hacking Éthique Avancé!"
     ],
-    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": [],
-    "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": [],
+    "HACKING ÉTHIQUE AVANCÉ - Exploiter une faille sur un IoT (caméra connectée)": [
+      "🚨 Pirater une caméra IoT : La faille secrète enfin révélée !"
+    ],
+    "HACKING ÉTHIQUE AVANCÉ - Utiliser Burp Suite pour intercepter du trafic": [
+      "🔥 Burp Suite : Interceptez le Trafic, Élevez Votre Hacking Éthique !"
+    ],
     "HACKING ÉTHIQUE AVANCÉ - Forger des requêtes HTTP manuelles": [],
     "HACKING ÉTHIQUE AVANCÉ - Énumération d’utilisateurs sur un site web": [],
     "HACKING ÉTHIQUE AVANCÉ - Exploitation d’une faille SSRF": [],
