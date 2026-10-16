@@ -345,7 +345,9 @@
     "ac10ea5526f2c7e4699371624547955745c4836c",
     "13bf29be4ef7882a11b1f7c27336bbf5cde91c0d",
     "7f2cb001854eb94d25b87a4a90d58bd7e4185087",
-    "dca92e2c00b4769ebc0429efaf7d1e9b3a85c686"
+    "dca92e2c00b4769ebc0429efaf7d1e9b3a85c686",
+    "2f7f8d5cc0c3b88b1df56ab057f2e8b26c5bc0dc",
+    "7c1cb9d66d9f2071597834532be17a939bec4b77"
   ],
   "days": {
     "2026-04-05": [
@@ -1011,9 +1013,13 @@
     "2026-10-15": [
       "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python",
       "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap"
+    ],
+    "2026-10-16": [
+      "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte",
+      "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp"
     ]
   },
-  "cat_index": 346,
+  "cat_index": 348,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1361,8 +1367,8 @@
     "DIVERS & AUTOMATISATION - Faire parler un bot avec IA locale": 1,
     "DIVERS & AUTOMATISATION - Créer un ransomware éducatif en Python": 1,
     "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": 1,
-    "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": 0,
-    "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": 0,
+    "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": 1,
+    "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": 1,
     "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": 0,
     "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": 0,
     "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": 0,
@@ -2783,8 +2789,12 @@
     "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": [
       "⚙️ Nmap : Le secret pour scanner des milliers d'IP facilement !"
     ],
-    "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": [],
-    "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": [],
+    "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": [
+      "🚨 Site DOWN ? Votre script d'alerte auto indispensable !"
+    ],
+    "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": [
+      "🤫 Le Secret WhatsApp: Programmez vos messages, libérez-vous !"
+    ],
     "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": [],
     "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": [],
     "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": [],
