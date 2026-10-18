@@ -347,7 +347,9 @@
     "7f2cb001854eb94d25b87a4a90d58bd7e4185087",
     "dca92e2c00b4769ebc0429efaf7d1e9b3a85c686",
     "2f7f8d5cc0c3b88b1df56ab057f2e8b26c5bc0dc",
-    "7c1cb9d66d9f2071597834532be17a939bec4b77"
+    "7c1cb9d66d9f2071597834532be17a939bec4b77",
+    "0389aa208820a0021e5edaf5497e38dafcfbba06",
+    "3f355e0011de66abe32b214cdb67931203a20475"
   ],
   "days": {
     "2026-04-05": [
@@ -1017,9 +1019,13 @@
     "2026-10-16": [
       "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte",
       "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp"
+    ],
+    "2026-10-18": [
+      "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement",
+      "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation"
     ]
   },
-  "cat_index": 348,
+  "cat_index": 350,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1369,8 +1375,8 @@
     "DIVERS & AUTOMATISATION - Automatiser le scan de plusieurs IP avec Nmap": 1,
     "DIVERS & AUTOMATISATION - Script pour détecter un site down et envoyer une alerte": 1,
     "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": 1,
-    "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": 0,
-    "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": 0,
+    "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": 1,
+    "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": 1,
     "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": 0,
     "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web": 0,
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": 0,
@@ -2795,8 +2801,12 @@
     "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": [
       "🤫 Le Secret WhatsApp: Programmez vos messages, libérez-vous !"
     ],
-    "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": [],
-    "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": [],
+    "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": [
+      "🚀 Votre bot email auto : le secret pour zéro inbox en 2025 !"
+    ],
+    "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": [
+      "💥 Votre Windows infecté sans danger ? Le secret révélé !"
+    ],
     "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": [],
     "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web": [],
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": [],
