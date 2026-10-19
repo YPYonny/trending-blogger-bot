@@ -349,7 +349,9 @@
     "2f7f8d5cc0c3b88b1df56ab057f2e8b26c5bc0dc",
     "7c1cb9d66d9f2071597834532be17a939bec4b77",
     "0389aa208820a0021e5edaf5497e38dafcfbba06",
-    "3f355e0011de66abe32b214cdb67931203a20475"
+    "3f355e0011de66abe32b214cdb67931203a20475",
+    "3a5f979d4b88989f0234ff79eba9a191733397b7",
+    "8247fccf3ae2bb83bc264fcb8db5a59b99862009"
   ],
   "days": {
     "2026-04-05": [
@@ -1023,9 +1025,13 @@
     "2026-10-18": [
       "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement",
       "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation"
+    ],
+    "2026-10-19": [
+      "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy",
+      "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne"
     ]
   },
-  "cat_index": 350,
+  "cat_index": 352,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1344,7 +1350,7 @@
     "DARK WEB & ANONYMAT - Configurer un VPN sur routeur": 1,
     "DARK WEB & ANONYMAT - Échanger des fichiers de manière chiffrée": 1,
     "DARK WEB & ANONYMAT - Utiliser PGP pour chiffrer des messages": 1,
-    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 1,
+    "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": 2,
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": 1,
     "DARK WEB & ANONYMAT - Éviter le tracking sur les réseaux sociaux": 1,
     "CYBERDÉFENSE & PRÉVENTION - Mettre en place un IDS avec Snort": 1,
@@ -1377,7 +1383,7 @@
     "DIVERS & AUTOMATISATION - Envoyer des messages programmés sur WhatsApp": 1,
     "DIVERS & AUTOMATISATION - Créer un bot qui répond aux emails automatiquement": 1,
     "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": 1,
-    "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": 0,
+    "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": 1,
     "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web": 0,
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": 0,
     "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": 0,
@@ -2709,7 +2715,8 @@
       "🔐 STOP Surveillance : Chiffrez vos messages PGP sur le Dark Web !"
     ],
     "DARK WEB & ANONYMAT - Masquer son IP avec un réseau proxy": [
-      "🤫 Le secret des pros pour masquer votre IP sur le Dark Web"
+      "🤫 Le secret des pros pour masquer votre IP sur le Dark Web",
+      "👻 Dark Web : Devenez invisible ! Cachez votre IP avec un proxy."
     ],
     "DARK WEB & ANONYMAT - Acheter en crypto de manière anonyme": [
       "🔒 Dark Web & Crypto: Le Guide ULTIME pour des achats 100% anonymes !"
@@ -2807,7 +2814,9 @@
     "DIVERS & AUTOMATISATION - Simuler un environnement Windows infecté pour formation": [
       "💥 Votre Windows infecté sans danger ? Le secret révélé !"
     ],
-    "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": [],
+    "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": [
+      "🕵️‍♂️ Votre anonymat en ligne : Mythe ou réalité ? Vérifiez !"
+    ],
     "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web": [],
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": [],
     "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": [],
