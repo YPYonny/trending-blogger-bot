@@ -353,7 +353,9 @@
     "3a5f979d4b88989f0234ff79eba9a191733397b7",
     "8247fccf3ae2bb83bc264fcb8db5a59b99862009",
     "619994b8f460ed4c9bca0921931dc921ea28dc9b",
-    "d39ea05ba148ad51394cbcc2951b4e3ef8bab657"
+    "d39ea05ba148ad51394cbcc2951b4e3ef8bab657",
+    "826b11f7cc08399ec914ac84edeaebb5375a9412",
+    "503496e1e8957c69392fde9a5b1349013a6f0475"
   ],
   "days": {
     "2026-04-05": [
@@ -1035,9 +1037,13 @@
     "2026-10-20": [
       "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web",
       "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme"
+    ],
+    "2026-10-21": [
+      "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme",
+      "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure"
     ]
   },
-  "cat_index": 354,
+  "cat_index": 356,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1392,8 +1398,8 @@
     "DARK WEB & ANONYMAT - Vérifier son anonymat en ligne": 1,
     "DARK WEB & ANONYMAT - Sécuriser sa messagerie sur le Dark Web": 1,
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": 1,
-    "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": 0,
-    "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": 0,
+    "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": 1,
+    "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": 1,
     "DARK WEB & ANONYMAT - Héberger un blog anonyme": 0,
     "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": 0,
     "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": 0,
@@ -2829,8 +2835,12 @@
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": [
       "🕵️‍♂️ Dark Web : Configurez I2P et devenez intraçable !"
     ],
-    "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": [],
-    "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": [],
+    "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": [
+      "🤫 Portefeuille Crypto Anonyme : Le Secret du Dark Web Révélé !"
+    ],
+    "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": [
+      "🌐 Internet censuré ? Accédez à TOUT avec Tor Bridge !"
+    ],
     "DARK WEB & ANONYMAT - Héberger un blog anonyme": [],
     "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": [],
     "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": [],
