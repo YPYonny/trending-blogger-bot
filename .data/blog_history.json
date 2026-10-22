@@ -355,7 +355,9 @@
     "619994b8f460ed4c9bca0921931dc921ea28dc9b",
     "d39ea05ba148ad51394cbcc2951b4e3ef8bab657",
     "826b11f7cc08399ec914ac84edeaebb5375a9412",
-    "503496e1e8957c69392fde9a5b1349013a6f0475"
+    "503496e1e8957c69392fde9a5b1349013a6f0475",
+    "ea822f09b7f07aa1fa8c27f94e5082ea9bf5e88a",
+    "d37f7b5b1661256c387eb794d841a0920ea43365"
   ],
   "days": {
     "2026-04-05": [
@@ -1041,9 +1043,13 @@
     "2026-10-21": [
       "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme",
       "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure"
+    ],
+    "2026-10-22": [
+      "DARK WEB & ANONYMAT - Héberger un blog anonyme",
+      "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet"
     ]
   },
-  "cat_index": 356,
+  "cat_index": 358,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1400,8 +1406,8 @@
     "DARK WEB & ANONYMAT - Configurer I2P pour la navigation anonyme": 1,
     "DARK WEB & ANONYMAT - Créer un portefeuille crypto anonyme": 1,
     "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": 1,
-    "DARK WEB & ANONYMAT - Héberger un blog anonyme": 0,
-    "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": 0,
+    "DARK WEB & ANONYMAT - Héberger un blog anonyme": 1,
+    "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": 1,
     "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": 0,
     "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": 0,
     "DARK WEB & ANONYMAT - Naviguer sur le Dark Web en toute sécurité": 0,
@@ -2841,8 +2847,12 @@
     "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": [
       "🌐 Internet censuré ? Accédez à TOUT avec Tor Bridge !"
     ],
-    "DARK WEB & ANONYMAT - Héberger un blog anonyme": [],
-    "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": [],
+    "DARK WEB & ANONYMAT - Héberger un blog anonyme": [
+      "🔒 Blog anonyme sur le Dark Web : Votre guide pour une liberté totale"
+    ],
+    "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": [
+      "🤯 Tor, I2P, Freenet : Vos secrets du Dark Web sont-ils en danger ?"
+    ],
     "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": [],
     "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": [],
     "DARK WEB & ANONYMAT - Naviguer sur le Dark Web en toute sécurité": [],
