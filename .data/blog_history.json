@@ -357,7 +357,9 @@
     "826b11f7cc08399ec914ac84edeaebb5375a9412",
     "503496e1e8957c69392fde9a5b1349013a6f0475",
     "ea822f09b7f07aa1fa8c27f94e5082ea9bf5e88a",
-    "d37f7b5b1661256c387eb794d841a0920ea43365"
+    "d37f7b5b1661256c387eb794d841a0920ea43365",
+    "e9578b4f5dbf00c9fece2e4ca90e25d7f24a9fdd",
+    "f174325e00931382b376066788245149adb69228"
   ],
   "days": {
     "2026-04-05": [
@@ -1047,9 +1049,13 @@
     "2026-10-22": [
       "DARK WEB & ANONYMAT - Héberger un blog anonyme",
       "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet"
+    ],
+    "2026-10-23": [
+      "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité",
+      "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme"
     ]
   },
-  "cat_index": 358,
+  "cat_index": 360,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1408,8 +1414,8 @@
     "DARK WEB & ANONYMAT - Utiliser un bridge Tor pour contourner la censure": 1,
     "DARK WEB & ANONYMAT - Héberger un blog anonyme": 1,
     "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": 1,
-    "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": 0,
-    "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": 0,
+    "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": 1,
+    "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": 1,
     "DARK WEB & ANONYMAT - Naviguer sur le Dark Web en toute sécurité": 0,
     "DARK WEB & ANONYMAT - Créer un compte anonyme sur un forum .onion": 0,
     "DARK WEB & ANONYMAT - Les marketplaces légales sur le Dark Web": 0,
@@ -2853,8 +2859,12 @@
     "DARK WEB & ANONYMAT - Différences entre Tor, I2P et Freenet": [
       "🤯 Tor, I2P, Freenet : Vos secrets du Dark Web sont-ils en danger ?"
     ],
-    "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": [],
-    "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": [],
+    "DARK WEB & ANONYMAT - Accéder à des forums cachés en toute sécurité": [
+      "🤯 Dark Web : Révélez les forums cachés en toute sécurité !"
+    ],
+    "DARK WEB & ANONYMAT - Utiliser Whonix comme système d’exploitation anonyme": [
+      "🚫 Dark Web: Protégez-vous, Whonix rend l'anonymat possible!"
+    ],
     "DARK WEB & ANONYMAT - Naviguer sur le Dark Web en toute sécurité": [],
     "DARK WEB & ANONYMAT - Créer un compte anonyme sur un forum .onion": [],
     "DARK WEB & ANONYMAT - Les marketplaces légales sur le Dark Web": [],
