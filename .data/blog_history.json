@@ -363,7 +363,9 @@
     "f05b82fb0911e08e4049b99836859e0e3a6405f7",
     "08153a91eff38f6c499db30fe80b73d896b097fc",
     "45114051bacb6c84e24b0f38788fb4aefaf63912",
-    "014f7e6ed94274a7670266175547b0c31e4f47d7"
+    "014f7e6ed94274a7670266175547b0c31e4f47d7",
+    "8cb6fe13e341b7cf64ebba65aecd3ab385e75b81",
+    "aede9a70803d3b0ad847d8e7c52e2672aae2bcf9"
   ],
   "days": {
     "2026-04-05": [
@@ -1065,9 +1067,13 @@
     "2026-10-25": [
       "DARK WEB & ANONYMAT - Les marketplaces légales sur le Dark Web",
       "DARK WEB & ANONYMAT - Sécuriser un disque externe pour Dark Web"
+    ],
+    "2026-10-26": [
+      "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web",
+      "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé"
     ]
   },
-  "cat_index": 364,
+  "cat_index": 366,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1432,8 +1438,8 @@
     "DARK WEB & ANONYMAT - Créer un compte anonyme sur un forum .onion": 1,
     "DARK WEB & ANONYMAT - Les marketplaces légales sur le Dark Web": 1,
     "DARK WEB & ANONYMAT - Sécuriser un disque externe pour Dark Web": 1,
-    "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web": 0,
-    "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": 0,
+    "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web": 1,
+    "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": 1,
     "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": 0,
     "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": 0,
     "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": 0,
@@ -2889,8 +2895,12 @@
     "DARK WEB & ANONYMAT - Sécuriser un disque externe pour Dark Web": [
       "🤯 Dark Web : Le secret pour un disque externe 100% anonyme !"
     ],
-    "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web": [],
-    "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": [],
+    "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web": [
+      "🧅 Dark Web : Révélations ! Évitez les arnaques et restez anonyme"
+    ],
+    "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": [
+      "🕵️ Tor Bloqué ? Contournez TOUTE censure avec un Bridge !"
+    ],
     "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": [],
     "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": [],
     "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": [],
