@@ -365,7 +365,9 @@
     "45114051bacb6c84e24b0f38788fb4aefaf63912",
     "014f7e6ed94274a7670266175547b0c31e4f47d7",
     "8cb6fe13e341b7cf64ebba65aecd3ab385e75b81",
-    "aede9a70803d3b0ad847d8e7c52e2672aae2bcf9"
+    "aede9a70803d3b0ad847d8e7c52e2672aae2bcf9",
+    "d9d322cd487a859c3de83f18c68ea717ec7112e0",
+    "b6d0a929621fb88d4a8611fc2d92b5bc5e3de236"
   ],
   "days": {
     "2026-04-05": [
@@ -1071,9 +1073,13 @@
     "2026-10-26": [
       "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web",
       "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé"
+    ],
+    "2026-10-27": [
+      "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés",
+      "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé"
     ]
   },
-  "cat_index": 366,
+  "cat_index": 368,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1440,8 +1446,8 @@
     "DARK WEB & ANONYMAT - Sécuriser un disque externe pour Dark Web": 1,
     "DARK WEB & ANONYMAT - Éviter les arnaques sur le Dark Web": 1,
     "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": 1,
-    "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": 0,
-    "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": 0,
+    "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": 1,
+    "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": 1,
     "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": 0,
     "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": 0,
     "SYSTÈMES D’EXPLOITATION - Installer Linux Ubuntu pas à pas": 0,
@@ -2901,8 +2907,12 @@
     "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": [
       "🕵️ Tor Bloqué ? Contournez TOUTE censure avec un Bridge !"
     ],
-    "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": [],
-    "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": [],
+    "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": [
+      "🕵️‍♂️ Dark Web : Vos cookies cachés espionnent ? Révélé !"
+    ],
+    "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": [
+      "🛡️ Dark Web : La VM, votre bouclier d'anonymat ULTIME !"
+    ],
     "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": [],
     "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": [],
     "SYSTÈMES D’EXPLOITATION - Installer Linux Ubuntu pas à pas": [],
