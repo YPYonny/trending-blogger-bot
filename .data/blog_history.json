@@ -367,7 +367,9 @@
     "8cb6fe13e341b7cf64ebba65aecd3ab385e75b81",
     "aede9a70803d3b0ad847d8e7c52e2672aae2bcf9",
     "d9d322cd487a859c3de83f18c68ea717ec7112e0",
-    "b6d0a929621fb88d4a8611fc2d92b5bc5e3de236"
+    "b6d0a929621fb88d4a8611fc2d92b5bc5e3de236",
+    "0138663b77ac7bb1b1082435c8393447b8a5098c",
+    "43803080e5d0a0d6323837f07fc5cc2a8084c64a"
   ],
   "days": {
     "2026-04-05": [
@@ -1077,9 +1079,13 @@
     "2026-10-27": [
       "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés",
       "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé"
+    ],
+    "2026-10-28": [
+      "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité",
+      "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées"
     ]
   },
-  "cat_index": 368,
+  "cat_index": 370,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1448,8 +1454,8 @@
     "DARK WEB & ANONYMAT - Installer un bridge Tor pour contournement avancé": 1,
     "DARK WEB & ANONYMAT - Comprendre les cookies et trackers cachés": 1,
     "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": 1,
-    "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": 0,
-    "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": 0,
+    "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": 1,
+    "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": 1,
     "SYSTÈMES D’EXPLOITATION - Installer Linux Ubuntu pas à pas": 0,
     "SYSTÈMES D’EXPLOITATION - Créer une clé USB bootable": 0,
     "SYSTÈMES D’EXPLOITATION - Partitionner un disque dur": 0,
@@ -2913,8 +2919,12 @@
     "DARK WEB & ANONYMAT - Utiliser des VM pour surf anonymisé": [
       "🛡️ Dark Web : La VM, votre bouclier d'anonymat ULTIME !"
     ],
-    "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": [],
-    "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": [],
+    "DARK WEB & ANONYMAT - Sauvegarder les clés PGP en sécurité": [
+      "🔑 Clés PGP & Dark Web : Le secret pour les protéger ENFIN !"
+    ],
+    "DARK WEB & ANONYMAT - Éviter les fuites de métadonnées": [
+      "🔒 Dark Web: Fuites de métadonnées ? Le guide pour rester invisible."
+    ],
     "SYSTÈMES D’EXPLOITATION - Installer Linux Ubuntu pas à pas": [],
     "SYSTÈMES D’EXPLOITATION - Créer une clé USB bootable": [],
     "SYSTÈMES D’EXPLOITATION - Partitionner un disque dur": [],
