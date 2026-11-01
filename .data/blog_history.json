@@ -375,7 +375,9 @@
     "c15433200a50dd21d85d49077b4cb7c1b7d088b3",
     "02a64a309a06557fb964b60f65d26a341ddd04ae",
     "88187f3e3abedf3ab99561d2909ea6ece8135351",
-    "54aa8f4e6b8572c187621365303770d023c22073"
+    "54aa8f4e6b8572c187621365303770d023c22073",
+    "6129834e901d6d5ba5181d2efd8800e14c247bee",
+    "66974521f59052a142b0652ccd968e6dc6b141ba"
   ],
   "days": {
     "2026-04-05": [
@@ -1101,9 +1103,13 @@
     "2026-10-31": [
       "SYSTÈMES D’EXPLOITATION - Découvrir les commandes Linux de base",
       "SYSTÈMES D’EXPLOITATION - Gérer les utilisateurs sous Linux"
+    ],
+    "2026-11-01": [
+      "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité",
+      "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux"
     ]
   },
-  "cat_index": 376,
+  "cat_index": 378,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1480,8 +1486,8 @@
     "SYSTÈMES D’EXPLOITATION - Installer Windows 11": 1,
     "SYSTÈMES D’EXPLOITATION - Découvrir les commandes Linux de base": 1,
     "SYSTÈMES D’EXPLOITATION - Gérer les utilisateurs sous Linux": 1,
-    "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité": 0,
-    "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": 0,
+    "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité": 1,
+    "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": 1,
     "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": 0,
     "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": 0,
     "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": 0,
@@ -2961,8 +2967,12 @@
     "SYSTÈMES D’EXPLOITATION - Gérer les utilisateurs sous Linux": [
       "🐧 Linux: Gérez VOS utilisateurs ENFIN sans prise de tête !"
     ],
-    "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité": [],
-    "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": [],
+    "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité": [
+      "⚠️ Mise à jour OS : Ne faites PLUS CETTE ERREUR ! Sécurité 2025"
+    ],
+    "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": [
+      "🤯 Vos 2 OS préférés sur 1 PC! Windows/Linux Dual Boot ULTIME."
+    ],
     "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": [],
     "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": [],
     "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": [],
