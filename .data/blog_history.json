@@ -377,7 +377,9 @@
     "88187f3e3abedf3ab99561d2909ea6ece8135351",
     "54aa8f4e6b8572c187621365303770d023c22073",
     "6129834e901d6d5ba5181d2efd8800e14c247bee",
-    "66974521f59052a142b0652ccd968e6dc6b141ba"
+    "66974521f59052a142b0652ccd968e6dc6b141ba",
+    "2a985cddc2f63038e2ed25bffcdb7f13483e5489",
+    "417d19295011a97971be72c07b722536695d318c"
   ],
   "days": {
     "2026-04-05": [
@@ -1107,9 +1109,13 @@
     "2026-11-01": [
       "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité",
       "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux"
+    ],
+    "2026-11-02": [
+      "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla",
+      "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox"
     ]
   },
-  "cat_index": 378,
+  "cat_index": 380,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1488,8 +1494,8 @@
     "SYSTÈMES D’EXPLOITATION - Gérer les utilisateurs sous Linux": 1,
     "SYSTÈMES D’EXPLOITATION - Mettre à jour son OS en toute sécurité": 1,
     "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": 1,
-    "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": 0,
-    "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": 0,
+    "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": 1,
+    "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": 1,
     "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": 0,
     "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": 0,
     "SYSTÈMES D’EXPLOITATION - Optimiser Windows 11 pour gaming": 0,
@@ -2973,8 +2979,12 @@
     "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": [
       "🤯 Vos 2 OS préférés sur 1 PC! Windows/Linux Dual Boot ULTIME."
     ],
-    "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": [],
-    "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": [],
+    "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": [
+      "🚀 Système KO? Clonezilla, votre bouclier anti-perte de données!"
+    ],
+    "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": [
+      "✨ Maîtrisez VirtualBox: Votre VM en 5 min chrono !"
+    ],
     "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": [],
     "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": [],
     "SYSTÈMES D’EXPLOITATION - Optimiser Windows 11 pour gaming": [],
