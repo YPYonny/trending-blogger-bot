@@ -379,7 +379,9 @@
     "6129834e901d6d5ba5181d2efd8800e14c247bee",
     "66974521f59052a142b0652ccd968e6dc6b141ba",
     "2a985cddc2f63038e2ed25bffcdb7f13483e5489",
-    "417d19295011a97971be72c07b722536695d318c"
+    "417d19295011a97971be72c07b722536695d318c",
+    "aa2abfcef815a55ce609408d972da735d6ee8e6f",
+    "ca87cec34cae11df82a9d2abfcf9ffd0538756b7"
   ],
   "days": {
     "2026-04-05": [
@@ -1113,9 +1115,13 @@
     "2026-11-02": [
       "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla",
       "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox"
+    ],
+    "2026-11-03": [
+      "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux",
+      "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux"
     ]
   },
-  "cat_index": 380,
+  "cat_index": 382,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1496,8 +1502,8 @@
     "SYSTÈMES D’EXPLOITATION - Installer un dual boot Windows/Linux": 1,
     "SYSTÈMES D’EXPLOITATION - Sauvegarder son système avec Clonezilla": 1,
     "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": 1,
-    "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": 0,
-    "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": 0,
+    "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": 1,
+    "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": 1,
     "SYSTÈMES D’EXPLOITATION - Optimiser Windows 11 pour gaming": 0,
     "SYSTÈMES D’EXPLOITATION - Configurer SSH pour administration distante": 0,
     "SYSTÈMES D’EXPLOITATION - Utiliser rsync pour sauvegarde automatique": 0,
@@ -2985,8 +2991,12 @@
     "SYSTÈMES D’EXPLOITATION - Utiliser une machine virtuelle avec VirtualBox": [
       "✨ Maîtrisez VirtualBox: Votre VM en 5 min chrono !"
     ],
-    "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": [],
-    "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": [],
+    "SYSTÈMES D’EXPLOITATION - Configurer un firewall Linux": [
+      "🛡️ Protégez votre Linux: Configurez votre Firewall comme un PRO !"
+    ],
+    "SYSTÈMES D’EXPLOITATION - Installer des drivers sous Linux": [
+      "🤯 Installer vos drivers sous Linux: Le guide que personne ne vous donne !"
+    ],
     "SYSTÈMES D’EXPLOITATION - Optimiser Windows 11 pour gaming": [],
     "SYSTÈMES D’EXPLOITATION - Configurer SSH pour administration distante": [],
     "SYSTÈMES D’EXPLOITATION - Utiliser rsync pour sauvegarde automatique": [],
