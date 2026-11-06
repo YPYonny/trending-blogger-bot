@@ -385,7 +385,9 @@
     "c741af35607b469adab4e96a52037821d839aec0",
     "c7ca7fb3862b8d8afe7e87fc40b65e1e5db96f90",
     "ffa51dc0926271b938dfa8b80208216364dca685",
-    "c55f40114f5b2054e347b09d786ff4ce713489e1"
+    "c55f40114f5b2054e347b09d786ff4ce713489e1",
+    "287f7603afd923251dec8fda7456f8d97d65aaaf",
+    "4f9a05e6471d095b9e8b5cf58dfb01c16e30f93a"
   ],
   "days": {
     "2026-04-05": [
@@ -1131,9 +1133,13 @@
     "2026-11-05": [
       "SYSTÈMES D’EXPLOITATION - Utiliser rsync pour sauvegarde automatique",
       "SYSTÈMES D’EXPLOITATION - Gérer les paquets avec apt et yum"
+    ],
+    "2026-11-06": [
+      "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web",
+      "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés"
     ]
   },
-  "cat_index": 386,
+  "cat_index": 388,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1520,8 +1526,8 @@
     "SYSTÈMES D’EXPLOITATION - Configurer SSH pour administration distante": 1,
     "SYSTÈMES D’EXPLOITATION - Utiliser rsync pour sauvegarde automatique": 1,
     "SYSTÈMES D’EXPLOITATION - Gérer les paquets avec apt et yum": 1,
-    "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web": 0,
-    "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": 0,
+    "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web": 1,
+    "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": 1,
     "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": 0,
     "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": 0,
     "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": 0,
@@ -3021,8 +3027,12 @@
     "SYSTÈMES D’EXPLOITATION - Gérer les paquets avec apt et yum": [
       "🔓 Débloquez la puissance d'APT & YUM: Gérez vos paquets comme jamais !"
     ],
-    "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web": [],
-    "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": [],
+    "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web": [
+      "🔒 Serveur web : Les failles cachées et comment les blinder illico !"
+    ],
+    "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": [
+      "🔥 Scripts Bash: Le Secret des Pros pour Tout Automatiser!"
+    ],
     "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": [],
     "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": [],
     "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": [],
