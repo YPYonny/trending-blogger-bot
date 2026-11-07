@@ -387,7 +387,9 @@
     "ffa51dc0926271b938dfa8b80208216364dca685",
     "c55f40114f5b2054e347b09d786ff4ce713489e1",
     "287f7603afd923251dec8fda7456f8d97d65aaaf",
-    "4f9a05e6471d095b9e8b5cf58dfb01c16e30f93a"
+    "4f9a05e6471d095b9e8b5cf58dfb01c16e30f93a",
+    "76fdd5ab4a57a46c1f8f3860c4aa37dc8b5fb249",
+    "a740f7e78500c914c6b3e403dcf05d5a3ade54f2"
   ],
   "days": {
     "2026-04-05": [
@@ -1137,9 +1139,13 @@
     "2026-11-06": [
       "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web",
       "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés"
+    ],
+    "2026-11-07": [
+      "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées",
+      "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux"
     ]
   },
-  "cat_index": 388,
+  "cat_index": 390,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1528,8 +1534,8 @@
     "SYSTÈMES D’EXPLOITATION - Gérer les paquets avec apt et yum": 1,
     "SYSTÈMES D’EXPLOITATION - Sécuriser un serveur web": 1,
     "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": 1,
-    "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": 0,
-    "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": 0,
+    "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": 1,
+    "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": 1,
     "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": 0,
     "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": 0,
     "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte": 0,
@@ -3033,8 +3039,12 @@
     "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": [
       "🔥 Scripts Bash: Le Secret des Pros pour Tout Automatiser!"
     ],
-    "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": [],
-    "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": [],
+    "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": [
+      "⚙️ Cron: L'outil ultime pour des tâches planifiées parfaites !"
+    ],
+    "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": [
+      "🚀 Linux refuse de démarrer ? Débloquez-le FACILEMENT !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": [],
     "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": [],
     "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte": [],
