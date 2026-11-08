@@ -389,7 +389,9 @@
     "287f7603afd923251dec8fda7456f8d97d65aaaf",
     "4f9a05e6471d095b9e8b5cf58dfb01c16e30f93a",
     "76fdd5ab4a57a46c1f8f3860c4aa37dc8b5fb249",
-    "a740f7e78500c914c6b3e403dcf05d5a3ade54f2"
+    "a740f7e78500c914c6b3e403dcf05d5a3ade54f2",
+    "f116849b8fb9c238242c8b858eece1952d185205",
+    "acd492f0b3bd3f0e3d2ccdc7af07e882a60be9af"
   ],
   "days": {
     "2026-04-05": [
@@ -1143,9 +1145,13 @@
     "2026-11-07": [
       "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées",
       "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux"
+    ],
+    "2026-11-08": [
+      "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning",
+      "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python"
     ]
   },
-  "cat_index": 390,
+  "cat_index": 392,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1536,8 +1542,8 @@
     "SYSTÈMES D’EXPLOITATION - Créer des scripts bash automatisés": 1,
     "SYSTÈMES D’EXPLOITATION - Utiliser cron pour tâches planifiées": 1,
     "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": 1,
-    "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": 0,
-    "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": 0,
+    "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": 1,
+    "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": 1,
     "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte": 0,
     "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur": 0,
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": 0,
@@ -3045,8 +3051,12 @@
     "SYSTÈMES D’EXPLOITATION - Résoudre les problèmes de démarrage Linux": [
       "🚀 Linux refuse de démarrer ? Débloquez-le FACILEMENT !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": [],
-    "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": [],
+    "INTELLIGENCE ARTIFICIELLE - Comprendre le fonctionnement du Machine Learning": [
+      "🚀 Machine Learning : Comment l'IA Apprend Vraiment ?"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": [
+      "🤖 Créez votre chatbot IA Python : le secret des pros révélé !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte": [],
     "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur": [],
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": [],
