@@ -393,7 +393,9 @@
     "f116849b8fb9c238242c8b858eece1952d185205",
     "acd492f0b3bd3f0e3d2ccdc7af07e882a60be9af",
     "1b0487032aee408241f29f1caf71ccc6c43482bc",
-    "2e63975259191dc46e38cf4a3dd65f386c416f07"
+    "2e63975259191dc46e38cf4a3dd65f386c416f07",
+    "b7ae60eee2b9e56b69201dae01306322b003ec48",
+    "a3eb99882238f4be0791e1d92459caa32ce7c042"
   ],
   "days": {
     "2026-04-05": [
@@ -1155,9 +1157,13 @@
     "2026-11-09": [
       "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte",
       "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur"
+    ],
+    "2026-11-10": [
+      "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images",
+      "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA"
     ]
   },
-  "cat_index": 394,
+  "cat_index": 396,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1552,8 +1558,8 @@
     "INTELLIGENCE ARTIFICIELLE - Créer un chatbot avec Python": 1,
     "INTELLIGENCE ARTIFICIELLE - Utiliser une API d’IA pour générer du texte": 1,
     "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur": 1,
-    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": 0,
-    "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": 0,
+    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": 1,
+    "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": 1,
     "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": 0,
     "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": 0,
     "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte": 0,
@@ -3069,8 +3075,12 @@
     "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur": [
       "👁️ Vision par Ordinateur : L'IA qui voit tout, découvrez comment !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": [],
-    "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": [],
+    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": [
+      "💡 Le secret pour maîtriser l'IA de reconnaissance d'images !"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": [
+      "🤯 IA 2025 : Automatisez vos tâches et libérez votre temps !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": [],
     "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": [],
     "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte": [],
