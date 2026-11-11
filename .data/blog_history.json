@@ -395,7 +395,9 @@
     "1b0487032aee408241f29f1caf71ccc6c43482bc",
     "2e63975259191dc46e38cf4a3dd65f386c416f07",
     "b7ae60eee2b9e56b69201dae01306322b003ec48",
-    "a3eb99882238f4be0791e1d92459caa32ce7c042"
+    "a3eb99882238f4be0791e1d92459caa32ce7c042",
+    "4f53462ff9e8dbc226af56079723ecc978ce4aa0",
+    "c859750480a11b132b62e3c648ed11fe3e03163f"
   ],
   "days": {
     "2026-04-05": [
@@ -1161,9 +1163,13 @@
     "2026-11-10": [
       "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images",
       "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA"
+    ],
+    "2026-11-11": [
+      "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning",
+      "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA"
     ]
   },
-  "cat_index": 396,
+  "cat_index": 398,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1560,8 +1566,8 @@
     "INTELLIGENCE ARTIFICIELLE - Découvrir la vision par ordinateur": 1,
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de reconnaissance d’images": 1,
     "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": 1,
-    "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": 0,
-    "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": 0,
+    "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": 1,
+    "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": 1,
     "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte": 0,
     "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle": 0,
     "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": 0,
@@ -3081,8 +3087,12 @@
     "INTELLIGENCE ARTIFICIELLE - Automatiser des tâches avec l’IA": [
       "🤯 IA 2025 : Automatisez vos tâches et libérez votre temps !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": [],
-    "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": [],
+    "INTELLIGENCE ARTIFICIELLE - Comprendre le deep learning": [
+      "🧠 Deep Learning: Le secret de l'IA enfin révélé !"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": [
+      "🎨 Images IA : On a testé le générateur qui va vous surprendre !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte": [],
     "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle": [],
     "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": [],
