@@ -399,7 +399,9 @@
     "4f53462ff9e8dbc226af56079723ecc978ce4aa0",
     "c859750480a11b132b62e3c648ed11fe3e03163f",
     "1605b0bb4b0fe1d31adc52667b0e5c234d6b64a3",
-    "8b647b9619abeda572001289ee26b8ad25dba8be"
+    "8b647b9619abeda572001289ee26b8ad25dba8be",
+    "c55b028f98c4e3dd284ad29fe24a3436f2fa7f4c",
+    "5a0f33c86beaca8cb52ade6f9dfd30ffee40329d"
   ],
   "days": {
     "2026-04-05": [
@@ -1173,9 +1175,13 @@
     "2026-11-12": [
       "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte",
       "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle"
+    ],
+    "2026-11-13": [
+      "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT",
+      "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo"
     ]
   },
-  "cat_index": 400,
+  "cat_index": 402,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1576,8 +1582,8 @@
     "INTELLIGENCE ARTIFICIELLE - Tester un générateur d’images IA": 1,
     "INTELLIGENCE ARTIFICIELLE - Utiliser GPT pour rédiger un texte": 1,
     "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle": 1,
-    "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": 0,
-    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": 0,
+    "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": 1,
+    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": 1,
     "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": 0,
     "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": 0,
     "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": 0,
@@ -3105,8 +3111,12 @@
     "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle": [
       "🤖 Le côté obscur de l'IA : Risques & limites inattendues"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": [],
-    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": [],
+    "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": [
+      "🚀 GPT sur Mesure : Maîtrisez le Fine-Tuning pour une IA Unique !"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": [
+      "⚡️ IA Météo : Maîtrisez la prédiction et anticipez le futur !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": [],
     "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": [],
     "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": [],
