@@ -401,7 +401,9 @@
     "1605b0bb4b0fe1d31adc52667b0e5c234d6b64a3",
     "8b647b9619abeda572001289ee26b8ad25dba8be",
     "c55b028f98c4e3dd284ad29fe24a3436f2fa7f4c",
-    "5a0f33c86beaca8cb52ade6f9dfd30ffee40329d"
+    "5a0f33c86beaca8cb52ade6f9dfd30ffee40329d",
+    "f38974750941d7cbc966550eec098532c0b6cdaa",
+    "3a7b2c304b632368f8716b41f74c251ed498d15a"
   ],
   "days": {
     "2026-04-05": [
@@ -1179,9 +1181,13 @@
     "2026-11-13": [
       "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT",
       "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo"
+    ],
+    "2026-11-14": [
+      "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA",
+      "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable"
     ]
   },
-  "cat_index": 402,
+  "cat_index": 404,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1584,8 +1590,8 @@
     "INTELLIGENCE ARTIFICIELLE - Les limites et risques de l’intelligence artificielle": 1,
     "INTELLIGENCE ARTIFICIELLE - Fine-tuning d’un modèle GPT": 1,
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": 1,
-    "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": 0,
-    "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": 0,
+    "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": 1,
+    "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": 1,
     "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": 0,
     "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": 0,
     "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": 0,
@@ -3117,8 +3123,12 @@
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": [
       "⚡️ IA Météo : Maîtrisez la prédiction et anticipez le futur !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": [],
-    "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": [],
+    "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": [
+      "🚀 L'IA Révèle Vos Images Médicales: Diagnostic de Demain, Aujourd'hui."
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": [
+      "🤯 Secret IA : Générez des images époustouflantes avec Stable Diffusion"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": [],
     "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": [],
     "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": [],
