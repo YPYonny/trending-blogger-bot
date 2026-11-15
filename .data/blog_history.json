@@ -403,7 +403,9 @@
     "c55b028f98c4e3dd284ad29fe24a3436f2fa7f4c",
     "5a0f33c86beaca8cb52ade6f9dfd30ffee40329d",
     "f38974750941d7cbc966550eec098532c0b6cdaa",
-    "3a7b2c304b632368f8716b41f74c251ed498d15a"
+    "3a7b2c304b632368f8716b41f74c251ed498d15a",
+    "99f7c09b6c8219b7577854c7061cf7d4cf24edf2",
+    "d2d9c611c71f0dd85cd9edab2dbd4884a52dd281"
   ],
   "days": {
     "2026-04-05": [
@@ -1185,9 +1187,13 @@
     "2026-11-14": [
       "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA",
       "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable"
+    ],
+    "2026-11-15": [
+      "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo",
+      "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux"
     ]
   },
-  "cat_index": 404,
+  "cat_index": 406,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1592,8 +1598,8 @@
     "INTELLIGENCE ARTIFICIELLE - Créer un modèle de prédiction météo": 1,
     "INTELLIGENCE ARTIFICIELLE - Analyse d’image médicale avec IA": 1,
     "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": 1,
-    "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": 0,
-    "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": 0,
+    "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": 1,
+    "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": 1,
     "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": 0,
     "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": 0,
     "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": 0,
@@ -3129,8 +3135,12 @@
     "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": [
       "🤯 Secret IA : Générez des images époustouflantes avec Stable Diffusion"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": [],
-    "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": [],
+    "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": [
+      "✨ IA Vidéo: Comment détecter chaque objet, instantanément !"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": [
+      "🚀 IA : La traduction neuronale enfin parfaite ? Découvrez !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": [],
     "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": [],
     "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": [],
