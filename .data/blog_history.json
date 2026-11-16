@@ -405,7 +405,9 @@
     "f38974750941d7cbc966550eec098532c0b6cdaa",
     "3a7b2c304b632368f8716b41f74c251ed498d15a",
     "99f7c09b6c8219b7577854c7061cf7d4cf24edf2",
-    "d2d9c611c71f0dd85cd9edab2dbd4884a52dd281"
+    "d2d9c611c71f0dd85cd9edab2dbd4884a52dd281",
+    "2bad5595361fcc3f9b49b7c21dad07650a867f29",
+    "00bcaada315757fb4a0644815302988e75101d39"
   ],
   "days": {
     "2026-04-05": [
@@ -1191,9 +1193,13 @@
     "2026-11-15": [
       "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo",
       "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux"
+    ],
+    "2026-11-16": [
+      "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière",
+      "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT"
     ]
   },
-  "cat_index": 406,
+  "cat_index": 408,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1600,8 +1606,8 @@
     "INTELLIGENCE ARTIFICIELLE - Générer des images avec diffusion stable": 1,
     "INTELLIGENCE ARTIFICIELLE - Détection d’objets en vidéo": 1,
     "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": 1,
-    "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": 0,
-    "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": 0,
+    "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": 1,
+    "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": 1,
     "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": 0,
     "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": 0,
     "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain": 0,
@@ -3141,8 +3147,12 @@
     "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": [
       "🚀 IA : La traduction neuronale enfin parfaite ? Découvrez !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": [],
-    "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": [],
+    "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": [
+      "🚨 Fraude Financière? L'IA Dévoile Comment Vous Protéger!"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": [
+      "🧠 IA: Le secret de BERT pour classifier vos textes révélé !"
+    ],
     "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": [],
     "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": [],
     "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain": [],
