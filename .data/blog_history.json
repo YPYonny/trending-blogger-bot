@@ -407,7 +407,9 @@
     "99f7c09b6c8219b7577854c7061cf7d4cf24edf2",
     "d2d9c611c71f0dd85cd9edab2dbd4884a52dd281",
     "2bad5595361fcc3f9b49b7c21dad07650a867f29",
-    "00bcaada315757fb4a0644815302988e75101d39"
+    "00bcaada315757fb4a0644815302988e75101d39",
+    "a53b10403b048b379f4ac7ab94e5737512c17295",
+    "4e2bd4e34cce6ffcec05de2acd9eee73fe2f3ec0"
   ],
   "days": {
     "2026-04-05": [
@@ -1197,9 +1199,13 @@
     "2026-11-16": [
       "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière",
       "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT"
+    ],
+    "2026-11-17": [
+      "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes",
+      "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes"
     ]
   },
-  "cat_index": 408,
+  "cat_index": 410,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1608,8 +1614,8 @@
     "INTELLIGENCE ARTIFICIELLE - Traduction automatique avec réseaux neuronaux": 1,
     "INTELLIGENCE ARTIFICIELLE - Détection de fraude financière": 1,
     "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": 1,
-    "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": 0,
-    "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": 0,
+    "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": 1,
+    "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain": 0,
     "BLOCKCHAIN ET CRYPTO - Créer un portefeuille Bitcoin": 0,
     "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": 0,
@@ -3153,8 +3159,12 @@
     "INTELLIGENCE ARTIFICIELLE - Classification de texte avec BERT": [
       "🧠 IA: Le secret de BERT pour classifier vos textes révélé !"
     ],
-    "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": [],
-    "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": [],
+    "INTELLIGENCE ARTIFICIELLE - Création d’avatars IA réalistes": [
+      "🤯 Créez votre avatar IA photo-réaliste: Le secret des pros révélé!"
+    ],
+    "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": [
+      "🚀 IA prédictive: La méthode secrète pour des ventes infaillibles."
+    ],
     "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain": [],
     "BLOCKCHAIN ET CRYPTO - Créer un portefeuille Bitcoin": [],
     "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": [],
