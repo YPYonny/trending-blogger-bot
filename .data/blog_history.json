@@ -411,7 +411,9 @@
     "a53b10403b048b379f4ac7ab94e5737512c17295",
     "4e2bd4e34cce6ffcec05de2acd9eee73fe2f3ec0",
     "f350de71fe7b3a51c102e2bbb2397282a293254f",
-    "483831750f1afc8691dc5a650272d6209b2dad1a"
+    "483831750f1afc8691dc5a650272d6209b2dad1a",
+    "19bfed33610df17ff706facaacf6d68d4006b0ef",
+    "05d779ac871010d076c0ace126e68a168f9ef3f8"
   ],
   "days": {
     "2026-04-05": [
@@ -1209,9 +1211,13 @@
     "2026-11-18": [
       "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain",
       "BLOCKCHAIN ET CRYPTO - Créer un portefeuille Bitcoin"
+    ],
+    "2026-11-19": [
+      "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies",
+      "BLOCKCHAIN ET CRYPTO - Comprendre les NFT"
     ]
   },
-  "cat_index": 412,
+  "cat_index": 414,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1624,8 +1630,8 @@
     "INTELLIGENCE ARTIFICIELLE - Analyse prédictive des ventes": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre la technologie blockchain": 1,
     "BLOCKCHAIN ET CRYPTO - Créer un portefeuille Bitcoin": 1,
-    "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": 0,
-    "BLOCKCHAIN ET CRYPTO - Comprendre les NFT": 0,
+    "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": 1,
+    "BLOCKCHAIN ET CRYPTO - Comprendre les NFT": 1,
     "BLOCKCHAIN ET CRYPTO - Acheter des cryptos en toute sécurité": 0,
     "BLOCKCHAIN ET CRYPTO - Utiliser Metamask pour interagir avec la blockchain": 0,
     "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": 0,
@@ -3177,8 +3183,12 @@
     "BLOCKCHAIN ET CRYPTO - Créer un portefeuille Bitcoin": [
       "🚀 Bitcoin: Créez votre portefeuille en 3 étapes (même si 0 expert)!"
     ],
-    "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": [],
-    "BLOCKCHAIN ET CRYPTO - Comprendre les NFT": [],
+    "BLOCKCHAIN ET CRYPTO - Envoyer et recevoir des cryptomonnaies": [
+      "🚀 Crypto: Maîtrisez l'Envoi & Réception Sécurisé !"
+    ],
+    "BLOCKCHAIN ET CRYPTO - Comprendre les NFT": [
+      "🤯 NFT: Comprenez les VRAIS enjeux de la révolution numérique !"
+    ],
     "BLOCKCHAIN ET CRYPTO - Acheter des cryptos en toute sécurité": [],
     "BLOCKCHAIN ET CRYPTO - Utiliser Metamask pour interagir avec la blockchain": [],
     "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": [],
