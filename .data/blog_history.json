@@ -415,7 +415,9 @@
     "19bfed33610df17ff706facaacf6d68d4006b0ef",
     "05d779ac871010d076c0ace126e68a168f9ef3f8",
     "31ae834e1f0c8c70983be9c928c398c68bbc2f85",
-    "a8e55d2b11db2466bb451166e06828786d3b7bf5"
+    "a8e55d2b11db2466bb451166e06828786d3b7bf5",
+    "cb4b510522f400e224e984730dc0169b79f17c16",
+    "4a3e5a0da295e13ff81cc72377c55aca9b0c1755"
   ],
   "days": {
     "2026-04-05": [
@@ -1221,9 +1223,13 @@
     "2026-11-20": [
       "BLOCKCHAIN ET CRYPTO - Acheter des cryptos en toute sécurité",
       "BLOCKCHAIN ET CRYPTO - Utiliser Metamask pour interagir avec la blockchain"
+    ],
+    "2026-11-21": [
+      "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies",
+      "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents"
     ]
   },
-  "cat_index": 416,
+  "cat_index": 418,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1640,8 +1646,8 @@
     "BLOCKCHAIN ET CRYPTO - Comprendre les NFT": 1,
     "BLOCKCHAIN ET CRYPTO - Acheter des cryptos en toute sécurité": 1,
     "BLOCKCHAIN ET CRYPTO - Utiliser Metamask pour interagir avec la blockchain": 1,
-    "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": 0,
-    "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents": 0,
+    "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": 1,
+    "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre les stablecoins": 0,
     "BLOCKCHAIN ET CRYPTO - Les risques liés aux cryptomonnaies": 0,
     "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": 0,
@@ -3201,8 +3207,12 @@
     "BLOCKCHAIN ET CRYPTO - Utiliser Metamask pour interagir avec la blockchain": [
       "🚀 Metamask Facile : Maîtrisez la Blockchain en 5 Min !"
     ],
-    "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": [],
-    "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents": [],
+    "BLOCKCHAIN ET CRYPTO - Comprendre le minage de cryptomonnaies": [
+      "⛏️ Minage de crypto: La vérité choc sur comment ça marche !"
+    ],
+    "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents": [
+      "🔥 Contrats Intelligents: Pourquoi ils vont CHANGER VOTRE VIE crypto !"
+    ],
     "BLOCKCHAIN ET CRYPTO - Comprendre les stablecoins": [],
     "BLOCKCHAIN ET CRYPTO - Les risques liés aux cryptomonnaies": [],
     "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": [],
