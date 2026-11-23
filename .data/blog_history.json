@@ -419,7 +419,9 @@
     "cb4b510522f400e224e984730dc0169b79f17c16",
     "4a3e5a0da295e13ff81cc72377c55aca9b0c1755",
     "718c2a9302be29bf151a2f93f0c19460a9683b93",
-    "6c8708dd2f8070d3f2d889201b6f7a417e6cb447"
+    "6c8708dd2f8070d3f2d889201b6f7a417e6cb447",
+    "beb10443c826d4c5b54994596d77e5493d751c8a",
+    "2bdf589deb0594033d5eaeae34e01a1279f4e054"
   ],
   "days": {
     "2026-04-05": [
@@ -1233,9 +1235,13 @@
     "2026-11-22": [
       "BLOCKCHAIN ET CRYPTO - Comprendre les stablecoins",
       "BLOCKCHAIN ET CRYPTO - Les risques liés aux cryptomonnaies"
+    ],
+    "2026-11-23": [
+      "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks",
+      "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig"
     ]
   },
-  "cat_index": 420,
+  "cat_index": 422,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1656,8 +1662,8 @@
     "BLOCKCHAIN ET CRYPTO - Découvrir les contrats intelligents": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre les stablecoins": 1,
     "BLOCKCHAIN ET CRYPTO - Les risques liés aux cryptomonnaies": 1,
-    "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": 0,
-    "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig": 0,
+    "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": 1,
+    "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig": 1,
     "BLOCKCHAIN ET CRYPTO - Sécuriser ses transactions crypto": 0,
     "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi": 0,
     "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": 0,
@@ -3225,8 +3231,12 @@
     "BLOCKCHAIN ET CRYPTO - Les risques liés aux cryptomonnaies": [
       "🚨 Crypto : Ne perdez pas tout ! Les dangers cachés révélés !"
     ],
-    "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": [],
-    "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig": [],
+    "BLOCKCHAIN ET CRYPTO - Comprendre les forks et hard forks": [
+      "💥 Blockchain: Les Forks Vont-ils DÉTRUIRE ou Booster Votre Crypto ?"
+    ],
+    "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig": [
+      "🛡️ Multisig : L'armure ultime pour protéger vos cryptos !"
+    ],
     "BLOCKCHAIN ET CRYPTO - Sécuriser ses transactions crypto": [],
     "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi": [],
     "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": [],
