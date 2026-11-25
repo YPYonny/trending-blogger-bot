@@ -423,7 +423,9 @@
     "beb10443c826d4c5b54994596d77e5493d751c8a",
     "2bdf589deb0594033d5eaeae34e01a1279f4e054",
     "37347e06c36f8ee1599de64fd25e1a8bd6f570d5",
-    "248ddf97bd4f928a38534c2ad1b7532c51130d88"
+    "248ddf97bd4f928a38534c2ad1b7532c51130d88",
+    "57072184f06ee9ab27ed770f52748f9e4b18e4be",
+    "8e563949c93a442def219a5d354e1f68c2cbe724"
   ],
   "days": {
     "2026-04-05": [
@@ -1245,9 +1247,13 @@
     "2026-11-24": [
       "BLOCKCHAIN ET CRYPTO - Sécuriser ses transactions crypto",
       "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi"
+    ],
+    "2026-11-25": [
+      "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum",
+      "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2"
     ]
   },
-  "cat_index": 424,
+  "cat_index": 426,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1672,8 +1678,8 @@
     "BLOCKCHAIN ET CRYPTO - Créer un portefeuille multisig": 1,
     "BLOCKCHAIN ET CRYPTO - Sécuriser ses transactions crypto": 1,
     "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi": 1,
-    "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": 0,
-    "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": 0,
+    "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": 1,
+    "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": 1,
     "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": 0,
     "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": 0,
     "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics": 0,
@@ -3249,8 +3255,12 @@
     "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi": [
       "🚀 DeFi 2025: Les tendances CHOC que personne ne vous dit encore !"
     ],
-    "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": [],
-    "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": [],
+    "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": [
+      "🔥 Créez votre NFT Ethereum sans coder : Le guide 2025."
+    ],
+    "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": [
+      "🤯 Oubliez la lenteur ! Découvrez les Layer 2 et transformez votre crypto."
+    ],
     "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": [],
     "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": [],
     "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics": [],
