@@ -425,7 +425,9 @@
     "37347e06c36f8ee1599de64fd25e1a8bd6f570d5",
     "248ddf97bd4f928a38534c2ad1b7532c51130d88",
     "57072184f06ee9ab27ed770f52748f9e4b18e4be",
-    "8e563949c93a442def219a5d354e1f68c2cbe724"
+    "8e563949c93a442def219a5d354e1f68c2cbe724",
+    "54e2eb64993738d2ae561365708db98a263d59a3",
+    "d83f21a9b839f771c9a9386240c100cef4f3e1b2"
   ],
   "days": {
     "2026-04-05": [
@@ -1251,9 +1253,13 @@
     "2026-11-25": [
       "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum",
       "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2"
+    ],
+    "2026-11-26": [
+      "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts",
+      "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts"
     ]
   },
-  "cat_index": 426,
+  "cat_index": 428,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1680,8 +1686,8 @@
     "BLOCKCHAIN ET CRYPTO - Analyse des tendances DeFi": 1,
     "BLOCKCHAIN ET CRYPTO - Créer un token NFT sur Ethereum": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": 1,
-    "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": 0,
-    "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": 0,
+    "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": 1,
+    "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics": 0,
     "BLOCKCHAIN ET CRYPTO - Utiliser les stablecoins pour trading": 0,
     "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": 0,
@@ -3261,8 +3267,12 @@
     "BLOCKCHAIN ET CRYPTO - Comprendre les protocoles Layer 2": [
       "🤯 Oubliez la lenteur ! Découvrez les Layer 2 et transformez votre crypto."
     ],
-    "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": [],
-    "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": [],
+    "BLOCKCHAIN ET CRYPTO - Automatiser des transactions avec scripts": [
+      "🚀 Ne tradez plus : L'automatisation crypto par scripts !"
+    ],
+    "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": [
+      "🚨 Votre crypto est-elle à l'abri ? Audit Smart Contract : Le guide 2025"
+    ],
     "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics": [],
     "BLOCKCHAIN ET CRYPTO - Utiliser les stablecoins pour trading": [],
     "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": [],
