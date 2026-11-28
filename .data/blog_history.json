@@ -429,7 +429,9 @@
     "54e2eb64993738d2ae561365708db98a263d59a3",
     "d83f21a9b839f771c9a9386240c100cef4f3e1b2",
     "f10decacce5c2430038b9d993b4fc038445b2d40",
-    "46826094b42eef4e586702fa39ad97b43e86f47c"
+    "46826094b42eef4e586702fa39ad97b43e86f47c",
+    "05c659285010eb769b8267b0f7975d5d546046e8",
+    "385b810c6d27617204ad2412e145262aec52efb3"
   ],
   "days": {
     "2026-04-05": [
@@ -1263,9 +1265,13 @@
     "2026-11-27": [
       "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics",
       "BLOCKCHAIN ET CRYPTO - Utiliser les stablecoins pour trading"
+    ],
+    "2026-11-28": [
+      "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware",
+      "CYBERCRIMINALITÉ & ENQUÊTES - Étudier un phishing réel"
     ]
   },
-  "cat_index": 430,
+  "cat_index": 432,
   "category_loops": {
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Comment protéger un compte Facebook contre le piratage": 1,
     "SÉCURITÉ INFORMATIQUE ET PROTECTION DES DONNÉES - Reconnaître et éviter les fausses pages Facebook (phishing)": 1,
@@ -1696,8 +1702,8 @@
     "BLOCKCHAIN ET CRYPTO - Sécurité et audits smart contracts": 1,
     "BLOCKCHAIN ET CRYPTO - Comprendre la tokenomics": 1,
     "BLOCKCHAIN ET CRYPTO - Utiliser les stablecoins pour trading": 1,
-    "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": 0,
-    "CYBERCRIMINALITÉ & ENQUÊTES - Étudier un phishing réel": 0,
+    "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": 1,
+    "CYBERCRIMINALITÉ & ENQUÊTES - Étudier un phishing réel": 1,
     "CYBERCRIMINALITÉ & ENQUÊTES - Détecter une fraude bancaire en ligne": 0,
     "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre les botnets": 0,
     "CYBERCRIMINALITÉ & ENQUÊTES - Identifier une attaque par cheval de Troie": 0,
@@ -3285,8 +3291,12 @@
     "BLOCKCHAIN ET CRYPTO - Utiliser les stablecoins pour trading": [
       "🚀 Stablecoins: Le secret des traders pro pour maximiser vos gains !"
     ],
-    "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": [],
-    "CYBERCRIMINALITÉ & ENQUÊTES - Étudier un phishing réel": [],
+    "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre le fonctionnement d’un ransomware": [
+      "🕵️ Ransomware : Le secret de leurs attaques enfin révélé !"
+    ],
+    "CYBERCRIMINALITÉ & ENQUÊTES - Étudier un phishing réel": [
+      "🚨 Phishing Réel : Plongez au Cœur d'une Cyberattaque !"
+    ],
     "CYBERCRIMINALITÉ & ENQUÊTES - Détecter une fraude bancaire en ligne": [],
     "CYBERCRIMINALITÉ & ENQUÊTES - Comprendre les botnets": [],
     "CYBERCRIMINALITÉ & ENQUÊTES - Identifier une attaque par cheval de Troie": [],
